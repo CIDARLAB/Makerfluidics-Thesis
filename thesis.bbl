@@ -90,6 +90,11 @@ Debreuve, E., Barlaud, M., Aubert, G., Laurette, I., and Darcourt, J. (2001).
   myocardial gated {SPECT}.
 \newblock {\em IEEE Trans.\ Med.\ Imag.}, 20(7):643--659.
 
+\bibitem[Duffy et~al., 1998]{duffy1998}
+Duffy, D.~C., McDonald, J.~C., Schueller, O.~J., and Whitesides, G.~M. (1998).
+\newblock Rapid prototyping of microfluidic systems in poly (dimethylsiloxane).
+\newblock {\em Analytical chemistry}, 70(23):4974--4984.
+
 \bibitem[Duncan et~al., 2015]{duncan2015scaling}
 Duncan, P.~N., Ahrar, S., and Hui, E.~E. (2015).
 \newblock Scaling of pneumatic digital logic circuits.
@@ -393,6 +398,12 @@ Shields~IV, C.~W., Reyes, C.~D., and L{\'o}pez, G.~P. (2015).
   of cells from debulking to rare cell isolation.
 \newblock {\em Lab on a Chip}, 15(5):1230--1249.
 
+\bibitem[Sia and Whitesides, 2003]{sia2003}
+Sia, S.~K. and Whitesides, G.~M. (2003).
+\newblock Microfluidic devices fabricated in poly (dimethylsiloxane) for
+  biological studies.
+\newblock {\em Electrophoresis}, 24(21):3563--3576.
+
 \bibitem[Silva et~al., ]{silva2016iwbda}
 Silva, R., Sanka, R., and Densmore, D.
 \newblock Makerfluidics: Microfluidics for the masses.
@@ -466,6 +477,11 @@ Wang, H., Ritter, T., Cao, W., and Shung, K.~K. (2001).
   transducers.
 \newblock {\em IEEE transactions on ultrasonics, ferroelectrics, and frequency
   control}, 48(1):78--84.
+
+\bibitem[Weibel et~al., 2007]{weibel2007}
+Weibel, D.~B., DiLuzio, W.~R., and Whitesides, G.~M. (2007).
+\newblock Microfabrication meets microbiology.
+\newblock {\em Nature Reviews Microbiology}, 5(3):209--218.
 
 \bibitem[Whitesides, 2006]{whitesides2006}
 Whitesides, G.~M. (2006).

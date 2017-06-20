@@ -22,45 +22,45 @@ I'm skipping whatever remains of this entry
 Warning--there's a number but no volume in kleeman1987metastable
 Warning--empty year in silva2016iwbda
 Warning--can't use both volume and number fields in todman2005reconfigurable
-You've used 86 entries,
+You've used 89 entries,
             1935 wiz_defined-function locations,
-            983 strings with 19761 characters,
-and the built_in function-call counts, 38200 in all, are:
-= -- 3804
-> -- 1641
-< -- 54
-+ -- 574
-- -- 558
-* -- 3388
-:= -- 6485
-add.period$ -- 268
-call.type$ -- 86
-change.case$ -- 704
-chr.to.int$ -- 86
-cite$ -- 89
-duplicate$ -- 1375
-empty$ -- 2634
-format.name$ -- 689
-if$ -- 7510
+            997 strings with 20218 characters,
+and the built_in function-call counts, 39529 in all, are:
+= -- 3938
+> -- 1695
+< -- 55
++ -- 592
+- -- 576
+* -- 3515
+:= -- 6711
+add.period$ -- 277
+call.type$ -- 89
+change.case$ -- 728
+chr.to.int$ -- 89
+cite$ -- 92
+duplicate$ -- 1417
+empty$ -- 2728
+format.name$ -- 712
+if$ -- 7766
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 89
-newline$ -- 432
-num.names$ -- 258
-pop$ -- 605
+missing$ -- 92
+newline$ -- 447
+num.names$ -- 267
+pop$ -- 622
 preamble$ -- 1
-purify$ -- 707
+purify$ -- 731
 quote$ -- 0
-skip$ -- 1035
+skip$ -- 1066
 stack$ -- 0
-substring$ -- 2929
-swap$ -- 210
+substring$ -- 3052
+swap$ -- 213
 text.length$ -- 19
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 506
+type$ -- 524
 warning$ -- 3
-while$ -- 332
+while$ -- 344
 width$ -- 0
-write$ -- 1128
+write$ -- 1167
 (There were 3 error messages)

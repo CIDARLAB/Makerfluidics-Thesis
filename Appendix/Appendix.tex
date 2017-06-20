@@ -1,5 +1,100 @@
-\chapter{Proof of xyz}
+\chapter{Othermill Standard Operating Procedure}
 \label{appendix}
 \thispagestyle{myheadings}
 
-This is the appendix.
+\begin{enumerate}
+	\item \textbf{Purpose:} The purpose of this document is to provide a detailed set of instructions to operate the Othermill, for microfluidic device and prototyping.
+	\item \textbf{Scope:} Operating Othermill and required programs in preparation for rapid prototyping of microfluidic devices.
+	\item \textbf{Responsibilities:} Includes any trained personnel attempting to rapid prototype parts using the Othermill and software required for operation.
+	\item \textbf{Reference Documents:} 
+		\begin{enumerate}
+			\item Othermill Manufacturer's Instruction Manual
+			\item Othermill Feeds and Speeds Database
+		\end{enumerate}
+	\item \textbf{Definitions:}
+		\begin{enumerate}
+			\item CAM -- Computer-Aided Manufacturing
+			\item CAD -- Computer-Aided Design
+		\end{enumerate}
+	\item \textbf{Equipment and Materials:} 
+		\begin{enumerate}
+			\item Othermill Pro
+			\item Computer/Laptop
+			\item Otherplan Software
+			\item Fusion 360 CAM Software
+			\item Material Stock
+			\item End Mills and Drill Bits
+		\end{enumerate}
+	\item \textbf{Procedure}
+		\begin{enumerate}
+			\item Upon completion of CAD model in OpenSCAD, save the CAD model as a .STL file.
+			\item Open Autodesk Fusion 360 software and import the .STL file by clicking on the ``Insert'' drop down menu and selecting ``New Design From File''.
+			\item Once the file is imported, click on the “MODEL” drop down menu and select the “CAM” option.	
+			\item From the “SETUP” drop down menu, select “New Setup”.
+			\item On the “SETUP” pop-up window, change the “Orientation” to “Select Z axis/plane \& X axis”.
+			\item Select the appropriate Z Axis, so that the Z Axis runs perpendicular to the surface being milled, the positive direction of the Z Axis should be pointing from the bottom to the top surface of the part.
+			\item The X Axis should be selected to be orientated left to right, when looking down on the top milling surface.  
+			\item The origin should be selected as the X, Y coordinate (0,0), and the highest selectable point along the Z Axis.
+			\item Select the “Stock” tab within the “Setup” pop-up and change the “Stock Top Offset” to 0 mm. 
+			\item From the “2D” drop down menu select the appropriate milling function for the cut, “2D Pocket” is for partial depth milling, and “2D Contour” is for through cut milling.
+			\item For “2D Pocket”:
+				\begin{enumerate}
+					\item Select appropriate tool for the cut being programmed from the “2D Pocket” pop-up screen, and make sure to change the “Coolant” to “Disabled”.
+					\item Put the appropriate tool feeds and speeds from the Othermill Feeds and Speeds Database.
+					\item Select the “Geometry” tab on the “2D Pocket” pop-up window, once this screen is active select the appropriate contours to be milled.
+					\item Select the “Heights” tab on the “2D Pocket” pop-up window, on the “Top Height” option, change the “From” drop down to “Model Top”, then the “Bottom Height” option should read “Selected contour(s)”.
+					\item Select the “Passes” tab on the “2D Pocket” pop-up window, under the “Passes” option, change the “Sideways Compensations” to “Right (conventional milling)”.  The “Maximum Stepover” should be changed to 10\% the diameter of the tool being used.
+					\item Uncheck the “Stock to Leave” option.
+					\item Check the “Multiple Depths” option, and change the “Maximum Roughing Stepdown” to the value present in the Othermill Feeds and Speeds Database.
+				\end{enumerate}
+			\item For “2D Contour”.
+				\begin{enumerate}
+					\item Select appropriate tool for the cut being programmed from the “2D Contour” pop-up screen, and make sure to change the “Coolant” to “Disabled”.
+				        \item Put the appropriate tool feeds and speeds from the Othermill Feeds and Speeds Databse.
+				        \item Select the “Geometry” tab on the “2D Contour” pop-up window, once this screen is active, select the appropriate contours to be milled.
+				        \item Select the “Heights” tab on the “2D Contour” pop-up window, on the “Top Height” option change the “From” drop down to “Model Top”, then the “Bottom Height” option should be changed to “Model Bottom”.
+				        \item Select the “Passes” tab on the “2D Contour” pop-up window, under the “Passes” option, change the “Sideways Compensations” to “Right (conventional milling)”.
+				        \item Make sure “Stock to Leave” is unchecked.
+					\item Check the “Multiple Depths” option, and change the “Maximum Roughing Stepdown” to the value present in the Othermill Feeds and Speeds Database.
+				\end{enumerate}
+			\item Once the tool paths were completed, a height test tool path should be performed.
+				\begin{enumerate}
+					\item Using the “2D Contour” protocol, select the outline contour of the part being milled.
+				        \item From the “Heights” tab on the “2D Contour” pop-up, the “Top Height” and “Bottom Height” option should be both set to “Model Top”.
+				\end{enumerate}
+			\item Under the “ACTIONS” tab, select “Simulate” and confirm tool paths are viable and that no errors occur.
+			\item Once simulations show feasibility, select the “Post Process” option under “ACTIONS”.
+				\begin{enumerate}
+					\item Save each tool path as its own respective .gcode file.
+					\item Typical naming structure follows this structure
+					\begin{enumerate}
+						\item NContour/Pocket/FaceTool, where N is the ordered number of the tool path, Contour/Pocket/Face is the type of milling, and Tool is the type of end mill or drill bit being used.
+					\end{enumerate}
+			\end{enumerate}
+		\item Connect the Othermill to a computer/laptop containing Otherplan software. 
+		\item Turn on the Othermill via the power switch located on the back of the system.
+		\item Open the Otherplan software.
+			\begin{enumerate}
+		\item Home the system by selecting “Home”.
+		\item Move the spoilboard to loading position by pressing the “Loading” button, this will make it easier to place new material on the spoilboard.
+			\begin{enumerate}
+				\item Secure the material to the spoilboard by placing strips of 3M 1” wide, rubber polypropylene film tape along the left edge, center, and right edge (if required) of the material.
+				\item Be sure to press down on material to ensure it properly adheres to the double sided tape.
+			\end{enumerate}
+		\item Select the “Open Files…” option located on the right side of the screen.
+		\item Select all appropriate .gcode files required to mill the part.
+		\item Assign proper tools for each milling step.  
+		\item Set the tool required for the current step by pressing the “Change…” button, and select the proper tool.
+			\begin{enumerate}
+				\item The system will then be required to establish the proper tool height.  After pressing “Continue…”, make sure the tool will not come in contact with the material by moving the head with the position buttons located on the left side of the “Verify tool position” pop-up window.  Once the tool head is properly positioned, press the “Locate Tool…” button.
+			\end{enumerate}
+		\item Set the correct material size by changing the “Width (X)”, “Height (Y)”, and “Thickness (Z)” settings in mm.  
+			\begin{enumerate}
+				\item NOTE: Add 0.2 mm to the “Thickness (Z)” setting to account for the thickness of the double sided tape.
+			\end{enumerate}
+		\item Run the “XXHeightToolXX” .gcode file, if the tool does not mill the material adjust the material thickness in the material size settings by decreasing in increments of 200 microns until the “XXHeightToolXX” .gcode file comes in contact with the material.
+		\item Once the material thickness is established, select the “Placement” option for each of the Contour cuts and change the “Z” value to 0.20mm instead of 0.00mm to prevent the tool from contacting the double sided tape or spoilboard.  
+		\item Run each .gcode file by pressing the “Start Milling…” button, you will be prompted to change tools if the required milling tool does not match the current tool listed at the top.
+	\end{enumerate}
+    \end{enumerate}
+\end{enumerate}

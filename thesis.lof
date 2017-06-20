@@ -1,35 +1,36 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2$\cdot $1}{\ignorespaces Specialized equipment required to performform soft lithography}}{11}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3$\cdot $1}{\ignorespaces Specify--Design--Build Workflow}}{10}
-\contentsline {figure}{\numberline {3$\cdot $2}{\ignorespaces Illustration of valving primitive}}{12}
-\contentsline {figure}{\numberline {3$\cdot $3}{\ignorespaces MakerFluidics Fabrication Protocol}}{13}
-\contentsline {figure}{\numberline {3$\cdot $4}{\ignorespaces Valving sequence temporal specification}}{15}
+\contentsline {figure}{\numberline {3$\cdot $1}{\ignorespaces Specify--Design--Build Workflow}}{13}
+\contentsline {figure}{\numberline {3$\cdot $2}{\ignorespaces Illustration of valving primitive}}{15}
+\contentsline {figure}{\numberline {3$\cdot $3}{\ignorespaces MakerFluidics Fabrication Protocol}}{16}
+\contentsline {figure}{\numberline {3$\cdot $4}{\ignorespaces Valving sequence temporal specification}}{18}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4$\cdot $1}{\ignorespaces Transposer theory of operation}}{21}
-\contentsline {figure}{\numberline {4$\cdot $2}{\ignorespaces Functional, physical, and graphical representations of a transposer}}{23}
-\contentsline {figure}{\numberline {4$\cdot $3}{\ignorespaces Microfluidic assembly stack for a transposer}}{24}
-\contentsline {figure}{\numberline {4$\cdot $4}{\ignorespaces Examples of a populated routing fabric}}{26}
-\contentsline {figure}{\numberline {4$\cdot $5}{\ignorespaces Transposer routing algorithmic progression}}{32}
-\contentsline {figure}{\numberline {4$\cdot $6}{\ignorespaces Graphical representations of an illegally routed versus a correctly routed graph}}{33}
-\contentsline {figure}{\numberline {4$\cdot $7}{\ignorespaces Photographs of all possible permutations for a three-input routing fabric}}{38}
-\contentsline {figure}{\numberline {4$\cdot $8}{\ignorespaces Electronic and Microfluidic programmable routing blocks}}{39}
-\contentsline {figure}{\numberline {4$\cdot $9}{\ignorespaces Electronic and Microfludic programmable architectures}}{43}
-\contentsline {figure}{\numberline {4$\cdot $10}{\ignorespaces Example of a functional, programmable microfluidic architecture}}{44}
+\contentsline {figure}{\numberline {4$\cdot $1}{\ignorespaces Transposer theory of operation}}{24}
+\contentsline {figure}{\numberline {4$\cdot $2}{\ignorespaces Functional, physical, and graphical representations of a transposer}}{26}
+\contentsline {figure}{\numberline {4$\cdot $3}{\ignorespaces Microfluidic assembly stack for a transposer}}{27}
+\contentsline {figure}{\numberline {4$\cdot $4}{\ignorespaces Examples of a populated routing fabric}}{29}
+\contentsline {figure}{\numberline {4$\cdot $5}{\ignorespaces Transposer routing algorithmic progression}}{35}
+\contentsline {figure}{\numberline {4$\cdot $6}{\ignorespaces Graphical representations of an illegally routed versus a correctly routed graph}}{36}
+\contentsline {figure}{\numberline {4$\cdot $7}{\ignorespaces Photographs of all possible permutations for a three-input routing fabric}}{41}
+\contentsline {figure}{\numberline {4$\cdot $8}{\ignorespaces Electronic and Microfluidic programmable routing blocks}}{42}
+\contentsline {figure}{\numberline {4$\cdot $9}{\ignorespaces Electronic and Microfludic programmable architectures}}{46}
+\contentsline {figure}{\numberline {4$\cdot $10}{\ignorespaces Example of a functional, programmable microfluidic architecture}}{47}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5$\cdot $1}{\ignorespaces Rapid Prototyping Workflow.\relax }}{48}
-\contentsline {figure}{\numberline {5$\cdot $2}{\ignorespaces Acoustofluidic separation device and 2D geometric definitions}}{50}
-\contentsline {figure}{\numberline {5$\cdot $3}{\ignorespaces Single solid geometry}}{52}
-\contentsline {figure}{\numberline {5$\cdot $4}{\ignorespaces Example layout of multiple device designs}}{53}
-\contentsline {figure}{\numberline {5$\cdot $5}{\ignorespaces Pixel grayscale values across the width of the fluidic channel}}{58}
-\contentsline {figure}{\numberline {5$\cdot $6}{\ignorespaces Microscope images at resonant frequency for increasing power levels}}{59}
-\contentsline {figure}{\numberline {5$\cdot $7}{\ignorespaces Render of the experimental setup including custom stage, piezoelectric transducer and microfluidic chip.\relax }}{62}
-\contentsline {figure}{\numberline {5$\cdot $8}{\ignorespaces Algorithmic progression for calculating prominence and peak width at the point of half-prominence\relax }}{67}
-\contentsline {figure}{\numberline {5$\cdot $9}{\ignorespaces Results of initial seeding of design space}}{70}
-\contentsline {figure}{\numberline {5$\cdot $10}{\ignorespaces Performance Comparison of Channel Height Study using Image Analysis}}{72}
-\contentsline {figure}{\numberline {5$\cdot $11}{\ignorespaces Performance Comparison Versus Baseline using Image Analysis}}{73}
-\contentsline {figure}{\numberline {5$\cdot $12}{\ignorespaces Separation Performance Comparison Versus Baseline}}{75}
+\contentsline {figure}{\numberline {5$\cdot $1}{\ignorespaces Rapid Prototyping Workflow.\relax }}{51}
+\contentsline {figure}{\numberline {5$\cdot $2}{\ignorespaces Acoustofluidic separation device and 2D geometric definitions}}{53}
+\contentsline {figure}{\numberline {5$\cdot $3}{\ignorespaces Single solid geometry}}{55}
+\contentsline {figure}{\numberline {5$\cdot $4}{\ignorespaces Example layout of multiple device designs}}{56}
+\contentsline {figure}{\numberline {5$\cdot $5}{\ignorespaces Pixel grayscale values across the width of the fluidic channel}}{61}
+\contentsline {figure}{\numberline {5$\cdot $6}{\ignorespaces Microscope images at resonant frequency for increasing power levels}}{62}
+\contentsline {figure}{\numberline {5$\cdot $7}{\ignorespaces Render of the experimental setup including custom stage, piezoelectric transducer and microfluidic chip.\relax }}{65}
+\contentsline {figure}{\numberline {5$\cdot $8}{\ignorespaces Algorithmic progression for calculating prominence and peak width at the point of half-prominence\relax }}{70}
+\contentsline {figure}{\numberline {5$\cdot $9}{\ignorespaces Results of initial seeding of design space}}{73}
+\contentsline {figure}{\numberline {5$\cdot $10}{\ignorespaces Performance Comparison of Channel Height Study using Image Analysis}}{75}
+\contentsline {figure}{\numberline {5$\cdot $11}{\ignorespaces Performance Comparison Versus Baseline using Image Analysis}}{76}
+\contentsline {figure}{\numberline {5$\cdot $12}{\ignorespaces Separation Performance Comparison Versus Baseline}}{78}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {6$\cdot $1}{\ignorespaces Assignment of single-view intensities to RGB components: (a) view \#1; and (b) view \#2. \relax }}{77}
+\contentsline {figure}{\numberline {6$\cdot $1}{\ignorespaces Assignment of single-view intensities to RGB components: (a) view \#1; and (b) view \#2. \relax }}{80}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

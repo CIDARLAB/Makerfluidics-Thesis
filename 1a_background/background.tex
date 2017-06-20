@@ -2,13 +2,21 @@
 \label{chapter:background}
 \thispagestyle{myheadings}
 
+\graphicspath{{1a_background/Figures/}}
+
 \section{Microfluidic Design-to-Device Workflows}
 \label{sec:backgroundMF}
 
-Managing complexity is a necessary craft in that it allows the engineer to design complicated systems without becoming overwhelmed by details. The art of managing complexity in digital electronics design is  a mature process relative to that found in microfluidics. This is evident by the existence of larger scales of integration \emph{in silico}, such as VLSI, and by microfluidic efforts to create tools that mirror the design-to-execution workflow found in electronic computing. Examples of such tools are Micado, for automation of control layer routing \cite{amin2009}, and BioStream \cite{thies2008}, which could serve as the cornerstone of true experimental automation and will be described in the subsequent section. It could serve as a useful exercise to review the methodology computer engineers use to manage complexity and then contrast these principles with the current state of microfluidic design. There are few better places to find fundamental digital design practices than in introductory textbooks, which list five key components involved with properly managing complexity: abstraction, discipline, hierarchy, modularity and regularity \cite{Harris+Harris}.
+Managing complexity is a necessary craft in that it allows the engineer to design complicated systems without becoming overwhelmed by details. The art of managing complexity in digital electronics design is  a mature process relative to that found in microfluidics. This is evident by the existence of larger scales of integration \emph{in silico}, such as VLSI, and by microfluidic efforts to create tools that mirror the design-to-execution workflow found in electronic computing. Examples of such tools are Micado, for automation of control layer routing \cite{amin2009}, and BioStream \cite{thies2008}, which could serve as the cornerstone of true experimental automation and will be described in the subsequent section. It could serve as a useful exercise to review the methodology computer engineers use to manage complexity and then contrast these principles with the current state of microfluidic design. There are few better places to find fundamental digital design practices than in introductory textbooks, one of which lists abstraction as the most important element of managing complexity \cite{Harris+Harris}.
 
-\subsection{Functional Specification}
-\label{ssec:backgroundSpecify}
+\subsection{Abstraction in Fabrication}
+\label{ssec:backgroundAbsFab}
+
+It is difficult to imagine a computer engineer having to create a VLSI layout and fabricate an ASIC every time they wanted to run a C program. While there will always be a place for custom circuit design in the world of digital electronics, the basic tenants of digital design require that it remain very much the exception rather than the rule. Unfortunately for the experimentalist, this is not the case in the field of microfluidics. The creation of custom, ``one-off'', designs for individual microfluidic experiments, no matter how user-friendly the corresponding CAD software is, could be is what is keeping the productivity of mLSI chips from achieving that of its silicon counterparts. Since Thorsen \emph{et al.} successfully integrated thousands of micromechanical valves in 2002 \cite{thorsen2002}, academic researchers have attempted to manage exponentially greater complexity in microfluidic design via the introduction of new design methodologies that attempt to introduce ``top-down'' specificity and move away from a ``bottom-up'' design philosophy \cite{minhass2013}\cite{melin2007}\cite{minhass2012} yet microfluidic experimentalists still find themselves in front of an oven baking a photoresist until it ceases to be sticky. 
+
+If the goal is true experimental automation, then the expensive and time-consuming fabrication step must be removed from the work flow for the majority case as it is for electronic computation. Often, academic papers delving into the relm of mLSI begin by presenting an analogy between microfluidic LSI and LSI found in digital electronics. This research analogy seems strange as computer engineers can be productive using programmable tools (e.g., personal computers, Field Programmable Gate Arrays (FPGA), etc.) without having to know how to wash chemical from printed circuit boards (PCBs), use CAD tools to layout application specific integrated circuits (ASICs), or enlist the aid of experts in fabrication who can. Thus, the \emph{in silico} analogy does not hold when applied to the common-use case: that of the individual scientist or engineer.
+
+Chapter \ref{chapter:xposer} outlines a novel primitive for continuous-flow microfluidics aimed at unlocking elements of programmability in continuous-flow devices. It analyzes and solves microfluidic design challenges using tools for automated design and control, ultimately providing a solution that would allow the microfluidic experimentalist to be one step closer to realizing the productivity potential of true large-scale integration. 
 
 \subsection{Microfluidic Design Tools}
 \label{ssec:DesignTools}
@@ -22,9 +30,23 @@ Even attempts to create some framework for flow-based microfluidic design, such 
 fabrication.
 
 
-\subsection{Microfluidic Fabrication Techniques}
+\subsection{Microfluidic Fabrication Using Soft Lithography}
 
-\section{Continuous-Flow Microfluidic Routing Paradigm}
+\textbf{EDIT THIS: IT'S FROM CASSIE'S THESIS}
+Soft lithography was adopted as the traditional method of fabricating microfluidics based on the success photolithography demonstrated in fabricating microelectronics \cite{whitesides2006}. microfluidics based on the Microfluidic chips are fabricated from PDMS through soft lithography. As many detailed reviews of the process exist \cite{duffy1998}\cite{sia2003}\cite{weibel2007}, I will only provide a brief description. Photoresist (typically SU-8) is spun out over a substrate of silicon, and a transparency with the chip design is placed over it as a mask. The sandwich of mask, photoresist, and substrate is then exposed to UV light. The mask is removed, and the photoresist washed in developing agent to obtain the master mold. PDMS layers are cast from the master through replica molding. The channels are then sealed against a substrate suitable for imaging and connected to input and control structures. A summary of the process is shown in Figure 2·2A. The entire fabrication process, from the creation of the photomask to the molding of the chip, takes no more than a few days including the turnaround time for printing the photomask. This process does require the experimenter to have access to a high quality cleanroom and purchase specialized fabrication equipment for soft lithography (Elveflow, 2015), or else contract out the fabrication process to a dedicated microfluidic foundry.
+\textbf{STOP}
+
+\begin{figure}[h]
+  \begin{minipage}[t]{0.75\linewidth}\centering
+    \includegraphics[width=14cm]{equipSoftLith.pdf}
+    \medskip
+  \end{minipage}\hfill
+  \caption[Specialized equipment required to performform soft lithography]{Microfluidic fabrication via multi-layer soft lithography requires about \$80,000 in specialized equipment, not accounting for infrastructure, personnel, maintenance, or training. Cost estimates based on company quotes.}
+    \label{fig:equipSoftLith}
+\end{figure}
+
+
+\section{Continuous-Flow Microfluidic Routing}
 \label{sec:backgroundCFRouting}
 
 It is difficult to imagine a computer engineer having to create a VLSI layout and fabricate an ASIC every time they wanted to run a C program. While there will always be a place for custom circuit design in the world of digital electronics, the basic tenants of digital design require that it remain very much the exception rather than the rule. Unfortunately for the experimentalist, this is not the case in the field of microfluidics. The creation of custom, ``one-off'', designs for individual microfluidic experiments, no matter how user-friendly the corresponding CAD software is, could be is what is keeping the productivity of mLSI chips from achieving that of its silicon counterparts. Since Thorsen \emph{et al.} successfully integrated thousands of micromechanical valves in 2002 \cite{thorsen2002}, academic researchers have attempted to manage exponentially greater complexity in microfluidic design via the introduction of new design methodologies that attempt to introduce ``top-down'' specificity and move away from a ``bottom-up'' design philosophy \cite{minhass2013}\cite{melin2007}\cite{minhass2012} yet microfluidic experimentalists still find themselves in front of an oven baking a photoresist until it ceases to be sticky. If the goal is true experimental automation, then the expensive and time-consuming fabrication step must be removed from the work flow for the majority case as it is for electronic computation. Often, academic papers delving into the relm of mLSI begin by presenting an analogy between microfluidic LSI and LSI found in digital electronics. This analogy seems strange as computer engineers can be productive without having to know how to wash chemical from printed circuit boards (PCBs), use CAD tools to layout application specific integrated circuits (ASICs), or enlist the aid of experts in fabrication who can. Thus, the \emph{in silico} analogy does not hold when applied to the common-use case: that of the individual scientist or engineer. Why is that? This paper will provide a possible answer via a historical analysis of the emergence of digital electronics design and highlight instances where microfluidics deviated, resulting in the current design topology seen today. It will also analyze various attempts to rectify microfluidic design challenges using various computer-aided tools and possibly provide the missing element that would allow the microfluidic experimentalist to be one step closer to realizing the productivity potential of true large-scale integration. 
