@@ -1,0 +1,1018 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  20 JUN 2017 12:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**thesis.tex
+(./thesis.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks15
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/bibtex/apalike.sty
+\bibhang=\skip46
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count100
+\float@exts=\toks19
+\float@box=\box28
+\@float@everytoks=\toks20
+\@floatcapt=\box29
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+\captionmargin=\dimen112
+\captionmargin@=\dimen113
+\captionwidth=\dimen114
+\caption@tempdima=\dimen115
+\caption@indent=\dimen116
+\caption@parindent=\dimen117
+\caption@hangindent=\dimen118
+)
+\c@ContinuedFloat=\count101
+Package caption Info: float package is loaded.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip47
+\f@ncyO@elh=\skip48
+\f@ncyO@erh=\skip49
+\f@ncyO@olh=\skip50
+\f@ncyO@orh=\skip51
+\f@ncyO@elf=\skip52
+\f@ncyO@erf=\skip53
+\f@ncyO@olf=\skip54
+\f@ncyO@orf=\skip55
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/fancybox/fancybox.sty
+Package: fancybox 2010/05/15 1.4
+
+Style option: `fancybox' v1.4 <2010/05/15> (tvz)
+\@fancybox=\box30
+\shadowsize=\dimen119
+\@Sbox=\box31
+\do@VerbBox=\toks22
+\the@fancyput=\toks23
+\this@fancyput=\toks24
+\EndVerbatimTokens=\toks25
+\Verbatim@Outfile=\write3
+\Verbatim@Infile=\read1
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(./bu_ece_thesis.sty
+(/usr/local/texlive/2014/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+\degree=\count102
+\numadvisors=\count103
+\@approvalreader=\box32
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count104
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 1995/10/27 v1.08 After-Page Package (DPC)
+\AP@output=\toks26
+\AP@partial=\box33
+\AP@footins=\box34
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(/usr/local/texlive/2014/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count105
+\sf@farskip=\skip56
+\sf@captopadj=\dimen120
+\sf@capskip=\skip57
+\sf@nearskip=\skip58
+\c@subfigure=\count106
+\c@subfigure@save=\count107
+\c@lofdepth=\count108
+\c@subtable=\count109
+\c@subtable@save=\count110
+\c@lotdepth=\count111
+\sf@top=\skip59
+\sf@bottom=\skip60
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2013/01/06 v5.00 algorithms environments
+\c@AlgoLine=\count112
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+********************************************************
+Package `algorithm2e' Release 5.0 -- january 06 2013 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (cfiorio@um2.fr)
+********************************************************
+\skiptotal=\skip61
+\skiplinenumber=\skip62
+\skiprule=\skip63
+\skiphlne=\skip64
+\skiptext=\skip65
+\skiplength=\skip66
+\algomargin=\skip67
+\skipalgocfslide=\skip68
+\algowidth=\dimen121
+\inoutsize=\dimen122
+\inoutindent=\dimen123
+\interspacetitleruled=\dimen124
+\interspacealgoruled=\dimen125
+\interspacetitleboxruled=\dimen126
+\algocf@inoutbox=\box35
+\algocf@inputbox=\box36
+\AlCapSkip=\skip69
+\AlCapHSkip=\skip70
+\algoskipindent=\skip71
+\algocf@nlbox=\box37
+\algocf@hangingbox=\box38
+\algocf@untilbox=\box39
+\algocf@skipuntil=\skip72
+\algocf@capbox=\box40
+\algoheightruledefault=\skip73
+\algoheightrule=\skip74
+\algotitleheightruledefault=\skip75
+\algotitleheightrule=\skip76
+\c@algocfline=\count113
+\c@algocfproc=\count114
+\c@algocf=\count115
+\algocf@algoframe=\box41
+\algocf@algobox=\box42
+) (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count116
+\lst@gtempboxa=\box43
+\lst@token=\toks27
+\lst@length=\count117
+\lst@currlwidth=\dimen127
+\lst@column=\count118
+\lst@pos=\count119
+\lst@lostspace=\dimen128
+\lst@width=\dimen129
+\lst@newlines=\count120
+\lst@lineno=\count121
+\lst@maxwidth=\dimen130
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count122
+\lst@skipnumbers=\count123
+\lst@framebox=\box44
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen131
+\Gin@req@width=\dimen132
+)
+(/usr/local/texlive/2014/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count124
+\c@@ppsavesec=\count125
+\c@@ppsaveapp=\count126
+)
+(./thesis.aux (./0_Prelim/cv.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count127
+\scratchdimen=\dimen133
+\scratchbox=\box45
+\nofMPsegments=\count128
+\nofMParguments=\count129
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count130
+\MPscratchDim=\dimen134
+\MPnumerator=\count131
+\makeMPintoPDFobject=\count132
+\everyMPtoPDFconversion=\toks29
+)
+\c@lstlisting=\count133
+ (./0_Prelim/prelim.tex [1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 81.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 81.
+
+Underfull \hbox (badness 6220) in paragraph at lines 81--81
+\OT1/cmr/m/n/14.4 All rights re-served Chap-ter 4[]
+ []
+
+[2
+
+] [3
+
+] (./0_Prelim/quote.tex) [4
+
+] (./0_Prelim/ack.tex) [5
+
+]
+Overfull \hbox (5.99188pt too wide) in paragraph at lines 109--109
+ [][] 
+ []
+
+(./0_Prelim/abs.tex [6
+
+]) [7] (./thesis.toc
+LaTeX Font Info:    Try loading font information for U+msa on input line 3.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 3.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [8
+
+
+] [9])
+\tf@toc=\write4
+\openout4 = `thesis.toc'.
+
+
+[10] (./thesis.lot)
+\tf@lot=\write5
+\openout5 = `thesis.lot'.
+
+ [11
+
+
+] (./thesis.lof
+Overfull \hbox (2.31583pt too wide) in paragraph at lines 14--14
+ [][] []\OT1/cmr/m/n/12 Graphical rep-re-sen-ta-tions of an il-le-gally routed 
+ver-sus a cor-rectly routed 
+ []
+
+[12
+
+
+])
+\tf@lof=\write6
+\openout6 = `thesis.lof'.
+
+ [13]
+Overfull \hbox (39.17992pt too wide) in paragraph at lines 134--145
+ [] 
+ []
+
+[14
+
+
+]) (./1_Intro/intro.tex
+Chapter 1.
+[1
+
+
+
+] [2]) [3] (./1a_background/background.tex
+Chapter 2.
+[4
+
+
+] [5] [6] [7]) [8] (./2_MakerFluidics/makerfluidics.tex
+Chapter 3.
+<2_MakerFluidics/Figures/fullflow.pdf, id=79, 740.7675pt x 647.41875pt>
+File: 2_MakerFluidics/Figures/fullflow.pdf Graphic file (type pdf)
+
+<use 2_MakerFluidics/Figures/fullflow.pdf>
+Package pdftex.def Info: 2_MakerFluidics/Figures/fullflow.pdf used on input lin
+e 21.
+(pdftex.def)             Requested size: 398.33858pt x 348.14873pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9
+
+
+] [10 <./2_MakerFluidics/Figures/fullflow.pdf>] [11]
+<2_MakerFluidics/Figures/valves.pdf, id=227, 649.42625pt x 481.8pt>
+File: 2_MakerFluidics/Figures/valves.pdf Graphic file (type pdf)
+
+<use 2_MakerFluidics/Figures/valves.pdf>
+Package pdftex.def Info: 2_MakerFluidics/Figures/valves.pdf used on input line 
+46.
+(pdftex.def)             Requested size: 398.33858pt x 295.52963pt.
+ [12 <./2_MakerFluidics/Figures/valves.pdf>] <2_MakerFluidics/Figures/fabFlow.p
+df, id=253, 700.6175pt x 505.89pt>
+File: 2_MakerFluidics/Figures/fabFlow.pdf Graphic file (type pdf)
+
+<use 2_MakerFluidics/Figures/fabFlow.pdf>
+Package pdftex.def Info: 2_MakerFluidics/Figures/fabFlow.pdf used on input line
+ 57.
+(pdftex.def)             Requested size: 398.33858pt x 287.62695pt.
+ [13 <./2_MakerFluidics/Figures/fabFlow.pdf>]
+<2_MakerFluidics/Figures/sequence.pdf, id=308, 988.69376pt x 783.92876pt>
+File: 2_MakerFluidics/Figures/sequence.pdf Graphic file (type pdf)
+
+<use 2_MakerFluidics/Figures/sequence.pdf>
+Package pdftex.def Info: 2_MakerFluidics/Figures/sequence.pdf used on input lin
+e 74.
+(pdftex.def)             Requested size: 398.33858pt x 315.83868pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [14] [15 <./2_MakerFluidics/Figures/sequence.pdf>] (./3_xposer/xposer.tex
+Chapter 4.
+[16
+
+
+] [17] [18] [19]
+<3_xposer/Figures/fig1.pdf, id=364, 1465.475pt x 398.48875pt>
+File: 3_xposer/Figures/fig1.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig1.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig1.pdf used on input line 43.
+(pdftex.def)             Requested size: 398.33858pt x 108.31088pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20] <3_xposer/Figures/fig2.pdf, id=368, 519.9425pt x 459.7175pt>
+File: 3_xposer/Figures/fig2.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig2.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig2.pdf used on input line 57.
+(pdftex.def)             Requested size: 256.0748pt x 226.41396pt.
+ [21 <./3_xposer/Figures/fig1.pdf>]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<3_xposer/Figures/fig3.pdf, id=404, 614.295pt x 794.97pt>
+File: 3_xposer/Figures/fig3.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig3.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig3.pdf used on input line 66.
+(pdftex.def)             Requested size: 256.0748pt x 331.38629pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[22] [23 <./3_xposer/Figures/fig2.pdf>] [24 <./3_xposer/Figures/fig3.pdf>]
+[25] <3_xposer/Figures/fig4.pdf, id=462, 609.27625pt x 661.47125pt>
+File: 3_xposer/Figures/fig4.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig4.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig4.pdf used on input line 96.
+(pdftex.def)             Requested size: 256.0748pt x 278.0179pt.
+ [26 <./3_xposer/Figures/fig4.pdf>] [27]
+[28] [29] [30] <3_xposer/Figures/fig5.pdf, id=501, 465.74pt x 743.77875pt>
+File: 3_xposer/Figures/fig5.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig5.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig5.pdf used on input line 218.
+(pdftex.def)             Requested size: 170.71652pt x 272.62892pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<3_xposer/Figures/fig6.pdf, id=502, 465.74pt x 498.86375pt>
+File: 3_xposer/Figures/fig6.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig6.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig6.pdf used on input line 227.
+(pdftex.def)             Requested size: 256.0748pt x 274.29218pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[31] [32 <./3_xposer/Figures/fig5.pdf>] [33 <./3_xposer/Figures/fig6.pdf>]
+[34] [35] [36] <3_xposer/Figures/fig7.pdf, id=557, 1480.53125pt x 904.37875pt>
+File: 3_xposer/Figures/fig7.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig7.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig7.pdf used on input line 317.
+(pdftex.def)             Requested size: 426.79134pt x 260.70375pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[37] [38 <./3_xposer/Figures/fig7.pdf>]
+<3_xposer/Figures/fig8.pdf, id=609, 1004.75375pt x 407.5225pt>
+File: 3_xposer/Figures/fig8.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig8.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig8.pdf used on input line 331.
+(pdftex.def)             Requested size: 426.79134pt x 173.09837pt.
+ [39 <./3_xposer/Figures/fig8.pdf>] [40]
+[41] <3_xposer/Figures/fig9.pdf, id=641, 1813.77625pt x 1019.81pt>
+File: 3_xposer/Figures/fig9.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig9.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig9.pdf used on input line 357.
+(pdftex.def)             Requested size: 426.79134pt x 239.9666pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<3_xposer/Figures/fig10.pdf, id=642, 1314.9125pt x 842.14626pt>
+File: 3_xposer/Figures/fig10.pdf Graphic file (type pdf)
+
+<use 3_xposer/Figures/fig10.pdf>
+Package pdftex.def Info: 3_xposer/Figures/fig10.pdf used on input line 367.
+(pdftex.def)             Requested size: 398.33858pt x 255.11305pt.
+ [42]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[43 <./3_xposer/Figures/fig9.pdf>] [44 <./3_xposer/Figures/fig10.pdf>])
+[45] (./4_acoust/acoust.tex
+Chapter 5.
+[46
+
+
+] [47] <4_acoust/Figures/flow.pdf, id=697, 959.585pt x 652.4375pt>
+File: 4_acoust/Figures/flow.pdf Graphic file (type pdf)
+
+<use 4_acoust/Figures/flow.pdf>
+Package pdftex.def Info: 4_acoust/Figures/flow.pdf used on input line 27.
+(pdftex.def)             Requested size: 398.33858pt x 270.83615pt.
+ [48 <./4_acoust/Figures/flow.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+<4_acoust/Figures/chip.pdf, id=724, 618.31pt x 166.6225pt>
+File: 4_acoust/Figures/chip.pdf Graphic file (type pdf)
+
+<use 4_acoust/Figures/chip.pdf>
+Package pdftex.def Info: 4_acoust/Figures/chip.pdf used on input line 46.
+(pdftex.def)             Requested size: 398.33858pt x 107.34737pt.
+
+<4_acoust/Figures/2D.pdf, id=725, 671.50874pt x 251.94125pt>
+File: 4_acoust/Figures/2D.pdf Graphic file (type pdf)
+
+<use 4_acoust/Figures/2D.pdf>
+Package pdftex.def Info: 4_acoust/Figures/2D.pdf used on input line 51.
+(pdftex.def)             Requested size: 398.33858pt x 149.45134pt.
+ [49] [50 <./4_acoust/Figures/chip.pdf> <./4_acoust/Figures/2D.pdf>]
+Overfull \hbox (13.29099pt too wide) in paragraph at lines 69--74
+[]$[]$ 
+ []
+
+<4_acoust/Figures/PaperExampleListing1.png, id=807, 2569.6pt x 1377.145pt>
+File: 4_acoust/Figures/PaperExampleListing1.png Graphic file (type png)
+
+<use 4_acoust/Figures/PaperExampleListing1.png>
+Package pdftex.def Info: 4_acoust/Figures/PaperExampleListing1.png used on inpu
+t line 77.
+(pdftex.def)             Requested size: 398.33858pt x 213.47627pt.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 86.
+
+(/usr/local/texlive/2014/texmf-dist/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 86.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+
+Overfull \hbox (13.29099pt too wide) in paragraph at lines 84--106
+[]$[]$ 
+ []
+
+<4_acoust/Figures/ExampleLayout.png, id=808, 2569.6pt x 1377.145pt>
+File: 4_acoust/Figures/ExampleLayout.png Graphic file (type png)
+
+<use 4_acoust/Figures/ExampleLayout.png>
+Package pdftex.def Info: 4_acoust/Figures/ExampleLayout.png used on input line 
+109.
+(pdftex.def)             Requested size: 398.33858pt x 213.47627pt.
+ [51] [52 <./4_acoust/Figures/PaperExampleListing1.png (PNG copy)>] [53 <./4_ac
+oust/Figures/ExampleLayout.png (PNG copy)>] [54] [55] [56]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no “ in font cmr12!
+ [57]
+<4_acoust/Figures/Baseline3PromFlow.png, id=834, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/Baseline3PromFlow.png Graphic file (type png)
+
+<use 4_acoust/Figures/Baseline3PromFlow.png>
+Package pdftex.def Info: 4_acoust/Figures/Baseline3PromFlow.png used on input l
+ine 177.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/Baseline3PromPower.png, id=835, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/Baseline3PromPower.png Graphic file (type png)
+
+<use 4_acoust/Figures/Baseline3PromPower.png>
+Package pdftex.def Info: 4_acoust/Figures/Baseline3PromPower.png used on input 
+line 182.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/25ul250mWBaseline_3.png, id=836, 1927.2pt x 1084.05pt>
+File: 4_acoust/Figures/25ul250mWBaseline_3.png Graphic file (type png)
+
+<use 4_acoust/Figures/25ul250mWBaseline_3.png>
+Package pdftex.def Info: 4_acoust/Figures/25ul250mWBaseline_3.png used on input
+ line 192.
+(pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
+
+<4_acoust/Figures/25ul500mWBaseline_3.png, id=837, 1927.2pt x 1084.05pt>
+File: 4_acoust/Figures/25ul500mWBaseline_3.png Graphic file (type png)
+
+<use 4_acoust/Figures/25ul500mWBaseline_3.png>
+Package pdftex.def Info: 4_acoust/Figures/25ul500mWBaseline_3.png used on input
+ line 197.
+(pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
+
+<4_acoust/Figures/25ul750mWBaseline_3.png, id=838, 1927.2pt x 1084.05pt>
+File: 4_acoust/Figures/25ul750mWBaseline_3.png Graphic file (type png)
+
+<use 4_acoust/Figures/25ul750mWBaseline_3.png>
+Package pdftex.def Info: 4_acoust/Figures/25ul750mWBaseline_3.png used on input
+ line 202.
+(pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
+
+<4_acoust/Figures/25ul1000mWBaseline_3.png, id=839, 1927.2pt x 1084.05pt>
+File: 4_acoust/Figures/25ul1000mWBaseline_3.png Graphic file (type png)
+
+<use 4_acoust/Figures/25ul1000mWBaseline_3.png>
+Package pdftex.def Info: 4_acoust/Figures/25ul1000mWBaseline_3.png used on inpu
+t line 207.
+(pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--211
+
+ []
+
+[58 <./4_acoust/Figures/Baseline3PromFlow.png (PNG copy)> <./4_acoust/Figures/B
+aseline3PromPower.png (PNG copy)>] [59 <./4_acoust/Figures/25ul250mWBaseline_3.
+png (PNG copy)> <./4_acoust/Figures/25ul500mWBaseline_3.png (PNG copy)> <./4_ac
+oust/Figures/25ul750mWBaseline_3.png (PNG copy)> <./4_acoust/Figures/25ul1000mW
+Baseline_3.png (PNG copy)>] [60]
+Package epstopdf Info: Source file: <4_acoust/Figures/example.eps>
+(epstopdf)                    date: 2017-01-30 13:04:52
+(epstopdf)                    size: 286 bytes
+(epstopdf)             Output file: <4_acoust/Figures/example-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2017-02-09 13:19:13
+(epstopdf)                    size: 2431 bytes
+(epstopdf)             Command: <repstopdf --outfile=4_acoust/Figures/example-e
+ps-converted-to.pdf 4_acoust/Figures/example.eps>
+(epstopdf)             \includegraphics on input line 243.
+Package epstopdf Info: Output file is already uptodate.
+
+<4_acoust/Figures/example-eps-converted-to.pdf, id=850, 202.7575pt x 202.7575pt
+>
+File: 4_acoust/Figures/example-eps-converted-to.pdf Graphic file (type pdf)
+ <use 4_acoust/Figures/example-eps-converted-to.pdf>
+Package pdftex.def Info: 4_acoust/Figures/example-eps-converted-to.pdf used on 
+input line 243.
+(pdftex.def)             Requested size: 341.43306pt x 341.44395pt.
+ [61] [62 <./4_acoust/Figures/example-eps-converted-to.pdf>] [63]
+<4_acoust/Figures/localMax.png, id=863, 722.7pt x 542.025pt>
+File: 4_acoust/Figures/localMax.png Graphic file (type png)
+
+<use 4_acoust/Figures/localMax.png>
+Package pdftex.def Info: 4_acoust/Figures/localMax.png used on input line 384.
+(pdftex.def)             Requested size: 199.16928pt x 149.37575pt.
+
+<4_acoust/Figures/scan.png, id=865, 722.7pt x 542.025pt>
+File: 4_acoust/Figures/scan.png Graphic file (type png)
+
+<use 4_acoust/Figures/scan.png>
+Package pdftex.def Info: 4_acoust/Figures/scan.png used on input line 389.
+(pdftex.def)             Requested size: 199.16928pt x 149.37575pt.
+
+<4_acoust/Figures/calcProm.png, id=866, 722.7pt x 542.025pt>
+File: 4_acoust/Figures/calcProm.png Graphic file (type png)
+
+<use 4_acoust/Figures/calcProm.png>
+Package pdftex.def Info: 4_acoust/Figures/calcProm.png used on input line 394.
+(pdftex.def)             Requested size: 199.16928pt x 149.37575pt.
+
+<4_acoust/Figures/peakWidth.png, id=867, 722.7pt x 542.025pt>
+File: 4_acoust/Figures/peakWidth.png Graphic file (type png)
+
+<use 4_acoust/Figures/peakWidth.png>
+Package pdftex.def Info: 4_acoust/Figures/peakWidth.png used on input line 399.
+
+(pdftex.def)             Requested size: 199.16928pt x 149.37575pt.
+ [64] [65] [66] [67 <./4_acoust/Figures/localMax.png> <./4_acoust/Figures/scan.
+png> <./4_acoust/Figures/calcProm.png> <./4_acoust/Figures/peakWidth.png>] [68]
+Missing character: There is no Â in font cmr12!
+Missing character: There is no ® in font cmr12!
+ [69]
+<4_acoust/Figures/L9.pdf, id=891, 622.325pt x 155.58125pt>
+File: 4_acoust/Figures/L9.pdf Graphic file (type pdf)
+
+<use 4_acoust/Figures/L9.pdf>
+Package pdftex.def Info: 4_acoust/Figures/L9.pdf used on input line 457.
+(pdftex.def)             Requested size: 398.33858pt x 99.58589pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[70 <./4_acoust/Figures/L9.pdf>]
+<4_acoust/Figures/HeightPlot25ul.png, id=910, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/HeightPlot25ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/HeightPlot25ul.png>
+Package pdftex.def Info: 4_acoust/Figures/HeightPlot25ul.png used on input line
+ 518.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/HeightPlot50ul.png, id=911, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/HeightPlot50ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/HeightPlot50ul.png>
+Package pdftex.def Info: 4_acoust/Figures/HeightPlot50ul.png used on input line
+ 523.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/HeightPlot75ul.png, id=912, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/HeightPlot75ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/HeightPlot75ul.png>
+Package pdftex.def Info: 4_acoust/Figures/HeightPlot75ul.png used on input line
+ 528.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+ [71] [72 <./4_acoust/Figures/HeightPlot25ul.png (PNG copy)> <./4_acoust/Figure
+s/HeightPlot50ul.png (PNG copy)> <./4_acoust/Figures/HeightPlot75ul.png (PNG co
+py)>]
+<4_acoust/Figures/ErrorBars25ul.png, id=920, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/ErrorBars25ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/ErrorBars25ul.png>
+Package pdftex.def Info: 4_acoust/Figures/ErrorBars25ul.png used on input line 
+550.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/ErrorBars50ul.png, id=921, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/ErrorBars50ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/ErrorBars50ul.png>
+Package pdftex.def Info: 4_acoust/Figures/ErrorBars50ul.png used on input line 
+555.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/ErrorBars75ul.png, id=922, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/ErrorBars75ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/ErrorBars75ul.png>
+Package pdftex.def Info: 4_acoust/Figures/ErrorBars75ul.png used on input line 
+560.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+ [73 <./4_acoust/Figures/ErrorBars25ul.png (PNG copy)> <./4_acoust/Figures/Erro
+rBars50ul.png (PNG copy)> <./4_acoust/Figures/ErrorBars75ul.png (PNG copy)>]
+<4_acoust/Figures/ErrorBarBloodData25ul.png, id=926, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/ErrorBarBloodData25ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/ErrorBarBloodData25ul.png>
+Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData25ul.png used on inp
+ut line 575.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/ErrorBarBloodData50ul.png, id=927, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/ErrorBarBloodData50ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/ErrorBarBloodData50ul.png>
+Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData50ul.png used on inp
+ut line 580.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/ErrorBarBloodData75ul.png, id=928, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/ErrorBarBloodData75ul.png Graphic file (type png)
+
+<use 4_acoust/Figures/ErrorBarBloodData75ul.png>
+Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData75ul.png used on inp
+ut line 585.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+ [74] [75 <./4_acoust/Figures/ErrorBarBloodData25ul.png (PNG copy)> <./4_acoust
+/Figures/ErrorBarBloodData50ul.png (PNG copy)> <./4_acoust/Figures/ErrorBarBloo
+dData75ul.png (PNG copy)>])
+[76] (./2_Body/body.tex
+Chapter 6.
+Package epstopdf Info: Source file: <2_Body/Figures/figure_sampling_view1.eps>
+(epstopdf)                    date: 2014-02-10 16:21:32
+(epstopdf)                    size: 50161 bytes
+(epstopdf)             Output file: <2_Body/Figures/figure_sampling_view1-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2014-02-10 16:28:20
+(epstopdf)                    size: 51079 bytes
+(epstopdf)             Command: <repstopdf --outfile=2_Body/Figures/figure_samp
+ling_view1-eps-converted-to.pdf 2_Body/Figures/figure_sampling_view1.eps>
+(epstopdf)             \includegraphics on input line 17.
+Package epstopdf Info: Output file is already uptodate.
+
+<2_Body/Figures/figure_sampling_view1-eps-converted-to.pdf, id=938, 400.49625pt
+ x 396.48125pt>
+File: 2_Body/Figures/figure_sampling_view1-eps-converted-to.pdf Graphic file (t
+ype pdf)
+
+<use 2_Body/Figures/figure_sampling_view1-eps-converted-to.pdf>
+Package pdftex.def Info: 2_Body/Figures/figure_sampling_view1-eps-converted-to.
+pdf used on input line 17.
+(pdftex.def)             Requested size: 199.16928pt x 197.17535pt.
+Package epstopdf Info: Source file: <2_Body/Figures/figure_sampling_view2.eps>
+(epstopdf)                    date: 2014-02-10 16:21:32
+(epstopdf)                    size: 50379 bytes
+(epstopdf)             Output file: <2_Body/Figures/figure_sampling_view2-eps-c
+onverted-to.pdf>
+(epstopdf)                    date: 2014-02-10 16:28:22
+(epstopdf)                    size: 51145 bytes
+(epstopdf)             Command: <repstopdf --outfile=2_Body/Figures/figure_samp
+ling_view2-eps-converted-to.pdf 2_Body/Figures/figure_sampling_view2.eps>
+(epstopdf)             \includegraphics on input line 22.
+Package epstopdf Info: Output file is already uptodate.
+
+<2_Body/Figures/figure_sampling_view2-eps-converted-to.pdf, id=939, 400.49625pt
+ x 396.48125pt>
+File: 2_Body/Figures/figure_sampling_view2-eps-converted-to.pdf Graphic file (t
+ype pdf)
+
+<use 2_Body/Figures/figure_sampling_view2-eps-converted-to.pdf>
+Package pdftex.def Info: 2_Body/Figures/figure_sampling_view2-eps-converted-to.
+pdf used on input line 22.
+(pdftex.def)             Requested size: 199.16928pt x 197.17535pt.
+ [77
+
+
+ <./2_Body/Figures/figure_sampling_view1-eps-converted-to.pdf> <./2_Body/Figure
+s/figure_sampling_view2-eps-converted-to.pdf>]) [78
+
+] (./3_Conclusion/conclusion.tex
+Chapter 7.
+) [79
+
+
+] (./Appendix/Appendix.tex
+Appendix A.
+) [80
+
+
+] (./thesis.bbl [81
+
+] [82] [83] [84] [85] [86]) [87]
+\openout2 = `0_Prelim/cv.aux'.
+
+ (./0_Prelim/cv.tex
+Overfull \hbox (71.85046pt too wide) in paragraph at lines 25--39
+ [][] 
+ []
+
+
+Overfull \hbox (74.07684pt too wide) in paragraph at lines 48--55
+ [][] 
+ []
+
+
+Overfull \hbox (74.07684pt too wide) in paragraph at lines 64--72
+ [][] 
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+[88
+
+
+] [89]
+Overfull \hbox (74.07684pt too wide) in paragraph at lines 112--121
+ [][] 
+ []
+
+) [90] (./thesis.aux (./0_Prelim/cv.aux)) ) 
+Here is how much of TeX's memory you used:
+ 7424 strings out of 493117
+ 111662 string characters out of 6135433
+ 231061 words of memory out of 5000000
+ 10651 multiletter control sequences out of 15000+600000
+ 17345 words of font info for 66 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,28n,43p,2589b,1244s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2014/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2014/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2014/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2014/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2014/texmf-dist/font
+s/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2014/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2014/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmss12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmti8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmtt12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/s
+ymbols/msbm10.pfb>
+Output written on thesis.pdf (104 pages, 31297579 bytes).
+PDF statistics:
+ 1063 PDF objects out of 1200 (max. 8388607)
+ 697 compressed objects within 7 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+

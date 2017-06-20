@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+The style file: apalike.bst
+A level-1 auxiliary file: 0_Prelim/cv.aux
+Database file #1: thesis.bib
+Database file #2: mf.bib
+Repeated entry---line 1724 of file mf.bib
+ : @article{teh2008droplet
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1810 of file mf.bib
+ : @article{zhang2006pcr
+ :                      ,
+I'm skipping whatever remains of this entry
+Database file #3: sb.bib
+Database file #4: ece.bib
+Repeated entry---line 79 of file ece.bib
+ : @article{khuri2010response
+ :                           ,
+I'm skipping whatever remains of this entry
+Warning--there's a number but no volume in kleeman1987metastable
+Warning--empty year in silva2016iwbda
+Warning--can't use both volume and number fields in todman2005reconfigurable
+You've used 86 entries,
+            1935 wiz_defined-function locations,
+            983 strings with 19761 characters,
+and the built_in function-call counts, 38200 in all, are:
+= -- 3804
+> -- 1641
+< -- 54
++ -- 574
+- -- 558
+* -- 3388
+:= -- 6485
+add.period$ -- 268
+call.type$ -- 86
+change.case$ -- 704
+chr.to.int$ -- 86
+cite$ -- 89
+duplicate$ -- 1375
+empty$ -- 2634
+format.name$ -- 689
+if$ -- 7510
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 89
+newline$ -- 432
+num.names$ -- 258
+pop$ -- 605
+preamble$ -- 1
+purify$ -- 707
+quote$ -- 0
+skip$ -- 1035
+stack$ -- 0
+substring$ -- 2929
+swap$ -- 210
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 506
+warning$ -- 3
+while$ -- 332
+width$ -- 0
+write$ -- 1128
+(There were 3 error messages)
