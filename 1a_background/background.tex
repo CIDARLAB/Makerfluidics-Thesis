@@ -72,8 +72,17 @@ The World Health Organization has listed infectious disease as the second leadin
     \includegraphics[width=13cm]{idastFlow.pdf}
     \medskip
   \end{minipage}\hfill
-  \caption[System-Level View of IDAST]{IDAST is performed using a microfluidic device for sample processing followed by a proprietary synthetic-biological approach resulting in an optical readout.}
+  \caption[System-level view of IDAST]{IDAST is performed using a microfluidic device for sample processing followed by a proprietary synthetic-biological approach resulting in an optical readout.}
     \label{fig:idastFlow}
 \end{figure}
 
+The microfluidic is comprised of the three stages shown in Figure \ref{fig:idastUfFlow}. The separation step is responsible for removing the large blood components, such as red blood cells (RBCs) and white blood cells (WBCs) from a diluted whole-blood sample. It then uses a trapping stage to concentrate the bacterial sample and wash away smaller blood components (e.g., plasma, platelets, etc.). Finally, clean bacterial samples are enumerated and distributed into multiple wells for downstream processing using synthetic biology. The microfluidic leverages acoustic manipulation to accomplish the first two stages, the first of which is the subsystem MakerFluidics sought to optimize. Acoustic manipulation is described in further detail in Section \ref{sec:acoust_intro}.
 
+\begin{figure}[h]
+  \begin{minipage}[t]{0.99\linewidth}\centering
+    \includegraphics[width=13cm]{idastUfFlow.pdf}
+    \medskip
+  \end{minipage}\hfill
+  \caption[Block diagram of IDAST sample processing via microfluidics]{Sample processing for IDAST can occur in a microfluidic composed of three stages: separation, trap and wash, and enumerate and segregate. MakerFluidics was responsible for optimizing the first subsystem, namely separation.}
+    \label{fig:idastUfFlow}
+\end{figure}
