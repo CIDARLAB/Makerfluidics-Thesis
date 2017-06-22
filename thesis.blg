@@ -19,48 +19,49 @@ Repeated entry---line 79 of file ece.bib
  : @article{khuri2010response
  :                           ,
 I'm skipping whatever remains of this entry
+Warning--empty journal in world2004world
 Warning--there's a number but no volume in kleeman1987metastable
 Warning--empty year in silva2016iwbda
 Warning--can't use both volume and number fields in todman2005reconfigurable
-You've used 89 entries,
+You've used 93 entries,
             1935 wiz_defined-function locations,
-            997 strings with 20218 characters,
-and the built_in function-call counts, 39529 in all, are:
-= -- 3938
-> -- 1695
-< -- 55
-+ -- 592
-- -- 576
-* -- 3515
-:= -- 6711
-add.period$ -- 277
-call.type$ -- 89
-change.case$ -- 728
-chr.to.int$ -- 89
-cite$ -- 92
-duplicate$ -- 1417
-empty$ -- 2728
-format.name$ -- 712
-if$ -- 7766
+            1017 strings with 21021 characters,
+and the built_in function-call counts, 41409 in all, are:
+= -- 4113
+> -- 1806
+< -- 56
++ -- 634
+- -- 616
+* -- 3697
+:= -- 7045
+add.period$ -- 288
+call.type$ -- 93
+change.case$ -- 767
+chr.to.int$ -- 93
+cite$ -- 97
+duplicate$ -- 1472
+empty$ -- 2840
+format.name$ -- 756
+if$ -- 8115
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 92
-newline$ -- 447
-num.names$ -- 267
-pop$ -- 622
+missing$ -- 96
+newline$ -- 466
+num.names$ -- 279
+pop$ -- 656
 preamble$ -- 1
-purify$ -- 731
+purify$ -- 770
 quote$ -- 0
-skip$ -- 1066
+skip$ -- 1108
 stack$ -- 0
-substring$ -- 3052
-swap$ -- 213
+substring$ -- 3183
+swap$ -- 216
 text.length$ -- 19
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 524
-warning$ -- 3
-while$ -- 344
+type$ -- 548
+warning$ -- 4
+while$ -- 358
 width$ -- 0
-write$ -- 1167
+write$ -- 1216
 (There were 3 error messages)

@@ -5,6 +5,11 @@ Abr{\`a}moff, M.~D., Magalh{\~a}es, P.~J., and Ram, S.~J. (2004).
 \newblock Image processing with imagej.
 \newblock {\em Biophotonics international}, 11(7):36--43.
 
+\bibitem[Alanis, 2005]{alanis2005resistance}
+Alanis, A.~J. (2005).
+\newblock Resistance to antibiotics: are we in the post-antibiotic era?
+\newblock {\em Archives of medical research}, 36(6):697--705.
+
 \bibitem[Alexander et~al., 1995]{alexander1995three}
 Alexander, M.~J., Cohoon, J.~P., Colflesh, J.~L., Karro, J., and Robins, G.
   (1995).
@@ -42,6 +47,10 @@ Barnkob, R., Augustsson, P., Laurell, T., and Bruus, H. (2010).
 \newblock Measuring the local pressure amplitude in microchannel
   acoustophoresis.
 \newblock {\em Lab on a chip}, 10(5):563--570.
+
+\bibitem[Beaglehole et~al., 2004]{world2004world}
+Beaglehole, R., Irwin, A., and Prentice, T. (2004).
+\newblock The world health report: 2004: changing history.
 
 \bibitem[Box, 2006]{box2006improving}
 Box, G.~E. (2006).
@@ -263,6 +272,13 @@ Laurell, T., Petersson, F., and Nilsson, A. (2007).
   of cells and particles.
 \newblock {\em Chemical Society Reviews}, 36(3):492--506.
 
+\bibitem[Laxminarayan et~al., 2013]{laxminarayan2013antibiotic}
+Laxminarayan, R., Duse, A., Wattal, C., Zaidi, A.~K., Wertheim, H.~F.,
+  Sumpradit, N., Vlieghe, E., Hara, G.~L., Gould, I.~M., Goossens, H., et~al.
+  (2013).
+\newblock Antibiotic resistance—the need for global solutions.
+\newblock {\em The Lancet infectious diseases}, 13(12):1057--1098.
+
 \bibitem[Ley and Bruus, 2016]{ley2016continuum}
 Ley, M.~W. and Bruus, H. (2016).
 \newblock Continuum modeling of hydrodynamic particle--particle interactions in
@@ -457,6 +473,12 @@ Todman, T.~J., Constantinides, G.~A., Wilton, S.~J., Mencer, O., Luk, W., and
 \newblock Reconfigurable computing: architectures and design methods.
 \newblock In {\em Computers and Digital Techniques, IEE Proceedings-}, volume
   152, pages 193--207. IET.
+
+\bibitem[Unger et~al., 2000]{unger2000}
+Unger, M.~A., Chou, H.-P., Thorsen, T., Scherer, A., and Quake, S.~R. (2000).
+\newblock Monolithic microfabricated valves and pumps by multilayer soft
+  lithography.
+\newblock {\em Science}, 288(5463):113--116.
 
 \bibitem[Vaidyanathan et~al., 2015]{vaidyanathan2015}
 Vaidyanathan, P., Der, B.~S., Bhatia, S., Roehner, N., Silva, R., Voigt, C.~A.,

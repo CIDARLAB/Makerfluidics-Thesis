@@ -1,84 +1,85 @@
 \contentsline {chapter}{\numberline {1}Introduction}{1}
 \contentsline {chapter}{\numberline {2}Background}{4}
-\contentsline {section}{\numberline {2.1}Microfluidic Design-to-Device Workflows}{4}
-\contentsline {subsection}{\numberline {2.1.1}Abstraction in Fabrication}{4}
-\contentsline {subsection}{\numberline {2.1.2}Microfluidic Design Tools}{6}
-\contentsline {subsection}{\numberline {2.1.3}Traditional Microfluidic Fabrication Using Soft Lithography}{8}
-\contentsline {section}{\numberline {2.2}Continuous-Flow Microfluidic Routing}{9}
-\contentsline {section}{\numberline {2.3}Acoustofluidic Cell Separation}{10}
-\contentsline {chapter}{\numberline {3}The MakerFluidics Framework}{12}
-\contentsline {section}{\numberline {3.1}Introduction}{12}
-\contentsline {section}{\numberline {3.2}Problem Statement}{12}
-\contentsline {section}{\numberline {3.3}Contstraints}{13}
-\contentsline {section}{\numberline {3.4}Microfluidic Design}{14}
-\contentsline {section}{\numberline {3.5}Microfluidic Fabrication}{14}
-\contentsline {section}{\numberline {3.6}Experimental Control}{17}
-\contentsline {chapter}{\numberline {4}A reconfigurable continuous-flow fluidic routing fabric using a modular, scalable primitive}{19}
-\contentsline {section}{\numberline {4.1}Introduction}{19}
-\contentsline {section}{\numberline {4.2}Problem Statement}{19}
-\contentsline {section}{\numberline {4.3}Related Work}{22}
-\contentsline {section}{\numberline {4.4}Primitive Architecture}{23}
-\contentsline {subsection}{\numberline {4.4.1}Microfluidic Materials and Assembly}{24}
-\contentsline {subsection}{\numberline {4.4.2}Routing Fabric Definitions}{25}
-\contentsline {section}{\numberline {4.5}Theory of operation}{28}
-\contentsline {subsection}{\numberline {4.5.1}Scalable Routing Fabric}{28}
-\contentsline {subsection}{\numberline {4.5.2}Optimality of the number of transposers}{30}
-\contentsline {subsubsection}{Necessity}{30}
-\contentsline {subsubsection}{Sufficiency}{30}
-\contentsline {subsection}{\numberline {4.5.3}Planar and non planar fabrics}{30}
-\contentsline {subsection}{\numberline {4.5.4}Comparison with alternative primitives}{31}
-\contentsline {subsection}{\numberline {4.5.5}Analysis of control requirements}{31}
-\contentsline {section}{\numberline {4.6}Routing Algorithm}{32}
-\contentsline {subsection}{\numberline {4.6.1}Generate Unrouted Graph}{32}
-\contentsline {subsubsection}{Populate Vertices}{32}
-\contentsline {subsubsection}{Place Transposers}{34}
-\contentsline {subsubsection}{Generate Unrouted Graph}{34}
-\contentsline {subsection}{\numberline {4.6.2}Correctly Traverse Unrouted Graph}{36}
-\contentsline {section}{\numberline {4.7}Discussion}{39}
-\contentsline {subsection}{\numberline {4.7.1}Primitive and Fabric}{39}
-\contentsline {subsection}{\numberline {4.7.2}Comparison with Other Programmable Architectures}{40}
-\contentsline {subsection}{\numberline {4.7.3}Integration into a larger functional architecture}{41}
-\contentsline {subsection}{\numberline {4.7.4}Example Architecture}{44}
-\contentsline {subsection}{\numberline {4.7.5}Dynamic Reconfiguration}{45}
-\contentsline {subsection}{\numberline {4.7.6}Future Work}{46}
-\contentsline {section}{\numberline {4.8}Conclusions}{48}
-\contentsline {chapter}{\numberline {5}Rapid prototyping of parameterized acoustofluidic microchannels towards isolation of bacteria for point of care diagnostics}{49}
-\contentsline {section}{\numberline {5.1}Introduction}{49}
-\contentsline {section}{\numberline {5.2}Problem Statment}{50}
-\contentsline {section}{\numberline {5.3}Methods}{51}
-\contentsline {section}{\numberline {5.4}Chip Design and Theory of Operation}{52}
-\contentsline {section}{\numberline {5.5}Rapid Prototyping}{52}
-\contentsline {subsection}{\numberline {5.5.1}Design Generation}{53}
-\contentsline {subsection}{\numberline {5.5.2}Fabrication}{56}
-\contentsline {subsection}{\numberline {5.5.3}Materials and Assembly}{57}
-\contentsline {section}{\numberline {5.6}Experimental Methodology}{58}
-\contentsline {subsection}{\numberline {5.6.1}Measures of Merit}{58}
-\contentsline {subsubsection}{Volumetric Flow Rate}{59}
-\contentsline {subsubsection}{Average Dissipated Power}{59}
-\contentsline {subsection}{\numberline {5.6.2}Blood Sample Preparation}{60}
-\contentsline {subsection}{\numberline {5.6.3}Screening Assays}{60}
-\contentsline {subsubsection}{Rapid Screening Assay}{62}
-\contentsline {subsubsection}{Final Screening Assay}{63}
-\contentsline {subsection}{\numberline {5.6.4}Blood Separation Assay}{63}
-\contentsline {subsection}{\numberline {5.6.5}Bacterial Separation Assay}{64}
-\contentsline {section}{\numberline {5.7}Image Analysis}{64}
-\contentsline {subsection}{\numberline {5.7.1}Definition of Prominence}{66}
-\contentsline {subsection}{\numberline {5.7.2}Definition of Prominence to Width Ratio, $\chi $}{67}
-\contentsline {section}{\numberline {5.8}Results}{70}
-\contentsline {subsection}{\numberline {5.8.1}Screening Design of Experiments}{70}
-\contentsline {subsection}{\numberline {5.8.2}Seeding of the Design Space}{71}
-\contentsline {subsection}{\numberline {5.8.3}Variable Isolation Studies}{73}
-\contentsline {subsubsection}{Channel Width Study}{73}
-\contentsline {subsubsection}{Channel Height Study}{74}
-\contentsline {subsection}{\numberline {5.8.4}Comparison of Winning Geometry versus Baseline Geometry}{75}
-\contentsline {subsubsection}{Comparative Focusing}{76}
-\contentsline {subsubsection}{Comparative Blood Separation}{77}
-\contentsline {subsubsection}{Comparative Bacterial Separation}{78}
-\contentsline {section}{\numberline {5.9}Conclusion}{79}
-\contentsline {chapter}{\numberline {6}Body of my thesis}{80}
-\contentsline {section}{\numberline {6.1}Some results}{80}
-\contentsline {chapter}{\numberline {7}Conclusions}{82}
-\contentsline {section}{\numberline {7.1}Summary of the thesis}{82}
-\contentsline {chapter}{\numberline {A}Othermill Standard Operating Procedure}{83}
-\contentsline {chapter}{References}{89}
-\contentsline {chapter}{Curriculum Vitae}{97}
+\contentsline {section}{\numberline {2.1}Microfluidic Fabrication Using Multi-Layer Soft Lithography}{5}
+\contentsline {subsection}{\numberline {2.1.1}Replica Mold Fabrication}{5}
+\contentsline {subsection}{\numberline {2.1.2}Preparation of Substrate}{7}
+\contentsline {subsection}{\numberline {2.1.3}Alignment of Layers and Bonding}{7}
+\contentsline {section}{\numberline {2.2}The Microfluidic--Microelectronic Analogy}{7}
+\contentsline {subsection}{\numberline {2.2.1}Microfluidic Design Tools}{9}
+\contentsline {section}{\numberline {2.3}Pathogen Identification and Antibiotic Susceptibility Testing}{13}
+\contentsline {chapter}{\numberline {3}The MakerFluidics Framework}{15}
+\contentsline {section}{\numberline {3.1}Introduction}{15}
+\contentsline {section}{\numberline {3.2}Problem Statement}{15}
+\contentsline {section}{\numberline {3.3}Contstraints}{16}
+\contentsline {section}{\numberline {3.4}Microfluidic Design}{17}
+\contentsline {section}{\numberline {3.5}Microfluidic Fabrication}{17}
+\contentsline {section}{\numberline {3.6}Experimental Control}{20}
+\contentsline {chapter}{\numberline {4}A reconfigurable continuous-flow fluidic routing fabric using a modular, scalable primitive}{22}
+\contentsline {section}{\numberline {4.1}Introduction}{22}
+\contentsline {section}{\numberline {4.2}Problem Statement}{22}
+\contentsline {section}{\numberline {4.3}Related Work}{25}
+\contentsline {section}{\numberline {4.4}Primitive Architecture}{26}
+\contentsline {subsection}{\numberline {4.4.1}Microfluidic Materials and Assembly}{27}
+\contentsline {subsection}{\numberline {4.4.2}Routing Fabric Definitions}{28}
+\contentsline {section}{\numberline {4.5}Theory of operation}{31}
+\contentsline {subsection}{\numberline {4.5.1}Scalable Routing Fabric}{31}
+\contentsline {subsection}{\numberline {4.5.2}Optimality of the number of transposers}{33}
+\contentsline {subsubsection}{Necessity}{33}
+\contentsline {subsubsection}{Sufficiency}{33}
+\contentsline {subsection}{\numberline {4.5.3}Planar and non planar fabrics}{33}
+\contentsline {subsection}{\numberline {4.5.4}Comparison with alternative primitives}{34}
+\contentsline {subsection}{\numberline {4.5.5}Analysis of control requirements}{34}
+\contentsline {section}{\numberline {4.6}Routing Algorithm}{35}
+\contentsline {subsection}{\numberline {4.6.1}Generate Unrouted Graph}{35}
+\contentsline {subsubsection}{Populate Vertices}{35}
+\contentsline {subsubsection}{Place Transposers}{37}
+\contentsline {subsubsection}{Generate Unrouted Graph}{37}
+\contentsline {subsection}{\numberline {4.6.2}Correctly Traverse Unrouted Graph}{39}
+\contentsline {section}{\numberline {4.7}Discussion}{42}
+\contentsline {subsection}{\numberline {4.7.1}Primitive and Fabric}{42}
+\contentsline {subsection}{\numberline {4.7.2}Comparison with Other Programmable Architectures}{43}
+\contentsline {subsection}{\numberline {4.7.3}Integration into a larger functional architecture}{44}
+\contentsline {subsection}{\numberline {4.7.4}Example Architecture}{47}
+\contentsline {subsection}{\numberline {4.7.5}Dynamic Reconfiguration}{48}
+\contentsline {subsection}{\numberline {4.7.6}Future Work}{49}
+\contentsline {section}{\numberline {4.8}Conclusions}{51}
+\contentsline {chapter}{\numberline {5}Rapid prototyping of parameterized acoustofluidic microchannels towards isolation of bacteria for point of care diagnostics}{52}
+\contentsline {section}{\numberline {5.1}Introduction}{52}
+\contentsline {section}{\numberline {5.2}Problem Statment}{53}
+\contentsline {section}{\numberline {5.3}Methods}{54}
+\contentsline {section}{\numberline {5.4}Chip Design and Theory of Operation}{55}
+\contentsline {section}{\numberline {5.5}Rapid Prototyping}{55}
+\contentsline {subsection}{\numberline {5.5.1}Design Generation}{56}
+\contentsline {subsection}{\numberline {5.5.2}Fabrication}{59}
+\contentsline {subsection}{\numberline {5.5.3}Materials and Assembly}{60}
+\contentsline {section}{\numberline {5.6}Experimental Methodology}{61}
+\contentsline {subsection}{\numberline {5.6.1}Measures of Merit}{61}
+\contentsline {subsubsection}{Volumetric Flow Rate}{62}
+\contentsline {subsubsection}{Average Dissipated Power}{62}
+\contentsline {subsection}{\numberline {5.6.2}Blood Sample Preparation}{63}
+\contentsline {subsection}{\numberline {5.6.3}Screening Assays}{63}
+\contentsline {subsubsection}{Rapid Screening Assay}{65}
+\contentsline {subsubsection}{Final Screening Assay}{66}
+\contentsline {subsection}{\numberline {5.6.4}Blood Separation Assay}{66}
+\contentsline {subsection}{\numberline {5.6.5}Bacterial Separation Assay}{67}
+\contentsline {section}{\numberline {5.7}Image Analysis}{67}
+\contentsline {subsection}{\numberline {5.7.1}Definition of Prominence}{69}
+\contentsline {subsection}{\numberline {5.7.2}Definition of Prominence to Width Ratio, $\chi $}{70}
+\contentsline {section}{\numberline {5.8}Results}{73}
+\contentsline {subsection}{\numberline {5.8.1}Screening Design of Experiments}{73}
+\contentsline {subsection}{\numberline {5.8.2}Seeding of the Design Space}{74}
+\contentsline {subsection}{\numberline {5.8.3}Variable Isolation Studies}{76}
+\contentsline {subsubsection}{Channel Width Study}{76}
+\contentsline {subsubsection}{Channel Height Study}{77}
+\contentsline {subsection}{\numberline {5.8.4}Comparison of Winning Geometry versus Baseline Geometry}{78}
+\contentsline {subsubsection}{Comparative Focusing}{79}
+\contentsline {subsubsection}{Comparative Blood Separation}{80}
+\contentsline {subsubsection}{Comparative Bacterial Separation}{81}
+\contentsline {section}{\numberline {5.9}Conclusion}{82}
+\contentsline {chapter}{\numberline {6}Body of my thesis}{83}
+\contentsline {section}{\numberline {6.1}Some results}{83}
+\contentsline {chapter}{\numberline {7}Conclusions}{85}
+\contentsline {section}{\numberline {7.1}Summary of the thesis}{85}
+\contentsline {chapter}{\numberline {A}Othermill Standard Operating Procedure}{86}
+\contentsline {chapter}{References}{92}
+\contentsline {chapter}{Curriculum Vitae}{100}
