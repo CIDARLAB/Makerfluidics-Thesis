@@ -187,8 +187,13 @@ Herbsleb, J.~D. and Goldenson, D.~R. (1996).
   Engineering}, ICSE '96, pages 323--330, Washington, DC, USA. IEEE Computer
   Society.
 
-\bibitem[Huang and Densmore, 2014]{huang2014}
-Huang, H. and Densmore, D. (2014).
+\bibitem[Huang and Densmore, 2014a]{fluigi}
+Huang, H. and Densmore, D. (2014a).
+\newblock Fluigi: Microfluidic device synthesis for synthetic biology.
+\newblock {\em J. Emerg. Technol. Comput. Syst.}, 11(3):26:1--26:19.
+
+\bibitem[Huang and Densmore, 2014b]{huang2014}
+Huang, H. and Densmore, D. (2014b).
 \newblock Integration of microfluidics into the synthetic biology design flow.
 \newblock {\em Lab on a Chip}.
 
