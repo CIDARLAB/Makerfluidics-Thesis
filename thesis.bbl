@@ -5,6 +5,13 @@ Abr{\`a}moff, M.~D., Magalh{\~a}es, P.~J., and Ram, S.~J. (2004).
 \newblock Image processing with imagej.
 \newblock {\em Biophotonics international}, 11(7):36--43.
 
+\bibitem[Adams et~al., 2012]{adams2012high}
+Adams, J.~D., Ebbesen, C.~L., Barnkob, R., Yang, A.~H., Soh, H.~T., and Bruus,
+  H. (2012).
+\newblock High-throughput, temperature-controlled microchannel acoustophoresis
+  device made with rapid prototyping.
+\newblock {\em Journal of Micromechanics and Microengineering}, 22(7):075017.
+
 \bibitem[Alanis, 2005]{alanis2005resistance}
 Alanis, A.~J. (2005).
 \newblock Resistance to antibiotics: are we in the post-antibiotic era?
@@ -30,6 +37,12 @@ Anderson, J.~R., Chiu, D.~T., Wu, H., Schueller, O., and Whitesides, G.~M.
 \newblock Fabrication of microfluidic systems in poly (dimethylsiloxane).
 \newblock {\em Electrophoresis}, 21(1):27--40.
 
+\bibitem[Antfolk and Laurell, 2017]{antfolk2017continuous}
+Antfolk, M. and Laurell, T. (2017).
+\newblock Continuous flow microfluidic separation and processing of rare cells
+  and bioparticles found in blood--a review.
+\newblock {\em Analytica Chimica Acta}.
+
 \bibitem[Araci and Brisk, 2014]{araci2014}
 Araci, I.~E. and Brisk, P. (2014).
 \newblock Recent developments in microfluidic large scale integration.
@@ -42,20 +55,45 @@ Arge, L., De~Berg, M., and Tsirogiannis, C. (2013).
   Conference on Advances in Geographic Information Systems}, pages 254--263.
   ACM.
 
-\bibitem[Barnkob et~al., 2010]{barnkob2010measuring}
-Barnkob, R., Augustsson, P., Laurell, T., and Bruus, H. (2010).
-\newblock Measuring the local pressure amplitude in microchannel
-  acoustophoresis.
-\newblock {\em Lab on a chip}, 10(5):563--570.
+\bibitem[Barnkob and Bruus, 2009]{barnkob2009acoustofluidics}
+Barnkob, R. and Bruus, H. (2009).
+\newblock Acoustofluidics: theory and simulation of radiation forces at
+  ultrasound resonances in microfluidic devices.
+\newblock In {\em Proceedings of Meetings on Acoustics 157ASA}, volume~6, page
+  020001. ASA.
+
+\bibitem[Barnkob et~al., 2012]{barnkob2012measuring}
+Barnkob, R., Iranmanesh, I., Wiklund, M., and Bruus, H. (2012).
+\newblock Measuring acoustic energy density in microchannel acoustophoresis
+  using a simple and rapid light-intensity method.
+\newblock {\em Lab on a Chip}, 12(13):2337--2344.
 
 \bibitem[Beaglehole et~al., 2004]{world2004world}
 Beaglehole, R., Irwin, A., and Prentice, T. (2004).
 \newblock The world health report: 2004: changing history.
 
+\bibitem[Bhagat et~al., 2010]{bhagat2010microfluidics}
+Bhagat, A. A.~S., Bow, H., Hou, H.~W., Tan, S.~J., Han, J., and Lim, C.~T.
+  (2010).
+\newblock Microfluidics for cell separation.
+\newblock {\em Medical \& biological engineering \& computing},
+  48(10):999--1014.
+
+\bibitem[Bora and Shusteff, 2015]{bora2015efficient}
+Bora, M. and Shusteff, M. (2015).
+\newblock Efficient coupling of acoustic modes in microfluidic channel devices.
+\newblock {\em Lab on a Chip}, 15(15):3192--3202.
+
 \bibitem[Box, 2006]{box2006improving}
 Box, G.~E. (2006).
 \newblock {\em Improving almost anything: Ideas and essays}, volume 629.
 \newblock Wiley-Interscience.
+
+\bibitem[Bruus, 2012]{bruus2012acoustofluidics}
+Bruus, H. (2012).
+\newblock Acoustofluidics 2: Perturbation theory and ultrasound resonance
+  modes.
+\newblock {\em Lab on a Chip}, 12(1):20--28.
 
 \bibitem[Carley et~al., 2004]{carley2004response}
 Carley, K.~M., Kamneva, N.~Y., and Reminga, J. (2004).
@@ -142,12 +180,24 @@ Fidalgo, L.~M. and Maerkl, S.~J. (2011).
 \newblock A software-programmable microfluidic device for automated biology.
 \newblock {\em Lab on a Chip}, 11(9):1612--1619.
 
+\bibitem[Freeman and Davis, 1977]{freeman1977corner}
+Freeman, H. and Davis, L.~S. (1977).
+\newblock A corner-finding algorithm for chain-coded curves.
+\newblock {\em IEEE Transactions on Computers}, 26(3):297--303.
+
 \bibitem[Garofalo et~al., 2016]{garofalo2016performance}
 Garofalo, F., Laurell, T., and Bruus, H. (2016).
 \newblock Performance study of acoustophoretic microfluidic silicon-glass
   devices by characterization of material and geometry dependent frequency
   spectra.
 \newblock {\em arXiv preprint arXiv:1610.02794}.
+
+\bibitem[Glynne-Jones et~al., 2009]{glynne2009new}
+Glynne-Jones, P., Boltryk, R.~J., Hill, M., and Harris, N.~R. (2009).
+\newblock A new thin-reflector mode for ultrasonic particle manipulation in
+  layered resonators.
+\newblock In {\em Ultrasonics Symposium (IUS), 2009 IEEE International}, pages
+  2137--2140. IEEE.
 
 \bibitem[Grover et~al., 2006]{grover2006development}
 Grover, W.~H., Ivester, R.~H., Jensen, E.~C., and Mathies, R.~A. (2006).
@@ -169,11 +219,21 @@ Guckenberger, D.~J., de~Groot, T.~E., Wan, A.~M., Beebe, D.~J., and Young,
   microfluidic devices.
 \newblock {\em Lab on a Chip}, 15(11):2364--2378.
 
+\bibitem[Hahn et~al., 2014]{hahn2014modeling}
+Hahn, P., Schwab, O., and Dual, J. (2014).
+\newblock Modeling and optimization of acoustofluidic micro-devices.
+\newblock {\em Lab on a Chip}, 14(20):3937--3948.
+
 \bibitem[Harris and Harris, 2013]{Harris+Harris}
 Harris, D.~M. and Harris, S.~L. (2013).
 \newblock {\em Digital design and computer architecture}.
 \newblock Morgan Kaufmann Publishers, Cop., Amsterdam, Boston, second edition
   edition.
+
+\bibitem[Heckele and Schomburg, 2003]{heckele2003review}
+Heckele, M. and Schomburg, W. (2003).
+\newblock Review on micro molding of thermoplastic polymers.
+\newblock {\em Journal of Micromechanics and Microengineering}, 14(3):R1.
 
 \bibitem[Hedayat et~al., 2012]{hedayat2012orthogonal}
 Hedayat, A.~S., Sloane, N. J.~A., and Stufken, J. (2012).
@@ -186,6 +246,12 @@ Herbsleb, J.~D. and Goldenson, D.~R. (1996).
 \newblock In {\em Proceedings of the 18th International Conference on Software
   Engineering}, ICSE '96, pages 323--330, Washington, DC, USA. IEEE Computer
   Society.
+
+\bibitem[Hill et~al., 2008]{hill2008modelling}
+Hill, M., Townsend, R.~J., and Harris, N.~R. (2008).
+\newblock Modelling for the robust design of layered resonators for ultrasonic
+  particle manipulation.
+\newblock {\em Ultrasonics}, 48(6):521--528.
 
 \bibitem[Huang and Densmore, 2014a]{fluigi}
 Huang, H. and Densmore, D. (2014a).
@@ -243,12 +309,6 @@ Kleeman, L. and Cantoni, A. (1987).
 \newblock Metastable behavior in digital systems.
 \newblock {\em IEEE Design \& Test of Computers}, (6):4--19.
 
-\bibitem[Koerner et~al., 2005]{koerner2005epoxy}
-Koerner, T., Brown, L., Xie, R., and Oleschuk, R.~D. (2005).
-\newblock Epoxy resins as stamps for hot embossing of microstructures and
-  microfluidic channels.
-\newblock {\em Sensors and Actuators B: Chemical}, 107(2):632--639.
-
 \bibitem[Kuon et~al., 2008]{kuon2008}
 Kuon, I., Tessier, R., and Rose, J. (2008).
 \newblock Fpga architecture: Survey and challenges.
@@ -266,16 +326,16 @@ Lamport, L. (1985).
   Reference Manual}.
 \newblock Ad{\-d}i{\-s}on-Wes{\-l}ey.
 
+\bibitem[Lashkaripour et~al., ]{ali2017iwbda}
+Lashkaripour, A., Sanka, R., Lippai, J., and Densmore, D.
+\newblock Design automation based on fluid dynamics.
+\newblock In {\em The Proceedings of the 9th International Workshop on
+  Bio-Design Automation}.
+
 \bibitem[Lauesen and Vinter, 2001]{CostBenefit_hours}
 Lauesen, S. and Vinter, O. (2001).
 \newblock Preventing requirement defects: An experiment in process improvement.
 \newblock {\em Requir. Eng.}, 6(1):37--50.
-
-\bibitem[Laurell et~al., 2007]{laurell2007chip}
-Laurell, T., Petersson, F., and Nilsson, A. (2007).
-\newblock Chip integrated strategies for acoustic separation and manipulation
-  of cells and particles.
-\newblock {\em Chemical Society Reviews}, 36(3):492--506.
 
 \bibitem[Laxminarayan et~al., 2013]{laxminarayan2013antibiotic}
 Laxminarayan, R., Duse, A., Wattal, C., Zaidi, A.~K., Wertheim, H.~F.,
@@ -284,11 +344,23 @@ Laxminarayan, R., Duse, A., Wattal, C., Zaidi, A.~K., Wertheim, H.~F.,
 \newblock Antibiotic resistance—the need for global solutions.
 \newblock {\em The Lancet infectious diseases}, 13(12):1057--1098.
 
+\bibitem[Lenshof et~al., 2009]{lenshof2009acoustic}
+Lenshof, A., Ahmad-Tajudin, A., Jär{\aa}s, K., Swärd-Nilsson, A.-M.,
+  {\AA}berg, L., Marko-Varga, G., Malm, J., Lilja, H., and Laurell, T. (2009).
+\newblock Acoustic whole blood plasmapheresis chip for prostate specific
+  antigen microarray diagnostics.
+\newblock {\em Analytical chemistry}, 81(15):6030--6037.
+
 \bibitem[Ley and Bruus, 2016]{ley2016continuum}
 Ley, M.~W. and Bruus, H. (2016).
 \newblock Continuum modeling of hydrodynamic particle--particle interactions in
   microfluidic high-concentration suspensions.
 \newblock {\em Lab on a Chip}, 16(7):1178--1188.
+
+\bibitem[Li et~al., 2016]{li2016acoustofluidic}
+Li, S., Ma, F., Bachman, H., Cameron, C.~E., Zeng, X., and Huang, T.~J. (2016).
+\newblock Acoustofluidic bacteria separation.
+\newblock {\em Journal of Micromechanics and Microengineering}, 27(1):015031.
 
 \bibitem[Linshiz et~al., 2016]{linshiz2016end}
 Linshiz, G., Jensen, E., Stawski, N., Bi, C., Elsbree, N., Jiao, H., Kim, J.,
@@ -296,6 +368,12 @@ Linshiz, G., Jensen, E., Stawski, N., Bi, C., Elsbree, N., Jiao, H., Kim, J.,
 \newblock End-to-end automated microfluidic platform for synthetic biology:
   from design to functional analysis.
 \newblock {\em Journal of biological engineering}, 10(1):1.
+
+\bibitem[Lippai et~al., ]{lippai2017iwbda}
+Lippai, J., Sanka, R., Lashkaripour, A., and Densmore, D.
+\newblock Function-driven, graphical design tool for microfluidic chips: 3duf.
+\newblock In {\em The Proceedings of the 9th International Workshop on
+  Bio-Design Automation}.
 
 \bibitem[Madou and Kellogg, 1998]{madou1998labcd}
 Madou, M.~J. and Kellogg, G.~J. (1998).
@@ -315,6 +393,13 @@ McDaniel, J., Baez, A., Crites, B., Tammewar, A., and Brisk, P. (2013).
   microfluidic devices.
 \newblock In {\em 18th Asia and South Pacific Design Automation Conference
   (ASP-DAC 2013)}, pages 219--224.
+
+\bibitem[McDaniel et~al., 2017]{mcdaniel2017case}
+McDaniel, J., Grover, W.~H., and Brisk, P. (2017).
+\newblock The case for semi-automated design of microfluidic very large scale
+  integration (mvlsi) chips.
+\newblock In {\em 2017 Design, Automation \& Test in Europe Conference \&
+  Exhibition (DATE)}, pages 1793--1798. IEEE.
 
 \bibitem[McDonald and Whitesides, 2002]{mcdonald2002poly}
 McDonald, J.~C. and Whitesides, G.~M. (2002).
@@ -348,13 +433,6 @@ Mueller, A., Lever, A., Nguyen, T., Comolli, J., and Fiering, J. (2013).
 \newblock Continuous acoustic separation in a thermoplastic microchannel.
 \newblock {\em Journal of Micromechanics and Microengineering}, 23(12):125006.
 
-\bibitem[Muriithi, 2015]{muriithi2015application}
-Muriithi, D.~K. (2015).
-\newblock Application of response surface methodology for optimization of
-  potato tuber yield.
-\newblock {\em American Journal of Theoretical and Applied Statistics},
-  4(4):300--304.
-
 \bibitem[Nge et~al., 2013]{nge2013advances}
 Nge, P.~N., Rogers, C.~I., and Woolley, A.~T. (2013).
 \newblock Advances in microfluidic materials, functions, integration, and
@@ -371,6 +449,14 @@ Nielsen, A.~A., Der, B.~S., Shin, J., Vaidyanathan, P., Paralanov, V.,
   Strychalski, E.~A., Ross, D., Densmore, D., and Voigt, C.~A. (2016).
 \newblock Genetic circuit design automation.
 \newblock {\em Science}, 352(6281):aac7341.
+
+\bibitem[Ohlsson et~al., 2016]{ohlsson2016integrated}
+Ohlsson, P., Evander, M., Petersson, K., Mellhammar, L., Lehmusvuori, A.,
+  Karhunen, U., Soikkeli, M., Seppä, T., Tuunainen, E., Spangar, A., et~al.
+  (2016).
+\newblock Integrated acoustic separation, enrichment, and microchip polymerase
+  chain reaction detection of bacteria from blood for rapid sepsis diagnostics.
+\newblock {\em Analytical chemistry}, 88(19):9403--9411.
 
 \bibitem[Otto and Antonsson, 1991]{otto1991trade}
 Otto, K.~N. and Antonsson, E.~K. (1991).
@@ -395,6 +481,12 @@ Ro, D.-K., Paradise, E.~M., Ouellet, M., Fisher, K.~J., Newman, K.~L., Ndungu,
   engineered yeast.
 \newblock {\em Nature}, 440(7086):940--943.
 
+\bibitem[Sanka et~al., ]{krishna2017iwbda}
+Sanka, R., Lippai, J., and Densmore, D.
+\newblock mlsi design with mint.
+\newblock In {\em The Proceedings of the 9th International Workshop on
+  Bio-Design Automation}.
+
 \bibitem[Schmit, 2005]{schmit2005extra}
 Schmit, H. (2005).
 \newblock Extra-dimensional island-style fpgas.
@@ -412,6 +504,17 @@ Schrock, A.~R. (2014).
 \newblock Education in disguise: Culture of a hacker and maker space.
 \newblock {\em InterActions: UCLA Journal of Education and Information
   Studies}, 10(1).
+
+\bibitem[Selfridge, 1985]{selfridge1985approximate}
+Selfridge, A.~R. (1985).
+\newblock Approximate material properties in isotropic materials.
+\newblock {\em IEEE transactions on sonics and ultrasonics}, 32(3):381--394.
+
+\bibitem[Settnes and Bruus, 2012]{settnes2012forces}
+Settnes, M. and Bruus, H. (2012).
+\newblock Forces acting on a small particle in an acoustical field in a viscous
+  fluid.
+\newblock {\em Physical Review E}, 85(1):016327.
 
 \bibitem[Shields~IV et~al., 2015]{shields2015microfluidic}
 Shields~IV, C.~W., Reyes, C.~D., and L{\'o}pez, G.~P. (2015).
@@ -465,13 +568,6 @@ Thorsen, T., Maerkl, S.~J., and Quake, S.~R. (2002).
 \newblock Microfluidic large-scale integration.
 \newblock {\em Science}, 298(5593):580--584.
 
-\bibitem[Ting et~al., 2004]{ting2004preparation}
-Ting, J.-H., Shiau, S.-H., Chen, Y.-J., Pan, F.-M., Wong, H., Pu, G.~M., and
-  Kung, C.-Y. (2004).
-\newblock Preparation and properties of sputtered nitrogen-doped cobalt
-  silicide film.
-\newblock {\em Thin solid films}, 468(1):155--160.
-
 \bibitem[Todman et~al., 2005]{todman2005reconfigurable}
 Todman, T.~J., Constantinides, G.~A., Wilton, S.~J., Mencer, O., Luk, W., and
   Cheung, P.~Y. (2005).
@@ -497,13 +593,6 @@ Wang, B.~L., Ghaderi, A., Zhou, H., Agresti, J., Weitz, D.~A., Fink, G.~R., and
 \newblock Microfluidic high-throughput culturing of single cells for selection
   based on extracellular metabolite production or consumption.
 \newblock {\em Nature biotechnology}, 32(5):473.
-
-\bibitem[Wang et~al., 2001]{wang2001high}
-Wang, H., Ritter, T., Cao, W., and Shung, K.~K. (2001).
-\newblock High frequency properties of passive materials for ultrasonic
-  transducers.
-\newblock {\em IEEE transactions on ultrasonics, ferroelectrics, and frequency
-  control}, 48(1):78--84.
 
 \bibitem[Weibel et~al., 2007]{weibel2007}
 Weibel, D.~B., DiLuzio, W.~R., and Whitesides, G.~M. (2007).

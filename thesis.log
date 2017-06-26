@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  23 JUN 2017 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  26 JUN 2017 14:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -654,271 +654,273 @@ Chapter 5.
 [51
 
 
-] [52] <4_acoust/Figures/flow.pdf, id=800, 959.585pt x 652.4375pt>
+] [52] <4_acoust/Figures/flow.pdf, id=800, 882.29625pt x 569.12625pt>
 File: 4_acoust/Figures/flow.pdf Graphic file (type pdf)
 
 <use 4_acoust/Figures/flow.pdf>
-Package pdftex.def Info: 4_acoust/Figures/flow.pdf used on input line 27.
-(pdftex.def)             Requested size: 398.33858pt x 270.83615pt.
+Package pdftex.def Info: 4_acoust/Figures/flow.pdf used on input line 24.
+(pdftex.def)             Requested size: 398.33858pt x 256.94681pt.
  [53 <./4_acoust/Figures/flow.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-
- []
-
-<4_acoust/Figures/chip.pdf, id=828, 618.31pt x 166.6225pt>
+<4_acoust/Figures/chip.pdf, id=828, 623.32875pt x 177.66376pt>
 File: 4_acoust/Figures/chip.pdf Graphic file (type pdf)
 
 <use 4_acoust/Figures/chip.pdf>
 Package pdftex.def Info: 4_acoust/Figures/chip.pdf used on input line 46.
-(pdftex.def)             Requested size: 398.33858pt x 107.34737pt.
+(pdftex.def)             Requested size: 398.33858pt x 113.53633pt.
 
-<4_acoust/Figures/2D.pdf, id=829, 671.50874pt x 251.94125pt>
+<4_acoust/Figures/2D.pdf, id=829, 719.68875pt x 259.97125pt>
 File: 4_acoust/Figures/2D.pdf Graphic file (type pdf)
 
 <use 4_acoust/Figures/2D.pdf>
 Package pdftex.def Info: 4_acoust/Figures/2D.pdf used on input line 51.
-(pdftex.def)             Requested size: 398.33858pt x 149.45134pt.
+(pdftex.def)             Requested size: 398.33858pt x 143.89302pt.
  [54] [55 <./4_acoust/Figures/chip.pdf> <./4_acoust/Figures/2D.pdf>]
-Overfull \hbox (13.29099pt too wide) in paragraph at lines 69--74
+Overfull \hbox (13.29099pt too wide) in paragraph at lines 72--77
 []$[]$ 
  []
 
-<4_acoust/Figures/PaperExampleListing1.png, id=910, 2569.6pt x 1377.145pt>
+<4_acoust/Figures/PaperExampleListing1.png, id=900, 2569.6pt x 1377.145pt>
 File: 4_acoust/Figures/PaperExampleListing1.png Graphic file (type png)
 
 <use 4_acoust/Figures/PaperExampleListing1.png>
 Package pdftex.def Info: 4_acoust/Figures/PaperExampleListing1.png used on inpu
-t line 77.
+t line 80.
 (pdftex.def)             Requested size: 398.33858pt x 213.47627pt.
-LaTeX Font Info:    Try loading font information for OML+cmr on input line 86.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 88.
 
 (/usr/local/texlive/2014/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 86.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 88.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 96.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 98.
 
-Overfull \hbox (13.29099pt too wide) in paragraph at lines 84--106
+Overfull \hbox (13.29099pt too wide) in paragraph at lines 86--110
 []$[]$ 
  []
 
-<4_acoust/Figures/ExampleLayout.png, id=911, 2569.6pt x 1377.145pt>
+<4_acoust/Figures/ExampleLayout.png, id=901, 2569.6pt x 1377.145pt>
 File: 4_acoust/Figures/ExampleLayout.png Graphic file (type png)
 
 <use 4_acoust/Figures/ExampleLayout.png>
 Package pdftex.def Info: 4_acoust/Figures/ExampleLayout.png used on input line 
-109.
+114.
 (pdftex.def)             Requested size: 398.33858pt x 213.47627pt.
- [56] [57 <./4_acoust/Figures/PaperExampleListing1.png (PNG copy)>] [58 <./4_ac
-oust/Figures/ExampleLayout.png (PNG copy)>] [59] [60] [61]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ì in font cmr12!
- [62]
-<4_acoust/Figures/Baseline3PromFlow.png, id=937, 562.2606pt x 421.575pt>
+ [56]
+Overfull \vbox (16.18745pt too high) has occurred while \output is active []
+
+
+[57 <./4_acoust/Figures/PaperExampleListing1.png (PNG copy)>] [58 <./4_acoust/F
+igures/ExampleLayout.png (PNG copy)>] [59]
+<4_acoust/Figures/Baseline3PromFlow.png, id=918, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/Baseline3PromFlow.png Graphic file (type png)
 
 <use 4_acoust/Figures/Baseline3PromFlow.png>
 Package pdftex.def Info: 4_acoust/Figures/Baseline3PromFlow.png used on input l
-ine 177.
+ine 141.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/Baseline3PromPower.png, id=938, 562.2606pt x 421.575pt>
+<4_acoust/Figures/Baseline3PromPower.png, id=919, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/Baseline3PromPower.png Graphic file (type png)
 
 <use 4_acoust/Figures/Baseline3PromPower.png>
 Package pdftex.def Info: 4_acoust/Figures/Baseline3PromPower.png used on input 
-line 182.
+line 146.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/25ul250mWBaseline_3.png, id=939, 1927.2pt x 1084.05pt>
+<4_acoust/Figures/25ul250mWBaseline_3.png, id=920, 1927.2pt x 1084.05pt>
 File: 4_acoust/Figures/25ul250mWBaseline_3.png Graphic file (type png)
 
 <use 4_acoust/Figures/25ul250mWBaseline_3.png>
 Package pdftex.def Info: 4_acoust/Figures/25ul250mWBaseline_3.png used on input
- line 192.
+ line 156.
 (pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
 
-<4_acoust/Figures/25ul500mWBaseline_3.png, id=940, 1927.2pt x 1084.05pt>
+<4_acoust/Figures/25ul500mWBaseline_3.png, id=921, 1927.2pt x 1084.05pt>
 File: 4_acoust/Figures/25ul500mWBaseline_3.png Graphic file (type png)
 
 <use 4_acoust/Figures/25ul500mWBaseline_3.png>
 Package pdftex.def Info: 4_acoust/Figures/25ul500mWBaseline_3.png used on input
- line 197.
+ line 161.
 (pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
 
-<4_acoust/Figures/25ul750mWBaseline_3.png, id=941, 1927.2pt x 1084.05pt>
+<4_acoust/Figures/25ul750mWBaseline_3.png, id=922, 1927.2pt x 1084.05pt>
 File: 4_acoust/Figures/25ul750mWBaseline_3.png Graphic file (type png)
 
 <use 4_acoust/Figures/25ul750mWBaseline_3.png>
 Package pdftex.def Info: 4_acoust/Figures/25ul750mWBaseline_3.png used on input
- line 202.
+ line 166.
 (pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
 
-<4_acoust/Figures/25ul1000mWBaseline_3.png, id=942, 1927.2pt x 1084.05pt>
+<4_acoust/Figures/25ul1000mWBaseline_3.png, id=923, 1927.2pt x 1084.05pt>
 File: 4_acoust/Figures/25ul1000mWBaseline_3.png Graphic file (type png)
 
 <use 4_acoust/Figures/25ul1000mWBaseline_3.png>
 Package pdftex.def Info: 4_acoust/Figures/25ul1000mWBaseline_3.png used on inpu
-t line 207.
+t line 171.
 (pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--211
+Underfull \hbox (badness 10000) in paragraph at lines 155--175
 
  []
 
-[63 <./4_acoust/Figures/Baseline3PromFlow.png (PNG copy)> <./4_acoust/Figures/B
-aseline3PromPower.png (PNG copy)>] [64 <./4_acoust/Figures/25ul250mWBaseline_3.
-png (PNG copy)> <./4_acoust/Figures/25ul500mWBaseline_3.png (PNG copy)> <./4_ac
-oust/Figures/25ul750mWBaseline_3.png (PNG copy)> <./4_acoust/Figures/25ul1000mW
-Baseline_3.png (PNG copy)>] [65]
-Package epstopdf Info: Source file: <4_acoust/Figures/example.eps>
-(epstopdf)                    date: 2017-01-30 13:04:52
-(epstopdf)                    size: 286 bytes
-(epstopdf)             Output file: <4_acoust/Figures/example-eps-converted-to.
-pdf>
-(epstopdf)                    date: 2017-02-09 13:19:13
-(epstopdf)                    size: 2431 bytes
-(epstopdf)             Command: <repstopdf --outfile=4_acoust/Figures/example-e
-ps-converted-to.pdf 4_acoust/Figures/example.eps>
-(epstopdf)             \includegraphics on input line 243.
-Package epstopdf Info: Output file is already uptodate.
+[60] [61 <./4_acoust/Figures/Baseline3PromFlow.png (PNG copy)> <./4_acoust/Figu
+res/Baseline3PromPower.png (PNG copy)>] [62 <./4_acoust/Figures/25ul250mWBaseli
+ne_3.png (PNG copy)> <./4_acoust/Figures/25ul500mWBaseline_3.png (PNG copy)> <.
+/4_acoust/Figures/25ul750mWBaseline_3.png (PNG copy)> <./4_acoust/Figures/25ul1
+000mWBaseline_3.png (PNG copy)>]
+<4_acoust/Figures/freqSweep.png, id=933, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/freqSweep.png Graphic file (type png)
 
-<4_acoust/Figures/example-eps-converted-to.pdf, id=953, 202.7575pt x 202.7575pt
->
-File: 4_acoust/Figures/example-eps-converted-to.pdf Graphic file (type pdf)
- <use 4_acoust/Figures/example-eps-converted-to.pdf>
-Package pdftex.def Info: 4_acoust/Figures/example-eps-converted-to.pdf used on 
-input line 243.
-(pdftex.def)             Requested size: 341.43306pt x 341.44395pt.
- [66] [67 <./4_acoust/Figures/example-eps-converted-to.pdf>] [68]
-<4_acoust/Figures/localMax.png, id=967, 722.7pt x 542.025pt>
-File: 4_acoust/Figures/localMax.png Graphic file (type png)
+<use 4_acoust/Figures/freqSweep.png>
+Package pdftex.def Info: 4_acoust/Figures/freqSweep.png used on input line 194.
 
-<use 4_acoust/Figures/localMax.png>
-Package pdftex.def Info: 4_acoust/Figures/localMax.png used on input line 384.
-(pdftex.def)             Requested size: 199.16928pt x 149.37575pt.
+(pdftex.def)             Requested size: 341.43306pt x 256.00247pt.
+ [63] [64 <./4_acoust/Figures/freqSweep.png (PNG copy)>] [65] [66] [67] [68]
+<4_acoust/Figures/alg.png, id=954, 722.7pt x 542.025pt>
+File: 4_acoust/Figures/alg.png Graphic file (type png)
 
-<4_acoust/Figures/scan.png, id=969, 722.7pt x 542.025pt>
-File: 4_acoust/Figures/scan.png Graphic file (type png)
-
-<use 4_acoust/Figures/scan.png>
-Package pdftex.def Info: 4_acoust/Figures/scan.png used on input line 389.
-(pdftex.def)             Requested size: 199.16928pt x 149.37575pt.
-
-<4_acoust/Figures/calcProm.png, id=970, 722.7pt x 542.025pt>
-File: 4_acoust/Figures/calcProm.png Graphic file (type png)
-
-<use 4_acoust/Figures/calcProm.png>
-Package pdftex.def Info: 4_acoust/Figures/calcProm.png used on input line 394.
-(pdftex.def)             Requested size: 199.16928pt x 149.37575pt.
-
-<4_acoust/Figures/peakWidth.png, id=971, 722.7pt x 542.025pt>
-File: 4_acoust/Figures/peakWidth.png Graphic file (type png)
-
-<use 4_acoust/Figures/peakWidth.png>
-Package pdftex.def Info: 4_acoust/Figures/peakWidth.png used on input line 399.
-
-(pdftex.def)             Requested size: 199.16928pt x 149.37575pt.
- [69] [70] [71] [72 <./4_acoust/Figures/localMax.png> <./4_acoust/Figures/scan.
-png> <./4_acoust/Figures/calcProm.png> <./4_acoust/Figures/peakWidth.png>] [73]
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no Æ in font cmr12!
- [74]
-<4_acoust/Figures/L9.pdf, id=995, 622.325pt x 155.58125pt>
+<use 4_acoust/Figures/alg.png>
+Package pdftex.def Info: 4_acoust/Figures/alg.png used on input line 362.
+(pdftex.def)             Requested size: 341.43306pt x 256.07507pt.
+ [69] [70]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ì in font cmr12!
+ [71 <./4_acoust/Figures/alg.png>]
+<4_acoust/Figures/L9.pdf, id=968, 622.325pt x 155.58125pt>
 File: 4_acoust/Figures/L9.pdf Graphic file (type pdf)
 
 <use 4_acoust/Figures/L9.pdf>
-Package pdftex.def Info: 4_acoust/Figures/L9.pdf used on input line 457.
+Package pdftex.def Info: 4_acoust/Figures/L9.pdf used on input line 401.
 (pdftex.def)             Requested size: 398.33858pt x 99.58589pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[75 <./4_acoust/Figures/L9.pdf>]
-<4_acoust/Figures/HeightPlot25ul.png, id=1014, 562.2606pt x 421.575pt>
+ [72] [73 <./4_acoust/Figures/L9.pdf>]
+<4_acoust/Figures/HeightPlot25ul.png, id=990, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/HeightPlot25ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/HeightPlot25ul.png>
 Package pdftex.def Info: 4_acoust/Figures/HeightPlot25ul.png used on input line
- 518.
+ 436.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/HeightPlot50ul.png, id=1015, 562.2606pt x 421.575pt>
+<4_acoust/Figures/HeightPlot50ul.png, id=991, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/HeightPlot50ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/HeightPlot50ul.png>
 Package pdftex.def Info: 4_acoust/Figures/HeightPlot50ul.png used on input line
- 523.
+ 441.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/HeightPlot75ul.png, id=1016, 562.2606pt x 421.575pt>
+<4_acoust/Figures/HeightPlot75ul.png, id=992, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/HeightPlot75ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/HeightPlot75ul.png>
 Package pdftex.def Info: 4_acoust/Figures/HeightPlot75ul.png used on input line
- 528.
+ 446.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
- [76] [77 <./4_acoust/Figures/HeightPlot25ul.png (PNG copy)> <./4_acoust/Figure
-s/HeightPlot50ul.png (PNG copy)> <./4_acoust/Figures/HeightPlot75ul.png (PNG co
-py)>]
-<4_acoust/Figures/ErrorBars25ul.png, id=1024, 562.2606pt x 421.575pt>
+ [74]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Missing character: There is no ¬ in font cmr12!
+Missing character: There is no Æ in font cmr12!
+[75 <./4_acoust/Figures/HeightPlot25ul.png (PNG copy)> <./4_acoust/Figures/Heig
+htPlot50ul.png (PNG copy)> <./4_acoust/Figures/HeightPlot75ul.png (PNG copy)>]
+<4_acoust/Figures/ErrorBars25ul.png, id=999, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBars25ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBars25ul.png>
 Package pdftex.def Info: 4_acoust/Figures/ErrorBars25ul.png used on input line 
-550.
+484.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/ErrorBars50ul.png, id=1025, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBars50ul.png, id=1000, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBars50ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBars50ul.png>
 Package pdftex.def Info: 4_acoust/Figures/ErrorBars50ul.png used on input line 
-555.
+489.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/ErrorBars75ul.png, id=1026, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBars75ul.png, id=1001, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBars75ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBars75ul.png>
 Package pdftex.def Info: 4_acoust/Figures/ErrorBars75ul.png used on input line 
-560.
+494.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
- [78 <./4_acoust/Figures/ErrorBars25ul.png (PNG copy)> <./4_acoust/Figures/Erro
-rBars50ul.png (PNG copy)> <./4_acoust/Figures/ErrorBars75ul.png (PNG copy)>]
-<4_acoust/Figures/ErrorBarBloodData25ul.png, id=1030, 562.2606pt x 421.575pt>
+ [76]
+<4_acoust/Figures/ErrorBarBloodData25ul.png, id=1005, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBarBloodData25ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBarBloodData25ul.png>
 Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData25ul.png used on inp
-ut line 575.
+ut line 504.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/ErrorBarBloodData50ul.png, id=1031, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBarBloodData50ul.png, id=1006, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBarBloodData50ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBarBloodData50ul.png>
 Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData50ul.png used on inp
-ut line 580.
+ut line 509.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/ErrorBarBloodData75ul.png, id=1032, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBarBloodData75ul.png, id=1007, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBarBloodData75ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBarBloodData75ul.png>
 Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData75ul.png used on inp
-ut line 585.
+ut line 514.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
- [79] [80 <./4_acoust/Figures/ErrorBarBloodData25ul.png (PNG copy)> <./4_acoust
-/Figures/ErrorBarBloodData50ul.png (PNG copy)> <./4_acoust/Figures/ErrorBarBloo
-dData75ul.png (PNG copy)>])
-[81] (./2_Body/body.tex
+ [77 <./4_acoust/Figures/ErrorBars25ul.png (PNG copy)> <./4_acoust/Figures/Erro
+rBars50ul.png (PNG copy)> <./4_acoust/Figures/ErrorBars75ul.png (PNG copy)>] [7
+8 <./4_acoust/Figures/ErrorBarBloodData25ul.png (PNG copy)> <./4_acoust/Figures
+/ErrorBarBloodData50ul.png (PNG copy)> <./4_acoust/Figures/ErrorBarBloodData75u
+l.png (PNG copy)>] [79]
+Overfull \hbox (65.23224pt too wide) in paragraph at lines 585--593
+ [][] 
+ []
+
+<4_acoust/Figures/flowBac.png, id=1018, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/flowBac.png Graphic file (type png)
+
+<use 4_acoust/Figures/flowBac.png>
+Package pdftex.def Info: 4_acoust/Figures/flowBac.png used on input line 602.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/maxFlow.png, id=1019, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/maxFlow.png Graphic file (type png)
+
+<use 4_acoust/Figures/maxFlow.png>
+Package pdftex.def Info: 4_acoust/Figures/maxFlow.png used on input line 607.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/powerBac.png, id=1020, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/powerBac.png Graphic file (type png)
+
+<use 4_acoust/Figures/powerBac.png>
+Package pdftex.def Info: 4_acoust/Figures/powerBac.png used on input line 612.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+<4_acoust/Figures/minPower.png, id=1021, 562.2606pt x 421.575pt>
+File: 4_acoust/Figures/minPower.png Graphic file (type png)
+
+<use 4_acoust/Figures/minPower.png>
+Package pdftex.def Info: 4_acoust/Figures/minPower.png used on input line 617.
+(pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--621
+
+ []
+
+[80] [81] [82] [83]) [84] [85 <./4_acoust/Figures/flowBac.png (PNG copy)> <./4_
+acoust/Figures/maxFlow.png (PNG copy)> <./4_acoust/Figures/powerBac.png (PNG co
+py)> <./4_acoust/Figures/minPower.png (PNG copy)>] (./2_Body/body.tex
 Chapter 6.
 Package epstopdf Info: Source file: <2_Body/Figures/figure_sampling_view1.eps>
 (epstopdf)                    date: 2014-02-10 16:21:32
@@ -932,7 +934,7 @@ ling_view1-eps-converted-to.pdf 2_Body/Figures/figure_sampling_view1.eps>
 (epstopdf)             \includegraphics on input line 17.
 Package epstopdf Info: Output file is already uptodate.
 
-<2_Body/Figures/figure_sampling_view1-eps-converted-to.pdf, id=1042, 400.49625p
+<2_Body/Figures/figure_sampling_view1-eps-converted-to.pdf, id=1041, 400.49625p
 t x 396.48125pt>
 File: 2_Body/Figures/figure_sampling_view1-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -953,7 +955,7 @@ ling_view2-eps-converted-to.pdf 2_Body/Figures/figure_sampling_view2.eps>
 (epstopdf)             \includegraphics on input line 22.
 Package epstopdf Info: Output file is already uptodate.
 
-<2_Body/Figures/figure_sampling_view2-eps-converted-to.pdf, id=1043, 400.49625p
+<2_Body/Figures/figure_sampling_view2-eps-converted-to.pdf, id=1042, 400.49625p
 t x 396.48125pt>
 File: 2_Body/Figures/figure_sampling_view2-eps-converted-to.pdf Graphic file (t
 ype pdf)
@@ -962,20 +964,20 @@ ype pdf)
 Package pdftex.def Info: 2_Body/Figures/figure_sampling_view2-eps-converted-to.
 pdf used on input line 22.
 (pdftex.def)             Requested size: 199.16928pt x 197.17535pt.
- [82
+ [86
 
 
  <./2_Body/Figures/figure_sampling_view1-eps-converted-to.pdf> <./2_Body/Figure
-s/figure_sampling_view2-eps-converted-to.pdf>]) [83
+s/figure_sampling_view2-eps-converted-to.pdf>]) [87
 
 ] (./3_Conclusion/conclusion.tex
 Chapter 7.
-) [84
+) [88
 
 
 ] (./Appendix/Appendix.tex
 Appendix A.
-[85
+[89
 
 
 ]
@@ -1057,7 +1059,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [86]
+ [90]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -1214,7 +1216,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [87]
+ [91]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -1377,7 +1379,7 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [88]
+ [92]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
@@ -1390,15 +1392,6 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ¶ in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
@@ -1425,56 +1418,7 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
 Missing character: There is no ¶ in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
- [89]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
@@ -1493,14 +1437,84 @@ Missing character: There is no ¶ in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-) [90] (./thesis.bbl [91
+ [93]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+) [94] (./thesis.bbl [95
 
-] [92] [93]
+] [96] [97] [98]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
- [94] [95] [96]
-[97]) [98]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no à in font cmr12!
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no à in font cmr12!
+ [99] [100]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no à in font cmr12!
+
+Overfull \hbox (3.86856pt too wide) in paragraph at lines 454--460
+[]\OT1/cmr/m/n/12 Ohlsson, P., Evan-der, M., Pe-ters-son, K., Mell-ham-mar, L.,
+ Lehmusvuori, A., Karhunen,
+ []
+
+[101] [102]) [103]
 \openout2 = `0_Prelim/cv.aux'.
 
  (./0_Prelim/cv.tex
@@ -1520,23 +1534,23 @@ Overfull \hbox (74.07684pt too wide) in paragraph at lines 64--72
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
-[99
+[104
 
 
-] [100]
+] [105]
 Overfull \hbox (74.07684pt too wide) in paragraph at lines 112--121
  [][] 
  []
 
-) [101] (./thesis.aux (./0_Prelim/cv.aux)) ) 
+) [106] (./thesis.aux (./0_Prelim/cv.aux)) ) 
 Here is how much of TeX's memory you used:
- 7449 strings out of 493117
- 112357 string characters out of 6135433
- 231273 words of memory out of 5000000
- 10672 multiletter control sequences out of 15000+600000
+ 7472 strings out of 493117
+ 112842 string characters out of 6135433
+ 241652 words of memory out of 5000000
+ 10705 multiletter control sequences out of 15000+600000
  17345 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,28n,43p,1989b,1244s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,28n,43p,1989b,1247s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2014/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/texmf-dist/f
@@ -1559,10 +1573,10 @@ nts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmti8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmtt12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/
 symbols/msbm10.pfb>
-Output written on thesis.pdf (115 pages, 31960242 bytes).
+Output written on thesis.pdf (120 pages, 32105354 bytes).
 PDF statistics:
- 1187 PDF objects out of 1200 (max. 8388607)
+ 1188 PDF objects out of 1200 (max. 8388607)
  779 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 500000)
- 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 231 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -45,40 +45,40 @@
 \contentsline {chapter}{\numberline {5}Rapid prototyping of parameterized acoustofluidic microchannels towards isolation of bacteria for point of care diagnostics}{51}
 \contentsline {section}{\numberline {5.1}Introduction}{51}
 \contentsline {section}{\numberline {5.2}Problem Statment}{52}
-\contentsline {section}{\numberline {5.3}Methods}{53}
-\contentsline {section}{\numberline {5.4}Chip Design and Theory of Operation}{54}
-\contentsline {section}{\numberline {5.5}Rapid Prototyping}{54}
-\contentsline {subsection}{\numberline {5.5.1}Design Generation}{55}
-\contentsline {subsection}{\numberline {5.5.2}Fabrication}{58}
-\contentsline {subsection}{\numberline {5.5.3}Materials and Assembly}{59}
-\contentsline {section}{\numberline {5.6}Experimental Methodology}{60}
-\contentsline {subsection}{\numberline {5.6.1}Measures of Merit}{60}
-\contentsline {subsubsection}{Volumetric Flow Rate}{61}
-\contentsline {subsubsection}{Average Dissipated Power}{61}
-\contentsline {subsection}{\numberline {5.6.2}Blood Sample Preparation}{62}
-\contentsline {subsection}{\numberline {5.6.3}Screening Assays}{62}
-\contentsline {subsubsection}{Rapid Screening Assay}{64}
-\contentsline {subsubsection}{Final Screening Assay}{65}
-\contentsline {subsection}{\numberline {5.6.4}Blood Separation Assay}{65}
-\contentsline {subsection}{\numberline {5.6.5}Bacterial Separation Assay}{66}
-\contentsline {section}{\numberline {5.7}Image Analysis}{66}
-\contentsline {subsection}{\numberline {5.7.1}Definition of Prominence}{68}
-\contentsline {subsection}{\numberline {5.7.2}Definition of Prominence to Width Ratio, $\chi $}{69}
-\contentsline {section}{\numberline {5.8}Results}{72}
-\contentsline {subsection}{\numberline {5.8.1}Screening Design of Experiments}{72}
-\contentsline {subsection}{\numberline {5.8.2}Seeding of the Design Space}{73}
-\contentsline {subsection}{\numberline {5.8.3}Variable Isolation Studies}{75}
-\contentsline {subsubsection}{Channel Width Study}{75}
-\contentsline {subsubsection}{Channel Height Study}{76}
-\contentsline {subsection}{\numberline {5.8.4}Comparison of Winning Geometry versus Baseline Geometry}{77}
-\contentsline {subsubsection}{Comparative Focusing}{78}
-\contentsline {subsubsection}{Comparative Blood Separation}{79}
-\contentsline {subsubsection}{Comparative Bacterial Separation}{80}
-\contentsline {section}{\numberline {5.9}Conclusion}{81}
-\contentsline {chapter}{\numberline {6}Body of my thesis}{82}
-\contentsline {section}{\numberline {6.1}Some results}{82}
-\contentsline {chapter}{\numberline {7}Conclusions}{84}
-\contentsline {section}{\numberline {7.1}Summary of the thesis}{84}
-\contentsline {chapter}{\numberline {A}Othermill Standard Operating Procedure}{85}
-\contentsline {chapter}{References}{91}
-\contentsline {chapter}{Curriculum Vitae}{99}
+\contentsline {section}{\numberline {5.3}Experimental Methodology}{56}
+\contentsline {subsection}{\numberline {5.3.1}Rapid Prototyping}{56}
+\contentsline {subsubsection}{Design Generation}{58}
+\contentsline {subsubsection}{Fabrication}{59}
+\contentsline {subsection}{\numberline {5.3.2}Device Evaluation}{60}
+\contentsline {subsubsection}{Rapid Screening Test}{62}
+\contentsline {subsubsection}{Final Screening Test}{63}
+\contentsline {subsubsection}{Blood Separation Test}{64}
+\contentsline {subsubsection}{Bacterial Separation Test}{65}
+\contentsline {section}{\numberline {5.4}Methods}{65}
+\contentsline {subsection}{\numberline {5.4.1}Materials and Assembly}{65}
+\contentsline {subsection}{\numberline {5.4.2}Image Processing and Analysis}{66}
+\contentsline {subsubsection}{Definition of Prominence}{66}
+\contentsline {subsection}{\numberline {5.4.3}Definition of Prominence to Width Ratio, $\chi $}{67}
+\contentsline {subsection}{\numberline {5.4.4}Transducer Drive}{69}
+\contentsline {subsection}{\numberline {5.4.5}Blood Sample Preparation}{72}
+\contentsline {subsection}{\numberline {5.4.6}Bacteria--Blood Sample Preparation}{72}
+\contentsline {subsection}{\numberline {5.4.7}Sample Measurement}{72}
+\contentsline {section}{\numberline {5.5}Results}{73}
+\contentsline {subsection}{\numberline {5.5.1}Screening Design of Experiments}{73}
+\contentsline {subsection}{\numberline {5.5.2}Seeding of the Design Space (Rapid Screening Test)}{74}
+\contentsline {subsection}{\numberline {5.5.3}Variable Isolation Studies}{77}
+\contentsline {subsubsection}{Channel Width Study (Rapid Screening Test)}{78}
+\contentsline {subsubsection}{Channel Height Study (Final Screening Test)}{79}
+\contentsline {subsection}{\numberline {5.5.4}Comparison of Chip 2.0 versus Baseline Geometry}{80}
+\contentsline {subsubsection}{Comparative Focusing}{80}
+\contentsline {subsubsection}{Comparative Blood Separation}{80}
+\contentsline {subsubsection}{Comparative Bacterial Separation}{81}
+\contentsline {section}{\numberline {5.6}Discussion}{82}
+\contentsline {section}{\numberline {5.7}Conclusion}{84}
+\contentsline {chapter}{\numberline {6}Body of my thesis}{86}
+\contentsline {section}{\numberline {6.1}Some results}{86}
+\contentsline {chapter}{\numberline {7}Conclusions}{88}
+\contentsline {section}{\numberline {7.1}Summary of the thesis}{88}
+\contentsline {chapter}{\numberline {A}Othermill Standard Operating Procedure}{89}
+\contentsline {chapter}{References}{95}
+\contentsline {chapter}{Curriculum Vitae}{104}

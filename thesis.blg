@@ -5,11 +5,11 @@ The style file: apalike.bst
 A level-1 auxiliary file: 0_Prelim/cv.aux
 Database file #1: thesis.bib
 Database file #2: mf.bib
-Repeated entry---line 1724 of file mf.bib
+Repeated entry---line 1758 of file mf.bib
  : @article{teh2008droplet
  :                        ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 1810 of file mf.bib
+Repeated entry---line 1844 of file mf.bib
  : @article{zhang2006pcr
  :                      ,
 I'm skipping whatever remains of this entry
@@ -19,49 +19,53 @@ Repeated entry---line 79 of file ece.bib
  : @article{khuri2010response
  :                           ,
 I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in barnkob2009acoustofluidics
 Warning--empty journal in world2004world
 Warning--there's a number but no volume in kleeman1987metastable
+Warning--empty year in ali2017iwbda
+Warning--empty year in lippai2017iwbda
+Warning--empty year in krishna2017iwbda
 Warning--empty year in silva2016iwbda
 Warning--can't use both volume and number fields in todman2005reconfigurable
-You've used 94 entries,
+You've used 109 entries,
             1935 wiz_defined-function locations,
-            1022 strings with 21146 characters,
-and the built_in function-call counts, 41840 in all, are:
-= -- 4158
-> -- 1819
-< -- 57
-+ -- 639
-- -- 620
-* -- 3737
-:= -- 7116
-add.period$ -- 291
-call.type$ -- 94
-change.case$ -- 774
-chr.to.int$ -- 93
-cite$ -- 98
-duplicate$ -- 1486
-empty$ -- 2873
-format.name$ -- 763
-if$ -- 8200
+            1088 strings with 23926 characters,
+and the built_in function-call counts, 48818 in all, are:
+= -- 4834
+> -- 2148
+< -- 68
++ -- 759
+- -- 734
+* -- 4336
+:= -- 8284
+add.period$ -- 339
+call.type$ -- 109
+change.case$ -- 905
+chr.to.int$ -- 108
+cite$ -- 117
+duplicate$ -- 1754
+empty$ -- 3349
+format.name$ -- 904
+if$ -- 9592
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 97
-newline$ -- 471
-num.names$ -- 282
-pop$ -- 660
+missing$ -- 112
+newline$ -- 546
+num.names$ -- 327
+pop$ -- 797
 preamble$ -- 1
-purify$ -- 777
+purify$ -- 908
 quote$ -- 0
-skip$ -- 1118
+skip$ -- 1309
 stack$ -- 0
-substring$ -- 3229
-swap$ -- 217
-text.length$ -- 19
+substring$ -- 3700
+swap$ -- 269
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 554
-warning$ -- 4
-while$ -- 362
+type$ -- 644
+warning$ -- 8
+while$ -- 411
 width$ -- 0
-write$ -- 1229
+write$ -- 1421
 (There were 3 error messages)
