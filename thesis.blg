@@ -27,45 +27,45 @@ Warning--empty year in lippai2017iwbda
 Warning--empty year in krishna2017iwbda
 Warning--empty year in silva2016iwbda
 Warning--can't use both volume and number fields in todman2005reconfigurable
-You've used 109 entries,
+You've used 107 entries,
             1935 wiz_defined-function locations,
-            1088 strings with 23926 characters,
-and the built_in function-call counts, 48818 in all, are:
-= -- 4834
-> -- 2148
-< -- 68
-+ -- 759
-- -- 734
-* -- 4336
-:= -- 8284
-add.period$ -- 339
-call.type$ -- 109
-change.case$ -- 905
-chr.to.int$ -- 108
-cite$ -- 117
-duplicate$ -- 1754
-empty$ -- 3349
-format.name$ -- 904
-if$ -- 9592
+            1078 strings with 23586 characters,
+and the built_in function-call counts, 48052 in all, are:
+= -- 4762
+> -- 2113
+< -- 67
++ -- 747
+- -- 722
+* -- 4270
+:= -- 8147
+add.period$ -- 333
+call.type$ -- 107
+change.case$ -- 890
+chr.to.int$ -- 106
+cite$ -- 115
+duplicate$ -- 1726
+empty$ -- 3296
+format.name$ -- 890
+if$ -- 9446
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 112
-newline$ -- 546
-num.names$ -- 327
-pop$ -- 797
+missing$ -- 109
+newline$ -- 536
+num.names$ -- 321
+pop$ -- 781
 preamble$ -- 1
-purify$ -- 908
+purify$ -- 892
 quote$ -- 0
-skip$ -- 1309
+skip$ -- 1289
 stack$ -- 0
-substring$ -- 3700
-swap$ -- 269
+substring$ -- 3651
+swap$ -- 267
 text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 644
+type$ -- 634
 warning$ -- 8
-while$ -- 411
+while$ -- 405
 width$ -- 0
-write$ -- 1421
+write$ -- 1396
 (There were 3 error messages)

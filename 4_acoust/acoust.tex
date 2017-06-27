@@ -19,13 +19,6 @@ The force exerted on a particle by the acoustically-driven standing pressure wav
 
 Silicon, glass, or metal devices are commonly used for acoustophoresis because the rigid channel walls provide a near ideal acoustic boundary against the sample fluid, enhancing the required standing wave resonance \cite{barnkob2009acoustofluidics}\cite{hill2008modelling}. This ideal boundary simplifies design because one-dimensional analysis can be used to estimate the resonant modes in the channel-fluid system. However, the rigid materials used in these devices are relatively expensive and slow to manufacture, have limited compatibility with many biological samples, and pose challenges to produce as disposable laboratory tools \cite{nge2013advances}.  On the other hand, our recent work has demonstrated acoustophoresis in plastic, showing that acoustic separation of RBCs is possible in polystyrene, opening the door to low-cost diagnostic and therapeutic devices \cite{mueller2013continuous}.
 
-\begin{figure}[htb]
-  \begin{minipage}[t]{0.99\linewidth}\centering
-    \includegraphics[width=14cm]{flow.pdf}
-  \end{minipage}\hfill
-  \caption[Rapid prototyping workflow]{Iterative rapid prototyping and testing workflow. The design space was first seeded using a design of experiments tool known as an orthogonal array, which minimizes the number of necessary experiments when compared to a full-factorial experimental analysis (Section \ref{ssec:seeding}). Trends were then identified within single geometric variables and experimentally explored. These variable isolation studies were repeated until a fully functional design set was achieved (Section \ref{ssec:iso}). The best performing device geometry emerging from the workflow, Chip 2.0, is then compared to the baseline (Section \ref{ssec:comparison}).}
-\label{fig:flow}       % Give a unique label
-\end{figure}
 
 However, the design of optimized plastic acoustofluidic devices is hampered by complex boundary conditions relative to those of more rigid materials, and a satisfactory predictive model is not yet established, because the one-dimensional approximations are inaccurate and the channel walls can no longer be considered ideally rigid \cite{mueller2013continuous}.  Moreover, even for rigid materials, a sophisticated 2-dimensional analysis does not appear to easily predict experimental performance in detail \cite{garofalo2016performance}\cite{bora2015efficient}. To further optimize the geometry of acoustic microfluidics in plastic, a parametrized experimental investigation provides an expanded database for comparison with simulation and can give performance improvements without the need for simulation.  
 
@@ -40,6 +33,19 @@ While plastic acoustofluidic devices can be produced in volume using methods suc
 %\caption{Rapid Prototyping Workflow.}
 %\label{fig:flow}       % Give a unique label
 %\end{figure}
+
+
+\begin{figure}[htb]
+  \begin{minipage}[t]{0.99\linewidth}\centering
+    \includegraphics[width=14cm]{flow.pdf}
+  \end{minipage}\hfill
+  \caption[Rapid prototyping workflow]{Iterative rapid prototyping and testing workflow. The design space was first seeded using a design of experiments tool known as an orthogonal array, which minimizes the number of necessary experiments when compared to a full-factorial experimental analysis (Section \ref{ssec:seeding}). Trends were then identified within single geometric variables and experimentally explored. These variable isolation studies were repeated until a fully functional design set was achieved (Section \ref{ssec:iso}). The best performing device geometry emerging from the workflow, Chip 2.0, is then compared to the baseline (Section \ref{ssec:comparison}).}
+\label{fig:flow}       % Give a unique label
+\end{figure}
+
+Devices were screened in rapid succession using an image-based performance parameter of RBC acoustophoresis,  described in Section \ref{sec:img}, while varying two measures of merit: dissipated power and volumetric flow rate. As a final validation, the improved design was compared to the baseline in the task of separating bacteria from blood and shown to achieve comparable separation with significant advantages in the figures of merit. This improved device offers increased throughput and reduced power requirements and could improve performance in future point-of-care plastic acoustofluidic devices.
+
+Figure \ref{fig:flow} illustrates the iterative workflow used in conducting the study, further described in Section \ref{sec:experiment}. Section \ref{sec:experiment} summarizes the approach used to design variable chip geometries and defines the two types of tests used in the screening phase of the workflow. Section \ref{sec:methods} outlines the methods used to screen separation performance from microscope images. Finally, Section \ref{sec:results} presents the results of the device screening as well as the winning design's performance when compared to that of the baseline geometry. 
 
 \begin{figure}[htb]
   \begin{minipage}[t]{0.99\linewidth}\centering
@@ -56,9 +62,6 @@ While plastic acoustofluidic devices can be produced in volume using methods suc
   \label{fig:geometry}
 \end{figure}
 
-Devices were screened in rapid succession using an image-based performance parameter of RBC acoustophoresis,  described in Section \ref{sec:img}, while varying two measures of merit: dissipated power and volumetric flow rate. As a final validation, the improved design was compared to the baseline in the task of separating bacteria from blood and shown to achieve comparable separation with significant advantages in the figures of merit. This improved device offers increased throughput and reduced power requirements and could improve performance in future point-of-care plastic acoustofluidic devices.
-
-Figure \ref{fig:flow} illustrates the iterative workflow used in conducting the study, further described in Section \ref{sec:experiment}. Section \ref{sec:experiment} summarizes the approach used to design variable chip geometries and defines the two types of tests used in the screening phase of the workflow. Section \ref{sec:methods} outlines the methods used to screen separation performance from microscope images. Finally, Section \ref{sec:results} presents the results of the device screening as well as the winning design's performance when compared to that of the baseline geometry. 
 
 Figure \ref{fig:geometry}a. is a top-down, two-dimensional drawing of the trifurcated acoustic separation device. The device functions by focusing large particles, such as RBCs and WBCs, to the center port, while smaller particles (ex., platelets, bacteria, etc.) are collected at the side port. This trifurcated device is used in the blood and bacterial separation experiments. In order to reduce manufacturing complexity, devices screened using the methods outlined in Sections \ref{sssec:rapidScreen} and \ref{sssec:finalScreen} consist only of the input port; fluid channel, defined as the channel upstream of the trifurcation; and a single output port. The cross-sectional geometries, defined in Figure \ref{fig:geometry}b., apply to this simplified device design. 
 
@@ -396,14 +399,6 @@ All experiments in this study used de-identified fresh human whole blood purchas
 
 \textit{Pseudomonas aerouginosa}  was incubated overnight in a Lysogeny Broth (LB) culture. It was diluted by a factor of 50 and incubated until it reached a mid log phase. A whole blood sample was diluted into PBS as described in Section \ref{ssec:bloodAssay}. The optical density of the \textit{Pseudomonas} culture was taken and the appropriate dilution was calculated to create solution consisting of whole blood diluted in PBS to 5\% hematocrit and $10^5$ \textit{Pseudomonas} cells/ml. 
 
-\begin{figure}[htb]
-  \begin{minipage}[t]{0.99\linewidth}\centering
-    \includegraphics[width=14cm]{L9}
-  \end{minipage}\hfill
-  \caption[Results of initial seeding of design space]{Results of design space seeding. The quantities on the vertical axis correspond to the prominence data shown in Table \ref{tab:geometries}. The response surface is determined through a least squares fit of the aforementioned prominence values in four-dimensional space. The red dashed lines demarcate the points of maximum desirability.}
-	\label{fig:L9}
-\end{figure}
-
 \subsection{Sample Measurement}
 \label{sec:sampleMeasurement}
 
@@ -418,7 +413,6 @@ Determining 90\% RBC separation for variable flow rate and fixed power (1 W) req
 
 \section{Results}
 \label{sec:results}
-
 \subsection{Screening Design of Experiments}
 \label{ssec:doe}
 Experiments must be initialized such that the sampling of the solution space can detect curvature in the response, as described in Section \ref{ssec:seeding}. Curvature in the response surface for an explanatory variable implies the existence of a local maxima in performance. Driving the design towards that local maxima is accomplished by isolating the variable in question and conducting experiments at adjacent points on the response plane, as outlined in Section \ref{ssec:iso}. 
@@ -427,29 +421,18 @@ Figure \ref{fig:geometry} illustrates the explanatory variables studied. Channel
 
 \subsection{Seeding of the Design Space (Rapid Screening Test)}
 \label{ssec:seeding}
+
+\begin{figure}[htb]
+  \begin{minipage}[t]{0.99\linewidth}\centering
+    \includegraphics[width=14cm]{L9}
+  \end{minipage}\hfill
+  \caption[Results of initial seeding of design space]{Results of design space seeding. The quantities on the vertical axis correspond to the prominence data shown in Table \ref{tab:geometries}. The response surface is determined through a least squares fit of the aforementioned prominence values in four-dimensional space. The red dashed lines demarcate the points of maximum desirability.}
+	\label{fig:L9}
+\end{figure}
+
 In order to economize the number of rapid screening experimental runs, an orthogonal array was chosen to generate a useful parameter set for the initial experiments. Orthogonal arrays are are used in design optimization to provide the most coverage of the solution space while minimizing the number of experimental runs \cite{yokoyama1993taguchi}. This is accomplished through the creation of an experimental set such that each combination of the array's strength appears equally often \cite{hedayat2012orthogonal}. The orthogonal array used to seed the design space is known as the $L_9 (3^4)$ array, which has a strength of two and is used to probe a solution space consisting of four explanatory variables at three settings in nine experimental runs, as opposed to the 81 experimental runs required to conduct the full-factorial experiment \cite{hedayat2012orthogonal}. The use of three explanatory variable settings was chosen in order to detect curvature in the response surface. The parameter set tested while seeding the design space, in accordance with an $L_9 (3^4)$ orthogonal array, is shown in Table \ref{tab:geometries}.
 
 %Since the parameters generated during the initial seeding of the design space cannot assume a functional geometry (i.e., a geometry capable of focusing blood), the purpose of the initial iteration of experiments is directed towards discovering functional designs, as opposed to a comparison between functional designs. As such, the performance parameter used during this initial phase is peak prominence (Figure \ref{fig:algProg}c.). This is because $\chi$ (Figure \ref{fig:algProg}d.) can skew the results by rewarding peaks with small prominence values (i.e., poor focusing) and correspondingly small widths.  
-
-\begin{figure}[H]
-  \begin{minipage}[t]{0.49\linewidth}\centering
-    \includegraphics[width=7cm]{HeightPlot25ul}
-    \medskip
-    \centerline{(a) 25 $\mu$l/min}
-  \end{minipage}\hfill
-  \begin{minipage}[t]{0.49\linewidth}\centering
-    \includegraphics[width=7cm]{HeightPlot50ul}
-    \medskip
-    \centerline{(b) 50 $\mu$l/min}
-  \end{minipage}
-  \begin{minipage}[t]{0.99\linewidth}\centering
-    \includegraphics[width=7cm]{HeightPlot75ul}
-    \medskip
-    \centerline{(c) 75 $\mu$l/min}
-  \end{minipage}
-  \caption[Performance Comparison of Channel Height Study using Image Analysis]{Performance comparison of channel height study using image analysis. (a-c) plot the performance of the geometries in Table \ref{tab:height} for three volumetric flow rates: 25 $\mu$l/min, 50 $\mu$l/min and 75 $\mu$l/min, respectively. Performance is calculated from microscope images in the manner described in Section \ref{ssec:promToWidth}.  Datasets are shown for each channel height from 100 to 300$\mu$m.}
-	\label{fig:heightPlot}
-\end{figure}
 
 \begin{table}[h]
 % table caption is above the table
@@ -478,46 +461,6 @@ The response surface generated from the data points shown in Table \ref{tab:geom
 
 \subsection{Variable Isolation Studies}
 \label{ssec:iso}
-
-\begin{figure}[H]
-  \begin{minipage}[t]{0.49\linewidth}\centering
-    \includegraphics[width=7cm]{ErrorBars25ul}
-    \medskip
-    \centerline{(a)}
-  \end{minipage}\hfill
-  \begin{minipage}[t]{0.49\linewidth}\centering
-    \includegraphics[width=7cm]{ErrorBars50ul}
-    \medskip
-    \centerline{(b)}\\
-  \end{minipage}
-  \begin{minipage}[t]{0.99\linewidth}\centering
-    \includegraphics[width=7cm]{ErrorBars75ul}
-    \medskip
-    \centerline{(c)}
-  \end{minipage}
-  \caption[Performance Comparison Versus Baseline using Image Analysis]{Performance comparison versus baseline using image analysis. (a-c) plot the performance of the baseline versus the winner of the study for three volumetric flow rates: 25 $\mu$l/min, 50 $\mu$l/min and 75 $\mu$l/min, respectively. Performance is calculated from microscope images in the manner described in Section \ref{ssec:promToWidth}.}
-	\label{fig:headToHeadImages}
-\end{figure}
-
-\begin{figure}[H]
-  \begin{minipage}[t]{0.49\linewidth}\centering
-    \includegraphics[width=7cm]{ErrorBarBloodData25ul}
-    \medskip
-    \centerline{(a)}
-  \end{minipage}\hfill
-  \begin{minipage}[t]{0.49\linewidth}\centering
-    \includegraphics[width=7cm]{ErrorBarBloodData50ul}
-    \medskip
-    \centerline{(b)}\\
-  \end{minipage}
-  \begin{minipage}[t]{0.99\linewidth}\centering
-    \includegraphics[width=7cm]{ErrorBarBloodData75ul}
-    \medskip
-    \centerline{(c)}
-  \end{minipage}
-  \caption[Separation Performance Comparison Versus Baseline]{Blood separation performance comparison versus baseline. (a-c) plot the performance of the baseline versus the winner of the study for three volumetric flow rates: 25 $\mu$l/min, 50 $\mu$l/min and 75 $\mu$l/min, respectively. Performance is defined based on each design's ability to focus RBCs into the middle channel of the trifurcation shown in Figure \ref{fig:geometry}. RBC separation is defined as the number of RBCs measured at the center port divided by the total number of RBCs measured at the input port.}
-	\label{fig:headToHeadBlood}
-\end{figure}
 
 \subsubsection{Channel Width Study (Rapid Screening Test)}
 \label{sssec:width}
@@ -552,6 +495,28 @@ As a significant performance shift was observed as a result of a small adjustmen
 
 This design set fixed values for $W_c$, $W_s$, and $Y_{Pos}$ while varying $H_c$ resulting in the geometries shown in Table \ref{tab:height}. All devices in this set demonstrated focusing of blood; the frequencies for which are shown in Table \ref{tab:height}. This study was conducted in accordance with the final screening test specified in Section \ref{sssec:finalScreen}. The results shown in Figure \ref{fig:heightPlot} demonstrate that, for flow rates higher than 25 $\mu$l/min, the chip with a channel height of 250$\mu$m performed better than the other chips tested in terms of $\chi$ at all studied power levels. Thus the winning geometry of the study's device screening stage has a channel width of 550$\mu$m, a channel height of 250$\mu$m, a side-wall width of 850$\mu$m, with the channel in the High vertical position (i.e., Chip 4Hc in Table \ref{tab:height}).
 
+\begin{figure}[H]
+  \begin{minipage}[t]{0.49\linewidth}\centering
+    \includegraphics[width=7cm]{HeightPlot25ul}
+    \medskip
+    \centerline{(a) 25 $\mu$l/min}
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.49\linewidth}\centering
+    \includegraphics[width=7cm]{HeightPlot50ul}
+    \medskip
+    \centerline{(b) 50 $\mu$l/min}
+  \end{minipage}
+  \begin{minipage}[t]{0.99\linewidth}\centering
+    \includegraphics[width=7cm]{HeightPlot75ul}
+    \medskip
+    \centerline{(c) 75 $\mu$l/min}
+  \end{minipage}
+  \caption[Performance Comparison of Channel Height Study using Image Analysis]{Performance comparison of channel height study using image analysis. (a-c) plot the performance of the geometries in Table \ref{tab:height} for three volumetric flow rates: 25 $\mu$l/min, 50 $\mu$l/min and 75 $\mu$l/min, respectively. Performance is calculated from microscope images in the manner described in Section \ref{ssec:promToWidth}.  Datasets are shown for each channel height from 100 to 300$\mu$m.}
+	\label{fig:heightPlot}
+\end{figure}
+
+
+
 \begin{table}[h]
 % table caption is above the table
 \caption[Geometries tested for a final screening study of channel height]{Geometries tested for a final screening study of channel height with corresponding Chip ID. All dimensions are given in units of $\mu$m. The listed frequencies coincide with the locations of the corresponding device's fundamental odd resonant mode.}
@@ -584,7 +549,7 @@ The results of the screening tests shown in Figure \ref{fig:heightPlot} yield a 
 \centering
 \begin{tabular}{lllll | ccc}
 \hline\noalign{\smallskip}
-Chip & $W_c$ & $H_c$ & $W_s$ & $Y_{Pos}$ & $f$ ($MHz$) & Voltage @ 1 W ($V_{pp}$) & Current @ 1 W ($mA_{pp}$) \\
+Chip & $W_c$ & $H_c$ & $W_s$ & $Y_{Pos}$ & $f$ ($MHz$) & Voltage ($V_{pp}$) & Current ($mA_{pp}$) \\
 \noalign{\smallskip}\hline\noalign{\smallskip}
 Chip 2.0 & 550 & 250 & 850 & High & 0.632 & 56.44 ($\pm$2.4) & 1039 ($\pm$53)\\
 Baseline & 430 & 200 &  1055 & High & 1.012 & 45.78 ($\pm$1.86)& 1340 ($\pm$70)\\ 
@@ -595,9 +560,64 @@ Baseline & 430 & 200 &  1055 & High & 1.012 & 45.78 ($\pm$1.86)& 1340 ($\pm$70)\
 \subsubsection{Comparative Focusing}
 \label{sssec:comparisonFocusing}
 
-Figure \ref{fig:headToHeadImages}(a--c) plots the performance of Chip 2.0 against the baseline in terms $\chi$. The results show that Chip 2.0 outperforms the baseline for all tested combinations of flow and power settings.
+\begin{figure}[H]
+  \begin{minipage}[t]{0.49\linewidth}\centering
+    \includegraphics[width=7cm]{ErrorBars25ul}
+    \medskip
+    \centerline{(a)}
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.49\linewidth}\centering
+    \includegraphics[width=7cm]{ErrorBars50ul}
+    \medskip
+    \centerline{(b)}\\
+  \end{minipage}
+  \begin{minipage}[t]{0.99\linewidth}\centering
+    \includegraphics[width=7cm]{ErrorBars75ul}
+    \medskip
+    \centerline{(c)}
+  \end{minipage}
+  \caption[Performance Comparison Versus Baseline using Image Analysis]{Performance comparison versus baseline using image analysis. (a-c) plot the performance of the baseline versus the winner of the study for three volumetric flow rates: 25 $\mu$l/min, 50 $\mu$l/min and 75 $\mu$l/min, respectively. Performance is calculated from microscope images in the manner described in Section \ref{ssec:promToWidth}.}
+	\label{fig:headToHeadImages}
+\end{figure}
 
-\begin{figure}[htb]
+
+Figure \ref{fig:headToHeadImages}(a--c) plots the performance of Chip 2.0 against the baseline in terms $\chi$. The results show that Chip 2.0 outperforms the baseline for all tested combinations of flow and power settings.
+\subsubsection{Comparative Blood Separation}
+\label{sssec:comparisonBlood}
+
+\begin{figure}[H]
+  \begin{minipage}[t]{0.49\linewidth}\centering
+    \includegraphics[width=7cm]{ErrorBarBloodData25ul}
+    \medskip
+    \centerline{(a)}
+  \end{minipage}\hfill
+  \begin{minipage}[t]{0.49\linewidth}\centering
+    \includegraphics[width=7cm]{ErrorBarBloodData50ul}
+    \medskip
+    \centerline{(b)}\\
+  \end{minipage}
+  \begin{minipage}[t]{0.99\linewidth}\centering
+    \includegraphics[width=7cm]{ErrorBarBloodData75ul}
+    \medskip
+    \centerline{(c)}
+  \end{minipage}
+  \caption[Separation Performance Comparison Versus Baseline]{Blood separation performance comparison versus baseline. (a-c) plot the performance of the baseline versus the winner of the study for three volumetric flow rates: 25 $\mu$l/min, 50 $\mu$l/min and 75 $\mu$l/min, respectively. Performance is defined based on each design's ability to focus RBCs into the middle channel of the trifurcation shown in Figure \ref{fig:geometry}. RBC separation is defined as the number of RBCs measured at the center port divided by the total number of RBCs measured at the input port.}
+	\label{fig:headToHeadBlood}
+\end{figure}
+
+
+Figure \ref{fig:headToHeadBlood} plots the performance of Chip 2.0 against the baseline in terms of each device's ability to focus RBCs to the center port. The dynamic range of each measurement was limited between the control measurement (i.e., zero average dissipated power) and 100\% RBC concentration in the center channel. As the chip has two outlet ports (Figure \ref{fig:geometry}), RBCs will be approximately equally distributed between them in the acoustics-off (0 W input power) condition. The baseline and Chip 2.0 demonstrated comparable performance at a flow rate of 25 $\mu$l/min across all power settings; however, at higher flow rates Chip 2.0 outperformed the baseline across all non-control power settings. 
+
+
+
+\subsubsection{Comparative Bacterial Separation}
+\label{sssec:comparisonBacteria}
+
+Four experiments were conducted in three technical replicates, two for each device design (baseline and Chip 2.0),  in order to determine the optimal value for each measure of merit while holding the other constant. Optimality was defined as the maximum flow rate or minimum power required to maintain at least 90\% RBC separation between the side and center ports while bacteria recovery in the side port was measured. 
+
+The results in Figure \ref{fig:bacPerf} show that Chip 2.0 achieved a 175\% increase in throughput relative to the baseline. Additionally, Chip 2.0 was able to decrease the average dissipated power by 81.63\% when compared to that of the baseline geometry. The actual average RBC separation across all four experiments was 95.25\% ($\pm$1.89\%). The yield of the bacterial samples collected at the side port had a standard deviation of 0.05\%.  For both devices the yield of bacteria in the side port was 33.5\% ($\pm$3\%) after separation, showing that separation performance in the 2.0 design is equal to that of the baseline while enabling lower driving power and/or higher throughput.
+
+\begin{figure}[H]
   \begin{minipage}[t]{0.49\linewidth}\centering
     \includegraphics[width=7cm]{flowBac}
     \medskip
@@ -622,19 +642,7 @@ Figure \ref{fig:headToHeadImages}(a--c) plots the performance of Chip 2.0 agains
 	\label{fig:bacPerf}
 \end{figure}
 
-\subsubsection{Comparative Blood Separation}
-\label{sssec:comparisonBlood}
 
-Figure \ref{fig:headToHeadBlood} plots the performance of Chip 2.0 against the baseline in terms of each device's ability to focus RBCs to the center port. The dynamic range of each measurement was limited between the control measurement (i.e., zero average dissipated power) and 100\% RBC concentration in the center channel. As the chip has two outlet ports (Figure \ref{fig:geometry}), RBCs will be approximately equally distributed between them in the acoustics-off (0 W input power) condition. The baseline and Chip 2.0 demonstrated comparable performance at a flow rate of 25 $\mu$l/min across all power settings; however, at higher flow rates Chip 2.0 outperformed the baseline across all non-control power settings. 
-
-
-
-\subsubsection{Comparative Bacterial Separation}
-\label{sssec:comparisonBacteria}
-
-Four experiments were conducted in three technical replicates, two for each device design (baseline and Chip 2.0),  in order to determine the optimal value for each measure of merit while holding the other constant. Optimality was defined as the maximum flow rate or minimum power required to maintain at least 90\% RBC separation between the side and center ports while bacteria recovery in the side port was measured. 
-
-The results in Figure \ref{fig:bacPerf} show that Chip 2.0 achieved a 175\% increase in throughput relative to the baseline. Additionally, Chip 2.0 was able to decrease the average dissipated power by 81.63\% when compared to that of the baseline geometry. The actual average RBC separation across all four experiments was 95.25\% ($\pm$1.89\%). The yield of the bacterial samples collected at the side port had a standard deviation of 0.05\%.  For both devices the yield of bacteria in the side port was 33.5\% ($\pm$3\%) after separation, showing that separation performance in the 2.0 design is equal to that of the baseline while enabling lower driving power and/or higher throughput.
 
 It is worth noting that the Chip 2.0 design achieved better RBC separation  for both the maximum flow rate and minimum power experiments (98\% vs 94\% and 95\% vs 94\%, respectively) and equivalent bacterial recovery relative to the baseline across all four experiments; thus, for each Chip 2.0 experiment the measure of merit (flow or power) could show greater advantages if the RBC yield were adjusted to match that of the baseline. 
 

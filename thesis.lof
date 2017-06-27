@@ -20,7 +20,7 @@
 \contentsline {figure}{\numberline {4$\cdot $9}{\ignorespaces Electronic and Microfludic programmable architectures}}{48}
 \contentsline {figure}{\numberline {4$\cdot $10}{\ignorespaces Example of a functional, programmable microfluidic architecture}}{49}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5$\cdot $1}{\ignorespaces Rapid prototyping workflow}}{53}
+\contentsline {figure}{\numberline {5$\cdot $1}{\ignorespaces Rapid prototyping workflow}}{54}
 \contentsline {figure}{\numberline {5$\cdot $2}{\ignorespaces Acoustofluidic separation device and 2D geometric definitions}}{55}
 \contentsline {figure}{\numberline {5$\cdot $3}{\ignorespaces Single solid geometry}}{57}
 \contentsline {figure}{\numberline {5$\cdot $4}{\ignorespaces Example layout of multiple device designs}}{58}
@@ -28,12 +28,10 @@
 \contentsline {figure}{\numberline {5$\cdot $6}{\ignorespaces Microscope images at resonant frequency for increasing power levels}}{62}
 \contentsline {figure}{\numberline {5$\cdot $7}{\ignorespaces Prominence versus Frequency across swept bandwidth}}{64}
 \contentsline {figure}{\numberline {5$\cdot $8}{\ignorespaces Algorithmic progression for calculating prominence}}{71}
-\contentsline {figure}{\numberline {5$\cdot $9}{\ignorespaces Results of initial seeding of design space}}{73}
-\contentsline {figure}{\numberline {5$\cdot $10}{\ignorespaces Performance Comparison of Channel Height Study using Image Analysis}}{75}
-\contentsline {figure}{\numberline {5$\cdot $11}{\ignorespaces Performance Comparison Versus Baseline using Image Analysis}}{77}
-\contentsline {figure}{\numberline {5$\cdot $12}{\ignorespaces Separation Performance Comparison Versus Baseline}}{78}
-\contentsline {figure}{\numberline {5$\cdot $13}{\ignorespaces Bacterial separation performance comparison}}{85}
-\addvspace {10\p@ }
-\contentsline {figure}{\numberline {6$\cdot $1}{\ignorespaces Assignment of single-view intensities to RGB components: (a) view \#1; and (b) view \#2. \relax }}{86}
+\contentsline {figure}{\numberline {5$\cdot $9}{\ignorespaces Results of initial seeding of design space}}{74}
+\contentsline {figure}{\numberline {5$\cdot $10}{\ignorespaces Performance Comparison of Channel Height Study using Image Analysis}}{77}
+\contentsline {figure}{\numberline {5$\cdot $11}{\ignorespaces Performance Comparison Versus Baseline using Image Analysis}}{79}
+\contentsline {figure}{\numberline {5$\cdot $12}{\ignorespaces Separation Performance Comparison Versus Baseline}}{80}
+\contentsline {figure}{\numberline {5$\cdot $13}{\ignorespaces Bacterial separation performance comparison}}{82}
 \addvspace {10\p@ }
 \addvspace {10\p@ }

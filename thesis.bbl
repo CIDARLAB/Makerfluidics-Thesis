@@ -131,12 +131,6 @@ Damian, D. and Chisan, J. (2006).
   productivity, quality, and risk management.
 \newblock {\em Software Engineering, IEEE Transactions on}, 32(7):433--453.
 
-\bibitem[Debreuve et~al., 2001]{Debr01}
-Debreuve, E., Barlaud, M., Aubert, G., Laurette, I., and Darcourt, J. (2001).
-\newblock Space-time segmentation using level set active contours applied to
-  myocardial gated {SPECT}.
-\newblock {\em IEEE Trans.\ Med.\ Imag.}, 20(7):643--659.
-
 \bibitem[Duffy et~al., 1998]{duffy1998}
 Duffy, D.~C., McDonald, J.~C., Schueller, O.~J., and Whitesides, G.~M. (1998).
 \newblock Rapid prototyping of microfluidic systems in poly (dimethylsiloxane).
@@ -319,12 +313,6 @@ Kuon, I., Tessier, R., and Rose, J. (2008).
 Kwok, R. (2010).
 \newblock Five hard truths for synthetic biology.
 \newblock {\em Nature}, 463(7279):288--290.
-
-\bibitem[Lamport, 1985]{lamport1985:latex}
-Lamport, L. (1985).
-\newblock {\em {\LaTeX}---A Document Preparation System---User's Guide and
-  Reference Manual}.
-\newblock Ad{\-d}i{\-s}on-Wes{\-l}ey.
 
 \bibitem[Lashkaripour et~al., ]{ali2017iwbda}
 Lashkaripour, A., Sanka, R., Lippai, J., and Densmore, D.
