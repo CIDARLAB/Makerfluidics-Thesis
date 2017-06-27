@@ -462,6 +462,11 @@ Petersson, F., {\AA}berg, L., Sw{\"a}rd-Nilsson, A.-M., and Laurell, T. (2007).
   cell separation.
 \newblock {\em Analytical chemistry}, 79(14):5117--5123.
 
+\bibitem[Qin et~al., 2010]{qin2010soft}
+Qin, D., Xia, Y., and Whitesides, G.~M. (2010).
+\newblock Soft lithography for micro-and nanoscale patterning.
+\newblock {\em Nature protocols}, 5(3):491--502.
+
 \bibitem[Ro et~al., 2006]{artemisin}
 Ro, D.-K., Paradise, E.~M., Ouellet, M., Fisher, K.~J., Newman, K.~L., Ndungu,
   J.~M., Ho, K.~A., Eachus, R.~A., Ham, T.~S., Kirby, J., et~al. (2006).
@@ -474,6 +479,12 @@ Sanka, R., Lippai, J., and Densmore, D.
 \newblock mlsi design with mint.
 \newblock In {\em The Proceedings of the 9th International Workshop on
   Bio-Design Automation}.
+
+\bibitem[Schaller et~al., 1999]{schaller1999microstructure}
+Schaller, T., Bohn, L., Mayer, J., and Schubert, K. (1999).
+\newblock Microstructure grooves with a width of less than 50 $\mu$m cut with
+  ground hard metal micro end mills.
+\newblock {\em Precision Engineering}, 23(4):229--235.
 
 \bibitem[Schmit, 2005]{schmit2005extra}
 Schmit, H. (2005).
@@ -534,6 +545,11 @@ Swain, J., Lai, D., Takayama, S., and Smith, G. (2013).
 \newblock Thinking big by thinking small: application of microfluidic
   technology to improve art.
 \newblock {\em Lab on a Chip}, 13(7):1213--1224.
+
+\bibitem[Sweatt et~al., 2008]{sweatt2008diamond}
+Sweatt, W., Gill, D., Ada, D., Vasile, M., and Claudet, A. (2008).
+\newblock Diamond milling of micro-optics.
+\newblock {\em IEEE Aerospace and Electronic Systems Magazine}, 23(1):13--17.
 
 \bibitem[Tamsir et~al., 2011]{tamsir2011}
 Tamsir, A., Tabor, J.~J., and Voigt, C.~A. (2011).
@@ -612,7 +628,7 @@ Xia, Y. and Whitesides, G.~M. (1998).
 Yen, D.~P., Ando, Y., and Shen, K. (2016).
 \newblock A cost-effective micromilling platform for rapid prototyping of
   microdevices.
-\newblock {\em Technology}, pages 1--6.
+\newblock {\em Technology}, 4(04):234--239.
 
 \bibitem[Yokoyama et~al., 1993]{yokoyama1993taguchi}
 Yokoyama, Y. et~al. (1993).

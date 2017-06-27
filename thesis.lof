@@ -5,33 +5,34 @@
 \contentsline {figure}{\numberline {2$\cdot $3}{\ignorespaces Block diagram of IDAST sample processing via microfluidics}}{13}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3$\cdot $1}{\ignorespaces Specify--Design--Build Workflow}}{15}
-\contentsline {figure}{\numberline {3$\cdot $2}{\ignorespaces Illustration of valving primitive}}{17}
-\contentsline {figure}{\numberline {3$\cdot $3}{\ignorespaces MakerFluidics Fabrication Protocol}}{18}
-\contentsline {figure}{\numberline {3$\cdot $4}{\ignorespaces Valving sequence temporal specification}}{20}
+\contentsline {figure}{\numberline {3$\cdot $2}{\ignorespaces Example device parameters}}{18}
+\contentsline {figure}{\numberline {3$\cdot $3}{\ignorespaces Illustration of valving primitive}}{19}
+\contentsline {figure}{\numberline {3$\cdot $4}{\ignorespaces MakerFluidics Fabrication Protocol}}{21}
+\contentsline {figure}{\numberline {3$\cdot $5}{\ignorespaces Valving sequence temporal specification}}{22}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4$\cdot $1}{\ignorespaces Transposer theory of operation}}{26}
-\contentsline {figure}{\numberline {4$\cdot $2}{\ignorespaces Functional, physical, and graphical representations of a transposer}}{28}
-\contentsline {figure}{\numberline {4$\cdot $3}{\ignorespaces Microfluidic assembly stack for a transposer}}{29}
-\contentsline {figure}{\numberline {4$\cdot $4}{\ignorespaces Examples of a populated routing fabric}}{31}
-\contentsline {figure}{\numberline {4$\cdot $5}{\ignorespaces Transposer routing algorithmic progression}}{37}
-\contentsline {figure}{\numberline {4$\cdot $6}{\ignorespaces Graphical representations of an illegally routed versus a correctly routed graph}}{38}
-\contentsline {figure}{\numberline {4$\cdot $7}{\ignorespaces Photographs of all possible permutations for a three-input routing fabric}}{43}
-\contentsline {figure}{\numberline {4$\cdot $8}{\ignorespaces Electronic and Microfluidic programmable routing blocks}}{44}
-\contentsline {figure}{\numberline {4$\cdot $9}{\ignorespaces Electronic and Microfludic programmable architectures}}{48}
-\contentsline {figure}{\numberline {4$\cdot $10}{\ignorespaces Example of a functional, programmable microfluidic architecture}}{49}
+\contentsline {figure}{\numberline {4$\cdot $1}{\ignorespaces Transposer theory of operation}}{28}
+\contentsline {figure}{\numberline {4$\cdot $2}{\ignorespaces Functional, physical, and graphical representations of a transposer}}{30}
+\contentsline {figure}{\numberline {4$\cdot $3}{\ignorespaces Microfluidic assembly stack for a transposer}}{31}
+\contentsline {figure}{\numberline {4$\cdot $4}{\ignorespaces Examples of a populated routing fabric}}{33}
+\contentsline {figure}{\numberline {4$\cdot $5}{\ignorespaces Transposer routing algorithmic progression}}{39}
+\contentsline {figure}{\numberline {4$\cdot $6}{\ignorespaces Graphical representations of an illegally routed versus a correctly routed graph}}{40}
+\contentsline {figure}{\numberline {4$\cdot $7}{\ignorespaces Photographs of all possible permutations for a three-input routing fabric}}{45}
+\contentsline {figure}{\numberline {4$\cdot $8}{\ignorespaces Electronic and Microfluidic programmable routing blocks}}{46}
+\contentsline {figure}{\numberline {4$\cdot $9}{\ignorespaces Electronic and Microfludic programmable architectures}}{50}
+\contentsline {figure}{\numberline {4$\cdot $10}{\ignorespaces Example of a functional, programmable microfluidic architecture}}{51}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5$\cdot $1}{\ignorespaces Rapid prototyping workflow}}{54}
-\contentsline {figure}{\numberline {5$\cdot $2}{\ignorespaces Acoustofluidic separation device and 2D geometric definitions}}{55}
-\contentsline {figure}{\numberline {5$\cdot $3}{\ignorespaces Single solid geometry}}{57}
-\contentsline {figure}{\numberline {5$\cdot $4}{\ignorespaces Example layout of multiple device designs}}{58}
-\contentsline {figure}{\numberline {5$\cdot $5}{\ignorespaces Pixel grayscale values across the width of the fluidic channel}}{61}
-\contentsline {figure}{\numberline {5$\cdot $6}{\ignorespaces Microscope images at resonant frequency for increasing power levels}}{62}
-\contentsline {figure}{\numberline {5$\cdot $7}{\ignorespaces Prominence versus Frequency across swept bandwidth}}{64}
-\contentsline {figure}{\numberline {5$\cdot $8}{\ignorespaces Algorithmic progression for calculating prominence}}{71}
-\contentsline {figure}{\numberline {5$\cdot $9}{\ignorespaces Results of initial seeding of design space}}{74}
-\contentsline {figure}{\numberline {5$\cdot $10}{\ignorespaces Performance Comparison of Channel Height Study using Image Analysis}}{77}
-\contentsline {figure}{\numberline {5$\cdot $11}{\ignorespaces Performance Comparison Versus Baseline using Image Analysis}}{79}
-\contentsline {figure}{\numberline {5$\cdot $12}{\ignorespaces Separation Performance Comparison Versus Baseline}}{80}
-\contentsline {figure}{\numberline {5$\cdot $13}{\ignorespaces Bacterial separation performance comparison}}{82}
+\contentsline {figure}{\numberline {5$\cdot $1}{\ignorespaces Rapid prototyping workflow}}{56}
+\contentsline {figure}{\numberline {5$\cdot $2}{\ignorespaces Acoustofluidic separation device and 2D geometric definitions}}{57}
+\contentsline {figure}{\numberline {5$\cdot $3}{\ignorespaces Single solid geometry}}{59}
+\contentsline {figure}{\numberline {5$\cdot $4}{\ignorespaces Example layout of multiple device designs}}{60}
+\contentsline {figure}{\numberline {5$\cdot $5}{\ignorespaces Pixel grayscale values across the width of the fluidic channel}}{63}
+\contentsline {figure}{\numberline {5$\cdot $6}{\ignorespaces Microscope images at resonant frequency for increasing power levels}}{64}
+\contentsline {figure}{\numberline {5$\cdot $7}{\ignorespaces Prominence versus Frequency across swept bandwidth}}{66}
+\contentsline {figure}{\numberline {5$\cdot $8}{\ignorespaces Algorithmic progression for calculating prominence}}{73}
+\contentsline {figure}{\numberline {5$\cdot $9}{\ignorespaces Results of initial seeding of design space}}{76}
+\contentsline {figure}{\numberline {5$\cdot $10}{\ignorespaces Performance Comparison of Channel Height Study using Image Analysis}}{79}
+\contentsline {figure}{\numberline {5$\cdot $11}{\ignorespaces Performance Comparison Versus Baseline using Image Analysis}}{81}
+\contentsline {figure}{\numberline {5$\cdot $12}{\ignorespaces Separation Performance Comparison Versus Baseline}}{82}
+\contentsline {figure}{\numberline {5$\cdot $13}{\ignorespaces Bacterial separation performance comparison}}{84}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
