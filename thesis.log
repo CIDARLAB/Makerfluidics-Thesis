@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  27 JUN 2017 15:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUN 2017 13:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,7 +456,7 @@ ver-sus a cor-rectly routed
 \openout6 = `thesis.lof'.
 
  [13]
-Overfull \hbox (39.17992pt too wide) in paragraph at lines 134--154
+Overfull \hbox (36.573pt too wide) in paragraph at lines 134--152
  [] 
  []
 
@@ -469,44 +469,44 @@ Chapter 1.
 
 
 
-] [2]) [3] (./1a_background/background.tex
+] [2]) [3] [4] (./1a_background/background.tex
 Chapter 2.
-[4
+[5
 
 
-] [5]
-<1a_background/Figures/equipSoftLith.pdf, id=70, 301.125pt x 668.4975pt>
+] [6]
+<1a_background/Figures/equipSoftLith.pdf, id=71, 301.125pt x 668.4975pt>
 File: 1a_background/Figures/equipSoftLith.pdf Graphic file (type pdf)
 
 <use 1a_background/Figures/equipSoftLith.pdf>
 Package pdftex.def Info: 1a_background/Figures/equipSoftLith.pdf used on input 
 line 22.
 (pdftex.def)             Requested size: 170.71652pt x 379.00745pt.
- [6 <./1a_background/Figures/equipSoftLith.pdf>] [7] [8] [9] [10] [11]
+ [7 <./1a_background/Figures/equipSoftLith.pdf>] [8] [9] [10] [11] [12]
 Overfull \hbox (9.55104pt too wide) in paragraph at lines 59--59
 []\OT1/cmr/bx/n/14.4 Pathogen Iden-ti-fi-ca-tion and An-tibi-otic Sus-cep-ti-bi
 l-ity Test-
  []
 
-<1a_background/Figures/idastFlow.pdf, id=146, 579.16376pt x 225.84375pt>
+<1a_background/Figures/idastFlow.pdf, id=147, 579.16376pt x 225.84375pt>
 File: 1a_background/Figures/idastFlow.pdf Graphic file (type pdf)
 
 <use 1a_background/Figures/idastFlow.pdf>
 Package pdftex.def Info: 1a_background/Figures/idastFlow.pdf used on input line
  66.
 (pdftex.def)             Requested size: 369.88582pt x 144.23624pt.
- [12 <./1a_background/Figures/idastFlow.pdf>]
-<1a_background/Figures/idastUfFlow.pdf, id=164, 651.43375pt x 251.94125pt>
+ [13 <./1a_background/Figures/idastFlow.pdf>]
+<1a_background/Figures/idastUfFlow.pdf, id=165, 651.43375pt x 251.94125pt>
 File: 1a_background/Figures/idastUfFlow.pdf Graphic file (type pdf)
 
 <use 1a_background/Figures/idastUfFlow.pdf>
 Package pdftex.def Info: 1a_background/Figures/idastUfFlow.pdf used on input li
 ne 77.
 (pdftex.def)             Requested size: 369.88582pt x 143.05826pt.
-) [13 <./1a_background/Figures/idastUfFlow.pdf>] (./2_MakerFluidics/makerfluidi
+) [14 <./1a_background/Figures/idastUfFlow.pdf>] (./2_MakerFluidics/makerfluidi
 cs.tex
 Chapter 3.
-<2_MakerFluidics/Figures/fullflow.pdf, id=183, 740.7675pt x 647.41875pt>
+<2_MakerFluidics/Figures/fullflow.pdf, id=184, 740.7675pt x 647.41875pt>
 File: 2_MakerFluidics/Figures/fullflow.pdf Graphic file (type pdf)
 
 <use 2_MakerFluidics/Figures/fullflow.pdf>
@@ -517,11 +517,11 @@ e 21.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14
+[15
 
 
-] [15 <./2_MakerFluidics/Figures/fullflow.pdf>] [16]
-<2_MakerFluidics/Figures/params.pdf, id=329, 470.75874pt x 318.18875pt>
+] [16 <./2_MakerFluidics/Figures/fullflow.pdf>] [17]
+<2_MakerFluidics/Figures/params.pdf, id=331, 470.75874pt x 318.18875pt>
 File: 2_MakerFluidics/Figures/params.pdf Graphic file (type pdf)
 
 <use 2_MakerFluidics/Figures/params.pdf>
@@ -532,8 +532,8 @@ Package pdftex.def Info: 2_MakerFluidics/Figures/params.pdf used on input line
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17] [18 <./2_MakerFluidics/Figures/params.pdf>]
-<2_MakerFluidics/Figures/valves1.pdf, id=375, 638.385pt x 476.78125pt>
+[18] [19 <./2_MakerFluidics/Figures/params.pdf>]
+<2_MakerFluidics/Figures/valves1.pdf, id=376, 638.385pt x 476.78125pt>
 File: 2_MakerFluidics/Figures/valves1.pdf Graphic file (type pdf)
 
 <use 2_MakerFluidics/Figures/valves1.pdf>
@@ -546,48 +546,38 @@ Overfull \hbox (10.55214pt too wide) in paragraph at lines 108--108
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--112
-[]\OT1/cmr/m/n/12 Feature
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--115
-[]\OT1/cmr/m/n/12 Feature
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 117--117
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
 []\OT1/cmr/m/n/12 Bonding
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 []\OT1/cmr/m/n/12 (McDonald and
  []
 
-[19 <./2_MakerFluidics/Figures/valves1.pdf>]
-<2_MakerFluidics/Figures/fabFlow.pdf, id=401, 700.6175pt x 505.89pt>
+[20 <./2_MakerFluidics/Figures/valves1.pdf>]
+<2_MakerFluidics/Figures/fabFlow.pdf, id=402, 700.6175pt x 505.89pt>
 File: 2_MakerFluidics/Figures/fabFlow.pdf Graphic file (type pdf)
 
 <use 2_MakerFluidics/Figures/fabFlow.pdf>
 Package pdftex.def Info: 2_MakerFluidics/Figures/fabFlow.pdf used on input line
- 133.
+ 135.
 (pdftex.def)             Requested size: 398.33858pt x 287.62695pt.
- [20] [21 <./2_MakerFluidics/Figures/fabFlow.pdf>]
-<2_MakerFluidics/Figures/sequence.pdf, id=459, 988.69376pt x 783.92876pt>
+ [21] [22 <./2_MakerFluidics/Figures/fabFlow.pdf>]
+<2_MakerFluidics/Figures/sequence.pdf, id=460, 988.69376pt x 783.92876pt>
 File: 2_MakerFluidics/Figures/sequence.pdf Graphic file (type pdf)
 
 <use 2_MakerFluidics/Figures/sequence.pdf>
 Package pdftex.def Info: 2_MakerFluidics/Figures/sequence.pdf used on input lin
-e 151.
+e 153.
 (pdftex.def)             Requested size: 398.33858pt x 315.83868pt.
-) [22 <./2_MakerFluidics/Figures/sequence.pdf>] (./3_xposer/xposer.tex
+) [23 <./2_MakerFluidics/Figures/sequence.pdf>] [24] (./3_xposer/xposer.tex
 Chapter 4.
-[23
+[25
 
 
-] [24] [25] [26]
-<3_xposer/Figures/fig1.pdf, id=512, 1465.475pt x 398.48875pt>
+] [26] [27] [28]
+<3_xposer/Figures/fig1.pdf, id=516, 1465.475pt x 398.48875pt>
 File: 3_xposer/Figures/fig1.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig1.pdf>
@@ -597,17 +587,17 @@ Package pdftex.def Info: 3_xposer/Figures/fig1.pdf used on input line 43.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[27] <3_xposer/Figures/fig2.pdf, id=516, 519.9425pt x 459.7175pt>
+[29] <3_xposer/Figures/fig2.pdf, id=521, 519.9425pt x 459.7175pt>
 File: 3_xposer/Figures/fig2.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig2.pdf>
 Package pdftex.def Info: 3_xposer/Figures/fig2.pdf used on input line 57.
 (pdftex.def)             Requested size: 256.0748pt x 226.41396pt.
- [28 <./3_xposer/Figures/fig1.pdf>]
+ [30 <./3_xposer/Figures/fig1.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<3_xposer/Figures/fig3.pdf, id=552, 614.295pt x 794.97pt>
+<3_xposer/Figures/fig3.pdf, id=557, 614.295pt x 794.97pt>
 File: 3_xposer/Figures/fig3.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig3.pdf>
@@ -617,15 +607,15 @@ Package pdftex.def Info: 3_xposer/Figures/fig3.pdf used on input line 66.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[29] [30 <./3_xposer/Figures/fig2.pdf>] [31 <./3_xposer/Figures/fig3.pdf>]
-[32] <3_xposer/Figures/fig4.pdf, id=610, 609.27625pt x 661.47125pt>
+[31] [32 <./3_xposer/Figures/fig2.pdf>] [33 <./3_xposer/Figures/fig3.pdf>]
+[34] <3_xposer/Figures/fig4.pdf, id=615, 609.27625pt x 661.47125pt>
 File: 3_xposer/Figures/fig4.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig4.pdf>
 Package pdftex.def Info: 3_xposer/Figures/fig4.pdf used on input line 96.
 (pdftex.def)             Requested size: 256.0748pt x 278.0179pt.
- [33 <./3_xposer/Figures/fig4.pdf>] [34]
-[35] [36] [37] <3_xposer/Figures/fig5.pdf, id=648, 465.74pt x 743.77875pt>
+ [35 <./3_xposer/Figures/fig4.pdf>] [36]
+[37] [38] [39] <3_xposer/Figures/fig5.pdf, id=653, 465.74pt x 743.77875pt>
 File: 3_xposer/Figures/fig5.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig5.pdf>
@@ -635,7 +625,7 @@ Package pdftex.def Info: 3_xposer/Figures/fig5.pdf used on input line 218.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<3_xposer/Figures/fig6.pdf, id=649, 465.74pt x 498.86375pt>
+<3_xposer/Figures/fig6.pdf, id=654, 465.74pt x 498.86375pt>
 File: 3_xposer/Figures/fig6.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig6.pdf>
@@ -645,8 +635,8 @@ Package pdftex.def Info: 3_xposer/Figures/fig6.pdf used on input line 227.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[38] [39 <./3_xposer/Figures/fig5.pdf>] [40 <./3_xposer/Figures/fig6.pdf>]
-[41] [42] [43] <3_xposer/Figures/fig7.pdf, id=705, 1480.53125pt x 904.37875pt>
+[40] [41 <./3_xposer/Figures/fig5.pdf>] [42 <./3_xposer/Figures/fig6.pdf>]
+[43] [44] [45] <3_xposer/Figures/fig7.pdf, id=710, 1480.53125pt x 904.37875pt>
 File: 3_xposer/Figures/fig7.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig7.pdf>
@@ -656,15 +646,15 @@ Package pdftex.def Info: 3_xposer/Figures/fig7.pdf used on input line 317.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[44] [45 <./3_xposer/Figures/fig7.pdf>]
-<3_xposer/Figures/fig8.pdf, id=757, 1004.75375pt x 407.5225pt>
+[46] [47 <./3_xposer/Figures/fig7.pdf>]
+<3_xposer/Figures/fig8.pdf, id=763, 1004.75375pt x 407.5225pt>
 File: 3_xposer/Figures/fig8.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig8.pdf>
 Package pdftex.def Info: 3_xposer/Figures/fig8.pdf used on input line 331.
 (pdftex.def)             Requested size: 426.79134pt x 173.09837pt.
- [46 <./3_xposer/Figures/fig8.pdf>] [47]
-[48] <3_xposer/Figures/fig9.pdf, id=789, 1813.77625pt x 1019.81pt>
+ [48 <./3_xposer/Figures/fig8.pdf>] [49]
+[50] <3_xposer/Figures/fig9.pdf, id=794, 1813.77625pt x 1019.81pt>
 File: 3_xposer/Figures/fig9.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig9.pdf>
@@ -674,48 +664,48 @@ Package pdftex.def Info: 3_xposer/Figures/fig9.pdf used on input line 357.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<3_xposer/Figures/fig10.pdf, id=790, 1314.9125pt x 842.14626pt>
+<3_xposer/Figures/fig10.pdf, id=795, 1314.9125pt x 842.14626pt>
 File: 3_xposer/Figures/fig10.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig10.pdf>
 Package pdftex.def Info: 3_xposer/Figures/fig10.pdf used on input line 367.
 (pdftex.def)             Requested size: 398.33858pt x 255.11305pt.
- [49]
+ [51]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[50 <./3_xposer/Figures/fig9.pdf>] [51 <./3_xposer/Figures/fig10.pdf>])
-[52] (./4_acoust/acoust.tex
+[52 <./3_xposer/Figures/fig9.pdf>] [53 <./3_xposer/Figures/fig10.pdf>])
+[54] (./4_acoust/acoust.tex
 Chapter 5.
-[53
+[55
 
 
-] [54] [55] <4_acoust/Figures/flow.pdf, id=848, 882.29625pt x 569.12625pt>
+] [56] [57] <4_acoust/Figures/flow.pdf, id=853, 882.29625pt x 569.12625pt>
 File: 4_acoust/Figures/flow.pdf Graphic file (type pdf)
 
 <use 4_acoust/Figures/flow.pdf>
 Package pdftex.def Info: 4_acoust/Figures/flow.pdf used on input line 40.
 (pdftex.def)             Requested size: 398.33858pt x 256.94681pt.
- [56 <./4_acoust/Figures/flow.pdf>]
-<4_acoust/Figures/chip.pdf, id=875, 623.32875pt x 177.66376pt>
+ [58 <./4_acoust/Figures/flow.pdf>]
+<4_acoust/Figures/chip.pdf, id=880, 623.32875pt x 177.66376pt>
 File: 4_acoust/Figures/chip.pdf Graphic file (type pdf)
 
 <use 4_acoust/Figures/chip.pdf>
 Package pdftex.def Info: 4_acoust/Figures/chip.pdf used on input line 52.
 (pdftex.def)             Requested size: 398.33858pt x 113.53633pt.
 
-<4_acoust/Figures/2D.pdf, id=876, 719.68875pt x 259.97125pt>
+<4_acoust/Figures/2D.pdf, id=881, 719.68875pt x 259.97125pt>
 File: 4_acoust/Figures/2D.pdf Graphic file (type pdf)
 
 <use 4_acoust/Figures/2D.pdf>
 Package pdftex.def Info: 4_acoust/Figures/2D.pdf used on input line 57.
 (pdftex.def)             Requested size: 398.33858pt x 143.89302pt.
- [57 <./4_acoust/Figures/chip.pdf> <./4_acoust/Figures/2D.pdf>]
+ [59 <./4_acoust/Figures/chip.pdf> <./4_acoust/Figures/2D.pdf>]
 Overfull \hbox (13.29099pt too wide) in paragraph at lines 75--80
 []$[]$ 
  []
 
-<4_acoust/Figures/PaperExampleListing1.png, id=944, 2569.6pt x 1377.145pt>
+<4_acoust/Figures/PaperExampleListing1.png, id=950, 2569.6pt x 1377.145pt>
 File: 4_acoust/Figures/PaperExampleListing1.png Graphic file (type png)
 
 <use 4_acoust/Figures/PaperExampleListing1.png>
@@ -736,20 +726,20 @@ Overfull \hbox (13.29099pt too wide) in paragraph at lines 89--113
 []$[]$ 
  []
 
-<4_acoust/Figures/ExampleLayout.png, id=945, 2569.6pt x 1377.145pt>
+<4_acoust/Figures/ExampleLayout.png, id=951, 2569.6pt x 1377.145pt>
 File: 4_acoust/Figures/ExampleLayout.png Graphic file (type png)
 
 <use 4_acoust/Figures/ExampleLayout.png>
 Package pdftex.def Info: 4_acoust/Figures/ExampleLayout.png used on input line 
 117.
 (pdftex.def)             Requested size: 398.33858pt x 213.47627pt.
- [58]
+ [60]
 Overfull \vbox (16.18745pt too high) has occurred while \output is active []
 
 
-[59 <./4_acoust/Figures/PaperExampleListing1.png (PNG copy)>] [60 <./4_acoust/F
-igures/ExampleLayout.png (PNG copy)>] [61]
-<4_acoust/Figures/Baseline3PromFlow.png, id=962, 562.2606pt x 421.575pt>
+[61 <./4_acoust/Figures/PaperExampleListing1.png (PNG copy)>] [62 <./4_acoust/F
+igures/ExampleLayout.png (PNG copy)>] [63]
+<4_acoust/Figures/Baseline3PromFlow.png, id=967, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/Baseline3PromFlow.png Graphic file (type png)
 
 <use 4_acoust/Figures/Baseline3PromFlow.png>
@@ -757,7 +747,7 @@ Package pdftex.def Info: 4_acoust/Figures/Baseline3PromFlow.png used on input l
 ine 144.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/Baseline3PromPower.png, id=963, 562.2606pt x 421.575pt>
+<4_acoust/Figures/Baseline3PromPower.png, id=968, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/Baseline3PromPower.png Graphic file (type png)
 
 <use 4_acoust/Figures/Baseline3PromPower.png>
@@ -765,7 +755,7 @@ Package pdftex.def Info: 4_acoust/Figures/Baseline3PromPower.png used on input
 line 149.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/25ul250mWBaseline_3.png, id=964, 1927.2pt x 1084.05pt>
+<4_acoust/Figures/25ul250mWBaseline_3.png, id=969, 1927.2pt x 1084.05pt>
 File: 4_acoust/Figures/25ul250mWBaseline_3.png Graphic file (type png)
 
 <use 4_acoust/Figures/25ul250mWBaseline_3.png>
@@ -773,7 +763,7 @@ Package pdftex.def Info: 4_acoust/Figures/25ul250mWBaseline_3.png used on input
  line 159.
 (pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
 
-<4_acoust/Figures/25ul500mWBaseline_3.png, id=965, 1927.2pt x 1084.05pt>
+<4_acoust/Figures/25ul500mWBaseline_3.png, id=970, 1927.2pt x 1084.05pt>
 File: 4_acoust/Figures/25ul500mWBaseline_3.png Graphic file (type png)
 
 <use 4_acoust/Figures/25ul500mWBaseline_3.png>
@@ -781,7 +771,7 @@ Package pdftex.def Info: 4_acoust/Figures/25ul500mWBaseline_3.png used on input
  line 164.
 (pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
 
-<4_acoust/Figures/25ul750mWBaseline_3.png, id=966, 1927.2pt x 1084.05pt>
+<4_acoust/Figures/25ul750mWBaseline_3.png, id=971, 1927.2pt x 1084.05pt>
 File: 4_acoust/Figures/25ul750mWBaseline_3.png Graphic file (type png)
 
 <use 4_acoust/Figures/25ul750mWBaseline_3.png>
@@ -789,7 +779,7 @@ Package pdftex.def Info: 4_acoust/Figures/25ul750mWBaseline_3.png used on input
  line 169.
 (pdftex.def)             Requested size: 199.16928pt x 112.01733pt.
 
-<4_acoust/Figures/25ul1000mWBaseline_3.png, id=967, 1927.2pt x 1084.05pt>
+<4_acoust/Figures/25ul1000mWBaseline_3.png, id=972, 1927.2pt x 1084.05pt>
 File: 4_acoust/Figures/25ul1000mWBaseline_3.png Graphic file (type png)
 
 <use 4_acoust/Figures/25ul1000mWBaseline_3.png>
@@ -801,50 +791,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 158--178
 
  []
 
-[62] [63 <./4_acoust/Figures/Baseline3PromFlow.png (PNG copy)> <./4_acoust/Figu
-res/Baseline3PromPower.png (PNG copy)>] [64 <./4_acoust/Figures/25ul250mWBaseli
+[64] [65 <./4_acoust/Figures/Baseline3PromFlow.png (PNG copy)> <./4_acoust/Figu
+res/Baseline3PromPower.png (PNG copy)>] [66 <./4_acoust/Figures/25ul250mWBaseli
 ne_3.png (PNG copy)> <./4_acoust/Figures/25ul500mWBaseline_3.png (PNG copy)> <.
 /4_acoust/Figures/25ul750mWBaseline_3.png (PNG copy)> <./4_acoust/Figures/25ul1
 000mWBaseline_3.png (PNG copy)>]
-<4_acoust/Figures/freqSweep.png, id=977, 562.2606pt x 421.575pt>
+<4_acoust/Figures/freqSweep.png, id=983, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/freqSweep.png Graphic file (type png)
 
 <use 4_acoust/Figures/freqSweep.png>
 Package pdftex.def Info: 4_acoust/Figures/freqSweep.png used on input line 197.
 
 (pdftex.def)             Requested size: 341.43306pt x 256.00247pt.
- [65] [66 <./4_acoust/Figures/freqSweep.png (PNG copy)>] [67] [68] [69] [70]
-<4_acoust/Figures/alg.png, id=998, 722.7pt x 542.025pt>
+ [67] [68 <./4_acoust/Figures/freqSweep.png (PNG copy)>] [69] [70] [71] [72]
+<4_acoust/Figures/alg.png, id=1004, 722.7pt x 542.025pt>
 File: 4_acoust/Figures/alg.png Graphic file (type png)
 
 <use 4_acoust/Figures/alg.png>
 Package pdftex.def Info: 4_acoust/Figures/alg.png used on input line 365.
 (pdftex.def)             Requested size: 341.43306pt x 256.07507pt.
- [71] [72]
+ [73] [74]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ì in font cmr12!
- [73 <./4_acoust/Figures/alg.png>]
-[74] <4_acoust/Figures/L9.pdf, id=1014, 622.325pt x 155.58125pt>
+ [75 <./4_acoust/Figures/alg.png>]
+[76] <4_acoust/Figures/L9.pdf, id=1019, 622.325pt x 155.58125pt>
 File: 4_acoust/Figures/L9.pdf Graphic file (type pdf)
 
 <use 4_acoust/Figures/L9.pdf>
 Package pdftex.def Info: 4_acoust/Figures/L9.pdf used on input line 427.
 (pdftex.def)             Requested size: 398.33858pt x 99.58589pt.
- [75]
+ [77]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Missing character: There is no ¬ in font cmr12!
 Missing character: There is no Æ in font cmr12!
-[76 <./4_acoust/Figures/L9.pdf>]
+[78 <./4_acoust/Figures/L9.pdf>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[77] <4_acoust/Figures/HeightPlot25ul.png, id=1040, 562.2606pt x 421.575pt>
+[79] <4_acoust/Figures/HeightPlot25ul.png, id=1045, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/HeightPlot25ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/HeightPlot25ul.png>
@@ -852,7 +842,7 @@ Package pdftex.def Info: 4_acoust/Figures/HeightPlot25ul.png used on input line
  500.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/HeightPlot50ul.png, id=1041, 562.2606pt x 421.575pt>
+<4_acoust/Figures/HeightPlot50ul.png, id=1046, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/HeightPlot50ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/HeightPlot50ul.png>
@@ -860,20 +850,20 @@ Package pdftex.def Info: 4_acoust/Figures/HeightPlot50ul.png used on input line
  505.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/HeightPlot75ul.png, id=1042, 562.2606pt x 421.575pt>
+<4_acoust/Figures/HeightPlot75ul.png, id=1047, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/HeightPlot75ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/HeightPlot75ul.png>
 Package pdftex.def Info: 4_acoust/Figures/HeightPlot75ul.png used on input line
  510.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
- [78]
+ [80]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[79 <./4_acoust/Figures/HeightPlot25ul.png (PNG copy)> <./4_acoust/Figures/Heig
+[81 <./4_acoust/Figures/HeightPlot25ul.png (PNG copy)> <./4_acoust/Figures/Heig
 htPlot50ul.png (PNG copy)> <./4_acoust/Figures/HeightPlot75ul.png (PNG copy)>]
-<4_acoust/Figures/ErrorBars25ul.png, id=1049, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBars25ul.png, id=1054, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBars25ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBars25ul.png>
@@ -881,7 +871,7 @@ Package pdftex.def Info: 4_acoust/Figures/ErrorBars25ul.png used on input line
 565.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/ErrorBars50ul.png, id=1050, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBars50ul.png, id=1055, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBars50ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBars50ul.png>
@@ -889,15 +879,15 @@ Package pdftex.def Info: 4_acoust/Figures/ErrorBars50ul.png used on input line
 570.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/ErrorBars75ul.png, id=1051, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBars75ul.png, id=1056, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBars75ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBars75ul.png>
 Package pdftex.def Info: 4_acoust/Figures/ErrorBars75ul.png used on input line 
 575.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
- [80]
-<4_acoust/Figures/ErrorBarBloodData25ul.png, id=1055, 562.2606pt x 421.575pt>
+ [82]
+<4_acoust/Figures/ErrorBarBloodData25ul.png, id=1060, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBarBloodData25ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBarBloodData25ul.png>
@@ -905,7 +895,7 @@ Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData25ul.png used on inp
 ut line 590.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/ErrorBarBloodData50ul.png, id=1056, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBarBloodData50ul.png, id=1061, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBarBloodData50ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBarBloodData50ul.png>
@@ -913,40 +903,40 @@ Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData50ul.png used on inp
 ut line 595.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/ErrorBarBloodData75ul.png, id=1057, 562.2606pt x 421.575pt>
+<4_acoust/Figures/ErrorBarBloodData75ul.png, id=1062, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/ErrorBarBloodData75ul.png Graphic file (type png)
 
 <use 4_acoust/Figures/ErrorBarBloodData75ul.png>
 Package pdftex.def Info: 4_acoust/Figures/ErrorBarBloodData75ul.png used on inp
 ut line 600.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
- [81 <./4_acoust/Figures/ErrorBars25ul.png (PNG copy)> <./4_acoust/Figures/Erro
+ [83 <./4_acoust/Figures/ErrorBars25ul.png (PNG copy)> <./4_acoust/Figures/Erro
 rBars50ul.png (PNG copy)> <./4_acoust/Figures/ErrorBars75ul.png (PNG copy)>] [8
-2 <./4_acoust/Figures/ErrorBarBloodData25ul.png (PNG copy)> <./4_acoust/Figures
+4 <./4_acoust/Figures/ErrorBarBloodData25ul.png (PNG copy)> <./4_acoust/Figures
 /ErrorBarBloodData50ul.png (PNG copy)> <./4_acoust/Figures/ErrorBarBloodData75u
 l.png (PNG copy)>]
-<4_acoust/Figures/flowBac.png, id=1064, 562.2606pt x 421.575pt>
+<4_acoust/Figures/flowBac.png, id=1070, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/flowBac.png Graphic file (type png)
 
 <use 4_acoust/Figures/flowBac.png>
 Package pdftex.def Info: 4_acoust/Figures/flowBac.png used on input line 622.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/maxFlow.png, id=1065, 562.2606pt x 421.575pt>
+<4_acoust/Figures/maxFlow.png, id=1071, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/maxFlow.png Graphic file (type png)
 
 <use 4_acoust/Figures/maxFlow.png>
 Package pdftex.def Info: 4_acoust/Figures/maxFlow.png used on input line 627.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/powerBac.png, id=1066, 562.2606pt x 421.575pt>
+<4_acoust/Figures/powerBac.png, id=1072, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/powerBac.png Graphic file (type png)
 
 <use 4_acoust/Figures/powerBac.png>
 Package pdftex.def Info: 4_acoust/Figures/powerBac.png used on input line 632.
 (pdftex.def)             Requested size: 199.16928pt x 149.33531pt.
 
-<4_acoust/Figures/minPower.png, id=1067, 562.2606pt x 421.575pt>
+<4_acoust/Figures/minPower.png, id=1073, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/minPower.png Graphic file (type png)
 
 <use 4_acoust/Figures/minPower.png>
@@ -957,16 +947,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 621--641
 
  []
 
-[83] [84 <./4_acoust/Figures/flowBac.png (PNG copy)> <./4_acoust/Figures/maxFlo
+[85] [86 <./4_acoust/Figures/flowBac.png (PNG copy)> <./4_acoust/Figures/maxFlo
 w.png (PNG copy)> <./4_acoust/Figures/powerBac.png (PNG copy)> <./4_acoust/Figu
-res/minPower.png (PNG copy)>] [85] [86]) [87] (./3_Conclusion/conclusion.tex
+res/minPower.png (PNG copy)>] [87] [88]) [89] (./3_Conclusion/conclusion.tex
 Chapter 6.
-) [88
+[90
 
 
-] (./Appendix/Appendix.tex
+]) [91] (./Appendix/Appendix.tex
 Appendix A.
-[89
+[92
 
 
 ]
@@ -1048,384 +1038,6 @@ Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
- [90]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
- [91]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
- [92]
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ú in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ¶ in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no Ä in font cmr12!
-Missing character: There is no ù in font cmr12!
  [93]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
@@ -1480,13 +1092,391 @@ Missing character: There is no Ä in font cmr12!
 Missing character: There is no ú in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [94]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [95]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
 Missing character: There is no ¶ in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-) [94] (./thesis.bbl [95
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+ [96]
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ú in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ¶ in font cmr12!
+Missing character: There is no ‚ in font cmr12!
+Missing character: There is no Ä in font cmr12!
+Missing character: There is no ù in font cmr12!
+) [97] (./thesis.bbl [98
 
-] [96] [97] [98]
+] [99] [100] [101]
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no î in font cmr12!
@@ -1494,16 +1484,17 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no à in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no à in font cmr12!
- [99] [100]
+ [102]
+[103]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no à in font cmr12!
 
-Overfull \hbox (3.86856pt too wide) in paragraph at lines 442--448
+Overfull \hbox (3.86856pt too wide) in paragraph at lines 449--455
 []\OT1/cmr/m/n/12 Ohlsson, P., Evan-der, M., Pe-ters-son, K., Mell-ham-mar, L.,
  Lehmusvuori, A., Karhunen,
  []
 
-[101] [102]) [103]
+[104] [105]) [106]
 \openout2 = `0_Prelim/cv.aux'.
 
  (./0_Prelim/cv.tex
@@ -1523,20 +1514,20 @@ Overfull \hbox (74.07684pt too wide) in paragraph at lines 62--70
 
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
-[104
+[107
 
 
-] [105]
+] [108]
 Overfull \hbox (74.07684pt too wide) in paragraph at lines 110--119
  [][] 
  []
 
-) [106] (./thesis.aux (./0_Prelim/cv.aux)) ) 
+) [109] (./thesis.aux (./0_Prelim/cv.aux)) ) 
 Here is how much of TeX's memory you used:
- 7479 strings out of 493117
- 112789 string characters out of 6135433
- 241881 words of memory out of 5000000
- 10716 multiletter control sequences out of 15000+600000
+ 7481 strings out of 493117
+ 112818 string characters out of 6135433
+ 241927 words of memory out of 5000000
+ 10718 multiletter control sequences out of 15000+600000
  16993 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,28n,43p,1989b,1247s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1559,12 +1550,11 @@ amsfonts/cm/cmsy6.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmtt12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfont
-s/symbols/msbm10.pfb>
-Output written on thesis.pdf (120 pages, 32491924 bytes).
+ts/cm/cmtt12.pfb>
+Output written on thesis.pdf (123 pages, 32495401 bytes).
 PDF statistics:
- 1213 PDF objects out of 1440 (max. 8388607)
- 793 compressed objects within 8 object streams
+ 1219 PDF objects out of 1440 (max. 8388607)
+ 797 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 500000)
  226 words of extra memory for PDF output out of 10000 (max. 10000000)
 

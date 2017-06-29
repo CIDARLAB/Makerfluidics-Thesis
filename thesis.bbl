@@ -247,6 +247,13 @@ Hill, M., Townsend, R.~J., and Harris, N.~R. (2008).
   particle manipulation.
 \newblock {\em Ultrasonics}, 48(6):521--528.
 
+\bibitem[Hu et~al., 2014]{hu2014}
+Hu, K., Dinh, T.~A., Ho, T.-Y., and Chakrabarty, K. (2014).
+\newblock Control-layer optimization for flow-based mvlsi microfluidic
+  biochips.
+\newblock In {\em Compilers, Architecture and Synthesis for Embedded Systems
+  (CASES), 2014 International Conference on}, pages 1--10. IEEE.
+
 \bibitem[Huang and Densmore, 2014a]{fluigi}
 Huang, H. and Densmore, D. (2014a).
 \newblock Fluigi: Microfluidic device synthesis for synthetic biology.
@@ -314,8 +321,8 @@ Kwok, R. (2010).
 \newblock Five hard truths for synthetic biology.
 \newblock {\em Nature}, 463(7279):288--290.
 
-\bibitem[Lashkaripour et~al., ]{ali2017iwbda}
-Lashkaripour, A., Sanka, R., Lippai, J., and Densmore, D.
+\bibitem[Lashkaripour et~al., 2017]{ali2017iwbda}
+Lashkaripour, A., Sanka, R., Lippai, J., and Densmore, D. (2017).
 \newblock Design automation based on fluid dynamics.
 \newblock In {\em The Proceedings of the 9th International Workshop on
   Bio-Design Automation}.
@@ -357,8 +364,8 @@ Linshiz, G., Jensen, E., Stawski, N., Bi, C., Elsbree, N., Jiao, H., Kim, J.,
   from design to functional analysis.
 \newblock {\em Journal of biological engineering}, 10(1):1.
 
-\bibitem[Lippai et~al., ]{lippai2017iwbda}
-Lippai, J., Sanka, R., Lashkaripour, A., and Densmore, D.
+\bibitem[Lippai et~al., 2017]{lippai2017iwbda}
+Lippai, J., Sanka, R., Lashkaripour, A., and Densmore, D. (2017).
 \newblock Function-driven, graphical design tool for microfluidic chips: 3duf.
 \newblock In {\em The Proceedings of the 9th International Workshop on
   Bio-Design Automation}.
@@ -474,8 +481,8 @@ Ro, D.-K., Paradise, E.~M., Ouellet, M., Fisher, K.~J., Newman, K.~L., Ndungu,
   engineered yeast.
 \newblock {\em Nature}, 440(7086):940--943.
 
-\bibitem[Sanka et~al., ]{krishna2017iwbda}
-Sanka, R., Lippai, J., and Densmore, D.
+\bibitem[Sanka et~al., 2017]{krishna2017iwbda}
+Sanka, R., Lippai, J., and Densmore, D. (2017).
 \newblock mlsi design with mint.
 \newblock In {\em The Proceedings of the 9th International Workshop on
   Bio-Design Automation}.
@@ -527,8 +534,8 @@ Sia, S.~K. and Whitesides, G.~M. (2003).
   biological studies.
 \newblock {\em Electrophoresis}, 24(21):3563--3576.
 
-\bibitem[Silva et~al., ]{silva2016iwbda}
-Silva, R., Sanka, R., and Densmore, D.
+\bibitem[Silva et~al., 2016]{silva2016iwbda}
+Silva, R., Sanka, R., and Densmore, D. (2016).
 \newblock Makerfluidics: Microfluidics for the masses.
 \newblock In {\em The Proceedings of the 8th International Workshop on
   Bio-Design Automation}, pages 63--64.

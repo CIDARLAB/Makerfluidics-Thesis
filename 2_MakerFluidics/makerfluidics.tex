@@ -10,7 +10,7 @@
 \section{Introduction}
 \label{sec:mfIntro}
 
-MakerFluidics is a microfluidic fabrication and control paradigm that operates within a set of constraints guided by the ideals of automation and the modern ``maker movement''. This paradigm integrates into the larger microfluidic design flow shown in Figure \ref{fig:fullflow}, but it can also be employed on its own. MakerFluidics accepts physical and temporal valve control requirements and a microfluidic device layout as inputs and provides the necessary control software, manufacturing files and assembly information required to build a self-contained microfluidic device and control infrastructure.
+MakerFluidics is a microfluidic fabrication and control framework that operates within a set of constraints guided by the ideals of automation and the modern ``maker movement''. This framework integrates into the larger microfluidic design flow shown in Figure \ref{fig:fullflow}, but it can also be employed on its own. MakerFluidics accepts physical and temporal valve control requirements and a microfluidic device design as inputs and provides the necessary control software, manufacturing files and assembly information required to build a self-contained microfluidic device and control infrastructure.
 
 \section{Problem Statement}
 \label{sec:mfPS}
@@ -21,7 +21,7 @@ A significant aim of the modern maker movement is to make technology and technol
     \includegraphics[width=14cm]{fullflow.pdf}
     \medskip
   \end{minipage}\hfill
-  \caption[Specify--Design--Build Workflow]{MakerFluidics is part of a larger microfluidic design flow that spans from biological specification to microfluidic fabrication and control}
+  \caption[Microfluidic specify--design--build workflow]{MakerFluidics is part of a larger microfluidic design flow that spans from biological specification to microfluidic fabrication and control}
     \label{fig:fullflow}
 \end{figure}
 
@@ -34,7 +34,7 @@ To further facilitate microfluidic accessibility, all fabrication and control pr
 
 \begin{table}[H]
 % table caption is above the table
-\caption[Infrastructure Requirements for Soft Lithography versus MakerFluidics]{Necessary infrastructure to perform soft lithography versus that required for MakerFluidics.}
+\caption[Infrastructure requirements for soft lithography versus MakerFluidics]{Necessary infrastructure to perform soft lithography versus that required for MakerFluidics.}
 \label{tab:mfInf}       % Give a unique label
 % For LaTeX tables use
 \centering
@@ -58,7 +58,7 @@ Equipment Overhead & ~\$4,000 & ~\$80,000 \\
 
 Three levels of software are required to design and fabricate a novel chip geometry using a CNC micromill: a computer aided design (CAD) tool is used to create a solid model of the device; computer aided manufacturing (CAM) software generates the commands (also called toolpaths) that are sent directly to the micromill; and control software manages the connection between a computer and the micromill and sends individual toolpaths to the micromill. 
 
-Device designs were created using OpenSCAD \cite{wikiOpenScad}, a free and open source CAD tool that reads script files to generate solid models. The ability to describe a solid model using only text is an important distinction between OpenSCAD and typical 3D modeling software packages (ex., AutoCAD, SolidWorks, etc.), which require geometries to be manually drawn. Text-based modeling allows for automatic generation of device designs using a CAD workflow, such as that shown in Figure \ref{fig:fullflow}. MakerFluidics leverages OpenSCAD by creating device primitives that are stored in custom libraries. As shown in Listing \ref{lst:XposerChip}, these primitives are parametric, allowing them to be ``called'' in a fashion similar to that of an object-based programming language. 
+Device designs were created using OpenSCAD \cite{wikiOpenScad}, a free and open source CAD tool that reads script files to generate solid models. The ability to describe a solid model using only text is an important distinction between OpenSCAD and typical 3D modeling software packages (ex., AutoCAD, SolidWorks, etc.), which often require geometries to be manually drawn. Text-based modeling allows for automatic generation of device designs using a CAD workflow, such as that shown in Figure \ref{fig:fullflow}. MakerFluidics leverages OpenSCAD by creating device primitives that are stored in custom libraries. As shown in Listing \ref{lst:XposerChip}, these primitives are parametric, allowing them to be ``called'' in a fashion similar to that of an object-based programming language. 
 
 \begin{minipage}{0.95\linewidth}
 \centering 
@@ -97,7 +97,7 @@ Channel and valve geometries are etched in thermoplastic polymers using a deskto
 
 \begin{table}[H]
 % table caption is above the table
-\caption[Dimensional Constraints of Soft Lithography versus MakerFluidics]{Published dimensional constraints regarding devices fabricated using the MakerFluidics protocol versus that of soft lithography. Aspect Ratio is defined as feature height to feature width.}
+\caption[Dimensional constraints of soft lithography versus MakerFluidics]{Published dimensional constraints regarding devices fabricated using the MakerFluidics protocol versus that of soft lithography. Aspect Ratio is defined as feature height to feature width.}
 \label{tab:mfDims}       % Give a unique label
 % For LaTeX tables use
 \centering
@@ -109,16 +109,18 @@ Dimension & MakerFluidics & Soft Lithography & Reference \\
 & (often 3:1) & & \cite{qin2010soft}{\smallskip}\\
   \hline\noalign{\smallskip}
 Minimum & Tool Dependant & \multirow{3}{*}{$<$1$\mu$m} & \cite{sweatt2008diamond}\\ 
-Feature Size & (5$\mu$m Demonstrated) & & \cite{qin2010soft}{\smallskip}\\
+Feature & (25$\mu$m Demonstrated) & & \cite{qin2010soft}\\
+Size & (5$\mu$m Theoretical) & & {\smallskip}\\
   \hline\noalign{\smallskip}
   Minimum & \multirow {3}{*}{25$\mu$m} & \multirow{3}{*}{$<$1$\mu$m} & \cite{yen2016cost}\\ 
-Feature Spacing & & & \cite{qin2010soft}{\smallskip}\\
+Feature & & & \cite{qin2010soft}\\
+Spacing & & & {\smallskip}\\
   \hline\noalign{\smallskip}
   Bonding Capacity & \multirow{2}{*}{5 psi} & \multirow{2}{*}{50 psi} & \cite{mcdonald2002poly}{\smallskip}\\
   \hline\noalign{\smallskip}
 \multirow{3}{*}{Materials} & Thermoplastics & PDMS & \cite{schaller1999microstructure}\\
 & Soft Metals & Silicon & \cite{qin2010soft}\\
-& Cured Thermosets & & \cite{qin2010soft}\\
+& Cured Thermosets & & \\
 \noalign{\smallskip}\hline
 \end{tabular}
 \end{table}
@@ -133,7 +135,7 @@ Once geometries are etched into the desired substrate, sealing these channels be
     \includegraphics[width=14cm]{fabFlow.pdf}
     \medskip
   \end{minipage}\hfill
-  \caption[MakerFluidics Fabrication Protocol]{Workflow for fabricating microfluidics using the MakerFluidics framework.}
+  \caption[The MakerFluidics fabrication protocol]{Workflow for fabricating microfluidics using the MakerFluidics framework.}
     \label{fig:fabFlow}
 \end{figure}
 
@@ -142,7 +144,7 @@ Once geometries are etched into the desired substrate, sealing these channels be
 
 \section{Experimental Control}
 \label{sec:mfControl}
-MakerFluidics views experimental conditions as a sequence of temporally-specified valve conditions. This necessitates a data structure consisting of an enumerated array of valve objects and a sequence of temporal specifications regarding their state. This data structure can be automatically generated by microfluidic CAD software developed in house, but it can also be created manually as a series of wait statements and valve conditions shown in Figure \ref{fig:sequence}. These valve objects are linked to the microfluidic layout provided to the fabrication software through the use of a JSON object for display in a graphical user interface (GUI).
+MakerFluidics views experimental conditions as a sequence of temporally-specified valve conditions. This necessitates a data structure consisting of an enumerated array of valve objects and a sequence of temporal specifications regarding their state. This data structure can be automatically generated by microfluidic CAD software developed in house, but it can also be created manually as a series of wait statements and valve conditions shown in Figure \ref{fig:sequence}. These valve objects are linked to the microfluidic layout provided to the fabrication software through the use of a graphical user interface (GUI).
 
 Pneumatics are provided through an array of 3D printed syringe pumps controlled by custom firmware on an Arduino microcontroller. This microcontroller receives serial commands derived from the GUI running on a host computer. The MakerFluidics control GUI and firmware is extensible and interoperable with a conventional, solenoid-driven control infrastructure.
 
@@ -154,3 +156,7 @@ Pneumatics are provided through an array of 3D printed syringe pumps controlled 
   \caption[Valving sequence temporal specification]{The temporal specification (A) \cite{thies2008} for a device containing six valves (B, C). The specification in (A) dictates the set of conditions in (B) to begin the assay. After 2000ms the valves change state to that shown in (C), thus affecting the movement of fluid through the device.}
     \label{fig:sequence}
 \end{figure}
+
+\section{Applicability of MakerFluidics}
+\label{sec:mfApplicability}
+While the collection of protocols and technologies that define MakerFluidics may seem simplistic, the relevance of the framework was demonstrated by  its ability to design, fabricate, and control a complex network of novel microfluidic primitives, as described in the subsequent chapter. Additionally the framework was used to fabricate experimentally relevant devices in industry. This work is presented in Chapter \ref{chapter:acoust}.
