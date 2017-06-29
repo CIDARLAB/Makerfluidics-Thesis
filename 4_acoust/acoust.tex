@@ -20,7 +20,7 @@ The force exerted on a particle by the acoustically-driven standing pressure wav
 Silicon, glass, or metal devices are commonly used for acoustophoresis because the rigid channel walls provide a near ideal acoustic boundary against the sample fluid, enhancing the required standing wave resonance \cite{barnkob2009acoustofluidics}\cite{hill2008modelling}. This ideal boundary simplifies design because one-dimensional analysis can be used to estimate the resonant modes in the channel-fluid system. However, the rigid materials used in these devices are relatively expensive and slow to manufacture, have limited compatibility with many biological samples, and pose challenges to produce as disposable laboratory tools \cite{nge2013advances}.  On the other hand, our recent work has demonstrated acoustophoresis in plastic, showing that acoustic separation of RBCs is possible in polystyrene, opening the door to low-cost diagnostic and therapeutic devices \cite{mueller2013continuous}.
 
 
-However, the design of optimized plastic acoustofluidic devices is hampered by complex boundary conditions relative to those of more rigid materials, and a satisfactory predictive model is not yet established, because the one-dimensional approximations are inaccurate and the channel walls can no longer be considered ideally rigid \cite{mueller2013continuous}.  Moreover, even for rigid materials, a sophisticated 2-dimensional analysis does not appear to easily predict experimental performance in detail \cite{garofalo2016performance}\cite{bora2015efficient}. To further optimize the geometry of acoustic microfluidics in plastic, a parametrized experimental investigation provides an expanded database for comparison with simulation and can give performance improvements without the need for simulation.  
+However, the design of optimized plastic acoustofluidic devices is hampered by complex boundary conditions relative to those of more rigid materials, and a satisfactory predictive model is not yet established, because the one-dimensional approximations are inaccurate and the channel walls can no longer be considered ideally rigid \cite{mueller2013continuous}.  Moreover, even for rigid materials, a sophisticated two-dimensional analysis does not appear to easily predict experimental performance in detail \cite{garofalo2016performance}\cite{bora2015efficient}. To further optimize the geometry of acoustic microfluidics in plastic, a parametrized experimental investigation provides an expanded database for comparison with simulation and can give performance improvements without the need for simulation.  
 
 This study used rapid prototyping, statistical design of experiments, and rapid experimental screening to obtain a better-performing device geometry when compared to the only other plastic, acoustofluidic blood--bacteria separation device in literature \cite{mueller2013continuous}, which will be referred to as the \textit{baseline}. The baseline was designed in accordance with the existing one-dimensional hard-wall theory and no further optimization had been attempted. The devices tested varied in cross section dimensions. 
 
@@ -39,7 +39,7 @@ While plastic acoustofluidic devices can be produced in volume using methods suc
   \begin{minipage}[t]{0.99\linewidth}\centering
     \includegraphics[width=14cm]{flow.pdf}
   \end{minipage}\hfill
-  \caption[Rapid prototyping workflow]{Iterative rapid prototyping and testing workflow. The design space was first seeded using a design of experiments tool known as an orthogonal array, which minimizes the number of necessary experiments when compared to a full-factorial experimental analysis (Section \ref{ssec:seeding}). Trends were then identified within single geometric variables and experimentally explored. These variable isolation studies were repeated until a fully functional design set was achieved (Section \ref{ssec:iso}). The best performing device geometry emerging from the workflow, Chip 2.0, is then compared to the baseline (Section \ref{ssec:comparison}).}
+  \caption[Rapid prototyping workflow]{Iterative rapid prototyping and testing workflow. The design space was first seeded using a design of experiments tool known as an orthogonal array, which minimizes the number of necessary experiments when compared to a full-factorial experimental analysis (Section \ref{ssec:seeding}). Trends were then identified within single geometric variables and experimentally explored. These variable isolation studies were repeated until a fully functional design set was achieved (Section \ref{ssec:iso}). The best performing device geometry emerging from the workflow, Chip 2.0, is then compared to the baseline using image processing, blood separation, and, finally, bacterial separation tests (Section \ref{ssec:comparison}).}
 \label{fig:flow}       % Give a unique label
 \end{figure}
 
@@ -58,7 +58,7 @@ Figure \ref{fig:flow} illustrates the iterative workflow used in conducting the 
     \medskip
     \centerline{(b)}
   \end{minipage}
-  \caption[Acoustofluidic separation device and 2D geometric definitions]{Acoustic separation device. (a) Complete trifurcated microfluidic separation chip. (b) Definitions for each two-dimensional geometry included in the study. Note that the definitions apply to fluidic channel upstream of the trifurcation.} 
+  \caption[Acoustofluidic separation device and 2D geometric definitions]{Acoustic separation device. (a) Complete trifurcated microfluidic separation chip. (b) Definitions for each two-dimensional geometry included in the study. Note that the definitions apply to the fluidic channel upstream of the trifurcation.} 
   \label{fig:geometry}
 \end{figure}
 
@@ -72,7 +72,7 @@ Figure \ref{fig:geometry}a. is a top-down, two-dimensional drawing of the trifur
 \label{sec:rp}
 This study relied upon the ability to design and fabricate iterations of chip geometries in a rapid process informed by experimental tests. The traditional workflow of conventional machining requires a fully specified mechanical drawing and changes to the design may demand regeneration of the solid model and revised setup of the milling instrument.  This section describes how these limitations were mitigated using free and open-source design software in conjunction with a \$3,199 USD desktop micromill (Othermill Pro, Other Machine Co., Berkeley, CA, USA).  Microchannels with parameterized dimensions were systematically fabricated with a minimum of operator intervention.
 
-\begin{minipage}{0.99\linewidth}
+\begin{minipage}{0.95\linewidth}
 \begin{lstlisting}[caption={The custom OpenSCAD library allows solid model creation using just a single line of code},label={lst:chip}, frame=single, language=scad]
   chip(Wc=0.55,Hc=0.25,Ws=0.85,YPos=high);
 \end{lstlisting}
@@ -86,7 +86,7 @@ This study relied upon the ability to design and fabricate iterations of chip ge
   \label{fig:listing1}
 \end{figure}
 
-\begin{minipage}{0.99\linewidth}
+\begin{minipage}{0.95\linewidth}
 \begin{lstlisting}[caption={The single line of code in Listing \ref{lst:chip} can then be iterated upon to form an array of different device geometries that can be sent directly to a CAM tool for toolpath generation}, label={lst:chipLayout}, frame=single, language=scad]
 include<chip.scad>
 

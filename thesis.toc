@@ -15,7 +15,7 @@
 \contentsline {subsection}{\numberline {3.5.1}Pattern Geometries}{19}
 \contentsline {subsection}{\numberline {3.5.2}Seal Layers}{21}
 \contentsline {section}{\numberline {3.6}Experimental Control}{22}
-\contentsline {section}{\numberline {3.7}Applicability of MakerFluidics}{24}
+\contentsline {section}{\numberline {3.7}Applicability of MakerFluidics}{23}
 \contentsline {chapter}{\numberline {4}A reconfigurable continuous-flow fluidic routing fabric using a modular, scalable primitive}{25}
 \contentsline {section}{\numberline {4.1}Introduction}{25}
 \contentsline {section}{\numberline {4.2}Problem Statement}{25}
@@ -42,8 +42,8 @@
 \contentsline {subsection}{\numberline {4.7.2}Comparison with Other Programmable Architectures}{46}
 \contentsline {subsection}{\numberline {4.7.3}Integration into a larger functional architecture}{47}
 \contentsline {subsection}{\numberline {4.7.4}Example Architecture}{50}
-\contentsline {subsection}{\numberline {4.7.5}Dynamic Reconfiguration}{51}
-\contentsline {subsection}{\numberline {4.7.6}Future Work}{52}
+\contentsline {subsection}{\numberline {4.7.5}Dynamic Reconfiguration}{52}
+\contentsline {subsection}{\numberline {4.7.6}Future Work}{53}
 \contentsline {section}{\numberline {4.8}Conclusions}{54}
 \contentsline {chapter}{\numberline {5}Rapid prototyping of parameterized acoustofluidic microchannels towards isolation of bacteria for point of care diagnostics}{55}
 \contentsline {section}{\numberline {5.1}Introduction}{55}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUN 2017 13:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUN 2017 15:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,7 +456,7 @@ ver-sus a cor-rectly routed
 \openout6 = `thesis.lof'.
 
  [13]
-Overfull \hbox (36.573pt too wide) in paragraph at lines 134--152
+Overfull \hbox (36.573pt too wide) in paragraph at lines 134--153
  [] 
  []
 
@@ -495,16 +495,21 @@ File: 1a_background/Figures/idastFlow.pdf Graphic file (type pdf)
 Package pdftex.def Info: 1a_background/Figures/idastFlow.pdf used on input line
  66.
 (pdftex.def)             Requested size: 369.88582pt x 144.23624pt.
- [13 <./1a_background/Figures/idastFlow.pdf>]
-<1a_background/Figures/idastUfFlow.pdf, id=165, 651.43375pt x 251.94125pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13]
+<1a_background/Figures/idastUfFlow.pdf, id=151, 651.43375pt x 251.94125pt>
 File: 1a_background/Figures/idastUfFlow.pdf Graphic file (type pdf)
 
 <use 1a_background/Figures/idastUfFlow.pdf>
 Package pdftex.def Info: 1a_background/Figures/idastUfFlow.pdf used on input li
 ne 77.
 (pdftex.def)             Requested size: 369.88582pt x 143.05826pt.
-) [14 <./1a_background/Figures/idastUfFlow.pdf>] (./2_MakerFluidics/makerfluidi
-cs.tex
+) [14 <./1a_background/Figures/idastFlow.pdf> <./1a_background/Figures/idastUfF
+low.pdf>]
+(./2_MakerFluidics/makerfluidics.tex
 Chapter 3.
 <2_MakerFluidics/Figures/fullflow.pdf, id=184, 740.7675pt x 647.41875pt>
 File: 2_MakerFluidics/Figures/fullflow.pdf Graphic file (type pdf)
@@ -653,28 +658,25 @@ File: 3_xposer/Figures/fig8.pdf Graphic file (type pdf)
 <use 3_xposer/Figures/fig8.pdf>
 Package pdftex.def Info: 3_xposer/Figures/fig8.pdf used on input line 331.
 (pdftex.def)             Requested size: 426.79134pt x 173.09837pt.
- [48 <./3_xposer/Figures/fig8.pdf>] [49]
-[50] <3_xposer/Figures/fig9.pdf, id=794, 1813.77625pt x 1019.81pt>
+ [48 <./3_xposer/Figures/fig8.pdf>]
+<3_xposer/Figures/fig9.pdf, id=788, 1813.77625pt x 1019.81pt>
 File: 3_xposer/Figures/fig9.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig9.pdf>
-Package pdftex.def Info: 3_xposer/Figures/fig9.pdf used on input line 357.
+Package pdftex.def Info: 3_xposer/Figures/fig9.pdf used on input line 348.
 (pdftex.def)             Requested size: 426.79134pt x 239.9666pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<3_xposer/Figures/fig10.pdf, id=795, 1314.9125pt x 842.14626pt>
+[49] [50 <./3_xposer/Figures/fig9.pdf>] [51]
+<3_xposer/Figures/fig10.pdf, id=816, 1314.9125pt x 842.14626pt>
 File: 3_xposer/Figures/fig10.pdf Graphic file (type pdf)
 
 <use 3_xposer/Figures/fig10.pdf>
-Package pdftex.def Info: 3_xposer/Figures/fig10.pdf used on input line 367.
+Package pdftex.def Info: 3_xposer/Figures/fig10.pdf used on input line 366.
 (pdftex.def)             Requested size: 398.33858pt x 255.11305pt.
- [51]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[52 <./3_xposer/Figures/fig9.pdf>] [53 <./3_xposer/Figures/fig10.pdf>])
+ [52 <./3_xposer/Figures/fig10.pdf>] [53])
 [54] (./4_acoust/acoust.tex
 Chapter 5.
 [55
@@ -701,10 +703,6 @@ File: 4_acoust/Figures/2D.pdf Graphic file (type pdf)
 Package pdftex.def Info: 4_acoust/Figures/2D.pdf used on input line 57.
 (pdftex.def)             Requested size: 398.33858pt x 143.89302pt.
  [59 <./4_acoust/Figures/chip.pdf> <./4_acoust/Figures/2D.pdf>]
-Overfull \hbox (13.29099pt too wide) in paragraph at lines 75--80
-[]$[]$ 
- []
-
 <4_acoust/Figures/PaperExampleListing1.png, id=950, 2569.6pt x 1377.145pt>
 File: 4_acoust/Figures/PaperExampleListing1.png Graphic file (type png)
 
@@ -721,10 +719,6 @@ LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 91.
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 101.
-
-Overfull \hbox (13.29099pt too wide) in paragraph at lines 89--113
-[]$[]$ 
- []
 
 <4_acoust/Figures/ExampleLayout.png, id=951, 2569.6pt x 1377.145pt>
 File: 4_acoust/Figures/ExampleLayout.png Graphic file (type png)
@@ -1551,7 +1545,7 @@ sfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt12.pfb>
-Output written on thesis.pdf (123 pages, 32495401 bytes).
+Output written on thesis.pdf (123 pages, 32495799 bytes).
 PDF statistics:
  1219 PDF objects out of 1440 (max. 8388607)
  797 compressed objects within 8 object streams

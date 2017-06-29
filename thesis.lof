@@ -1,7 +1,7 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {2$\cdot $1}{\ignorespaces Specialized equipment required to performform soft lithography}}{7}
-\contentsline {figure}{\numberline {2$\cdot $2}{\ignorespaces System-level view of IDAST}}{13}
+\contentsline {figure}{\numberline {2$\cdot $2}{\ignorespaces System-level view of IDAST}}{14}
 \contentsline {figure}{\numberline {2$\cdot $3}{\ignorespaces Block diagram of IDAST sample processing via microfluidics}}{14}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3$\cdot $1}{\ignorespaces Microfluidic specify--design--build workflow}}{16}
@@ -18,8 +18,8 @@
 \contentsline {figure}{\numberline {4$\cdot $6}{\ignorespaces Graphical representations of an illegally routed versus a correctly routed graph}}{42}
 \contentsline {figure}{\numberline {4$\cdot $7}{\ignorespaces Photographs of all possible permutations for a three-input routing fabric}}{47}
 \contentsline {figure}{\numberline {4$\cdot $8}{\ignorespaces Electronic and Microfluidic programmable routing blocks}}{48}
-\contentsline {figure}{\numberline {4$\cdot $9}{\ignorespaces Electronic and Microfludic programmable architectures}}{52}
-\contentsline {figure}{\numberline {4$\cdot $10}{\ignorespaces Example of a functional, programmable microfluidic architecture}}{53}
+\contentsline {figure}{\numberline {4$\cdot $9}{\ignorespaces Electronic and Microfludic programmable architectures}}{50}
+\contentsline {figure}{\numberline {4$\cdot $10}{\ignorespaces Example of a functional, programmable microfluidic architecture}}{52}
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {5$\cdot $1}{\ignorespaces Rapid prototyping workflow}}{58}
 \contentsline {figure}{\numberline {5$\cdot $2}{\ignorespaces Acoustofluidic separation device and 2D geometric definitions}}{59}
