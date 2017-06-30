@@ -10,7 +10,7 @@
 \section{Introduction}
 \label{sec:mfIntro}
 
-MakerFluidics is a microfluidic fabrication and control framework that operates within a set of constraints guided by the ideals of automation and the modern ``maker movement''. This framework integrates into the larger microfluidic design flow shown in Figure \ref{fig:fullflow}, but it can also be employed on its own. MakerFluidics accepts physical and temporal valve control requirements and a microfluidic device design as inputs and provides the necessary control software, manufacturing files and assembly information required to build a self-contained microfluidic device and control infrastructure.
+MakerFluidics is a microfluidic fabrication and control framework that operates within a set of constraints guided by the ideals of automation and the modern ``maker movement''. This framework integrates into the larger microfluidic design flow shown in Figure \ref{fig:fullflow}, but it can also be employed on its own. MakerFluidics accepts physical and temporal valve control requirements and a microfluidic device design as inputs and provides the necessary control software, manufacturing files, and assembly information required to build a self-contained microfluidic device and control infrastructure.
 
 \section{Problem Statement}
 \label{sec:mfPS}
@@ -58,7 +58,7 @@ Equipment Overhead & ~\$4,000 & ~\$80,000 \\
 
 Three levels of software are required to design and fabricate a novel chip geometry using a CNC micromill: a computer aided design (CAD) tool is used to create a solid model of the device; computer aided manufacturing (CAM) software generates the commands (also called toolpaths) that are sent directly to the micromill; and control software manages the connection between a computer and the micromill and sends individual toolpaths to the micromill. 
 
-Device designs were created using OpenSCAD \cite{wikiOpenScad}, a free and open source CAD tool that reads script files to generate solid models. The ability to describe a solid model using only text is an important distinction between OpenSCAD and typical 3D modeling software packages (ex., AutoCAD, SolidWorks, etc.), which often require geometries to be manually drawn. Text-based modeling allows for automatic generation of device designs using a CAD workflow, such as that shown in Figure \ref{fig:fullflow}. MakerFluidics leverages OpenSCAD by creating device primitives that are stored in custom libraries. As shown in Listing \ref{lst:XposerChip}, these primitives are parametric, allowing them to be ``called'' in a fashion similar to that of an object-based programming language. 
+Device designs were created using OpenSCAD \cite{wikiOpenScad}, a free and open source CAD tool that reads script files to generate solid models. The ability to describe a solid model using only text is an important distinction between OpenSCAD and typical 3D modeling software packages (e.g., AutoCAD, SolidWorks, etc.), which often require geometries to be manually drawn. Text-based modeling allows for automatic generation of device designs using a CAD workflow, such as that shown in Figure \ref{fig:fullflow}. MakerFluidics leverages OpenSCAD by creating device primitives that are stored in custom libraries. As shown in Listing \ref{lst:XposerChip}, these primitives are parametric, allowing them to be ``called'' in a fashion similar to that of an object-based programming language. 
 
 \begin{minipage}{0.95\linewidth}
 \centering 
@@ -67,7 +67,7 @@ Device designs were created using OpenSCAD \cite{wikiOpenScad}, a free and open 
 \end{lstlisting}
 \end{minipage}
 
-Once a solid model is created using a CAD tool, the solid model must be imported by CAM software in order to generate the toolpaths that will be sent to the mill. MakerFluidics uses Autodesk Fusion 360 to create toolpaths for 3D models, such as mesh models (ex., an STL file). All three CNC mills tested in the lab have machine-specific control software with the capability to directly process 2D models, such as a vector-graphics file (ex., an SVG file). All of the CAM software listed above is free, but not necessarily open source. A standard operating procedure for interacting with Fusion 360 in order to generate toolpaths and operate the Othermill V2 or the Othermill Pro can be found in Appendix \ref{appendix}.
+Once a solid model is created using a CAD tool, the solid model must be imported by CAM software in order to generate the toolpaths that will be sent to the mill. MakerFluidics uses Autodesk Fusion 360 to create toolpaths for 3D models, such as mesh models (e.g., an STL file). All three CNC mills tested in the lab have machine-specific control software with the capability to directly process 2D models, such as a vector-graphics file (e.g., an SVG file). All of the CAM software listed above is free, but not necessarily open source. A standard operating procedure for interacting with Fusion 360 in order to generate toolpaths and operate the Othermill V2 or the Othermill Pro can be found in Appendix \ref{appendix}.
 
 
 \begin{figure}[h]
@@ -75,7 +75,7 @@ Once a solid model is created using a CAD tool, the solid model must be imported
     \includegraphics[width=14cm]{params.pdf}
     \medskip
   \end{minipage}\hfill
-  \caption[Example device parameters]{Example parameters associated with a network of transposer primitives. The primitive and routing topology are presented in detail in Chapter \ref{chapter:xposer}. (A) shows the baseline device. (B) illustrates modifying the channel parameter to make the channels wider. (C) shows how the valve dimensions can be modified using a parameter associated with valve radius. (D) shows how the entire device can scale in the x-dimension using yet another parameter.}
+  \caption[Example device parameters]{Example parameters associated with a network of transposer primitives. The primitive and routing topology are presented in detail in Chapter \ref{chapter:xposer}. (A) shows the baseline device. The control layer is shown above the flow layer. (B) illustrates modifying the channel parameter to make the channels wider. (C) shows how the valve dimensions can be modified using a parameter associated with valve radius. (D) shows how the entire device can scale in the x-dimension using yet another parameter.}
     \label{fig:mfParams}
 \end{figure}
 
@@ -84,7 +84,7 @@ Once a solid model is created using a CAD tool, the solid model must be imported
 The fabrication of a microfluidic device typically has two main steps: pattern geometries and seal layers \cite{mcdonald2002poly}.
 
 \subsection{Pattern Geometries}
-Channel and valve geometries are etched in thermoplastic polymers using a desktop CNC mill. This stands in sharp contrast from conventional methods of microfluidic fabrication, namely photolithography and wet etching, which require the use of clean room facilities and highly specialized equipment. The CNC approach is well-suited for integrating valving technologies such as monolithic membrane valves \cite{grover2003monolithic} (Figure \ref{fig:valves}) and centrifugal capillary valves \cite{madou1998labcd}. A significant trade-off for the relative ease of CNC milling thermoplastics using a desktop (i.e., not industrial-grade) CNC mill is that the maximum resolution is ~25$\mu$m with an exponential increase in reliability seen at feature sizes greater than 250$\mu$m \cite{guckenberger2015micromilling}, whereas microfluidic geometries using conventional methods such as photolithography can reliably achieve features smaller than 1$\mu$m \cite{mcdonald2002poly}.
+Channel and valve geometries are etched in thermoplastic polymers using a desktop CNC mill. This stands in sharp contrast from conventional methods of microfluidic fabrication, namely photolithography, which requires the use of clean room facilities and highly specialized equipment. The CNC approach is well-suited for integrating valving technologies such as monolithic membrane valves \cite{grover2003monolithic} (Figure \ref{fig:valves}) and centrifugal capillary valves \cite{madou1998labcd}. A significant trade-off for the relative ease of CNC milling thermoplastics using a desktop (i.e., not industrial-grade) CNC mill is that the maximum resolution is ~25$\mu$m with an exponential increase in reliability seen at feature sizes greater than 250$\mu$m \cite{guckenberger2015micromilling}, whereas microfluidic geometries using conventional methods such as photolithography can reliably achieve features smaller than 1$\mu$m \cite{mcdonald2002poly}.
 
 \begin{figure}[h]
   \begin{minipage}[t]{0.99\linewidth}\centering
@@ -127,7 +127,7 @@ Spacing & & & {\smallskip}\\
 
 
 \subsection{Seal Layers}
-Once geometries are etched into the desired substrate, sealing these channels becomes the next challenge. Polydimethylsiloxane (PDMS) is a common material for fabricating microfluidics \cite{mcdonald2002poly} and is also commonly used to encapsulate solar panels and outdoor lighting. It is because of the latter property that PDMS (Sylgard 184, Dow Corning) is available through retail outlets, such as Amazon, and, thus, falls within the constraints for adoption by the MakerFluidics fabrication paradigm. PDMS can be sealed irreversibly through modifications to its surface chemistry via plasma or corona exposure or sealed reversibly simply using the material's inherent van der Waals attraction to various materials including itself, glass and thermoplastics \cite{mcdonald2002poly}. Since irreversible sealing through surface treatments involves specialized machinery, MakerFluidics employs the latter method via Van der Waals force. The trade-off being that the reversible seal cannot withstand pressures greater than 5psi \cite{mcdonald2002poly}. The entire protocol is summarized in Figure \ref{fig:fabFlow}.
+Once geometries are etched into the desired substrate, sealing these channels becomes the next challenge. Polydimethylsiloxane (PDMS) is a common material for fabricating microfluidics \cite{mcdonald2002poly} and is also commonly used to encapsulate solar panels and outdoor lighting. It is because of the latter property that PDMS (Sylgard 184, Dow Corning) is available through retail outlets, such as Amazon, and, thus, falls within the constraints for adoption by the MakerFluidics fabrication paradigm. PDMS can be sealed irreversibly through modifications to its surface chemistry via plasma or corona exposure or sealed reversibly simply using the material's inherent van der Waals attraction to various materials including itself, glass, and thermoplastics \cite{mcdonald2002poly}. Since irreversible sealing through surface treatments involves specialized machinery, MakerFluidics employs the latter method via van der Waals force. The trade-off being that the reversible seal cannot withstand pressures greater than 5 psi \cite{mcdonald2002poly}. The entire protocol is summarized in Figure \ref{fig:fabFlow}.
 
 
 \begin{figure}[h]
@@ -153,10 +153,10 @@ Pneumatics are provided through an array of 3D printed syringe pumps controlled 
     \includegraphics[width=14cm]{sequence.pdf}
     \medskip
   \end{minipage}\hfill
-  \caption[Valving sequence temporal specification]{The temporal specification (A) \cite{thies2008} for a device containing six valves (B, C). The specification in (A) dictates the set of conditions in (B) to begin the assay. After 2000ms the valves change state to that shown in (C), thus affecting the movement of fluid through the device.}
+  \caption[Valving sequence temporal specification]{The temporal specification (A) \cite{thies2008} for a transposer device (presented in Chapter \ref{chapter:xposer}) containing six valves (B, C). The specification in (A) dictates the set of conditions in (B) to begin the assay. After 2000ms the valves change state to that shown in (C), thus affecting the movement of fluid through the device.}
     \label{fig:sequence}
 \end{figure}
 
 \section{Applicability of MakerFluidics}
 \label{sec:mfApplicability}
-While the collection of protocols and technologies that define MakerFluidics may seem simplistic, the relevance of the framework was demonstrated by  its ability to design, fabricate, and control a complex network of novel microfluidic primitives, as described in Chapter \ref{chapter:xposer}. Additionally the framework was used to fabricate experimentally relevant devices in industry. This work is presented in Chapter \ref{chapter:acoust}.
+While the collection of protocols and technologies that define MakerFluidics may seem simplistic, the relevance of the framework was demonstrated by  its ability to design, fabricate, and control a complex network of novel microfluidic primitives, as described in Chapter \ref{chapter:xposer}. Additionally the framework was used to fabricate experimentally relevant devices in industry; this work is presented in Chapter \ref{chapter:acoust}.

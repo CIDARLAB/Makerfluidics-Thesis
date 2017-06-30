@@ -45,7 +45,7 @@
 \contentsline {subsection}{\numberline {4.7.5}Dynamic Reconfiguration}{52}
 \contentsline {subsection}{\numberline {4.7.6}Future Work}{53}
 \contentsline {section}{\numberline {4.8}Conclusions}{54}
-\contentsline {chapter}{\numberline {5}Rapid prototyping of parameterized acoustofluidic microchannels towards isolation of bacteria for point of care diagnostics}{55}
+\contentsline {chapter}{\numberline {5}Rapid prototyping and parametric optimization of plastic acoustofluidic devices for blood--bacteria separation}{55}
 \contentsline {section}{\numberline {5.1}Introduction}{55}
 \contentsline {section}{\numberline {5.2}Problem Statment}{56}
 \contentsline {section}{\numberline {5.3}Experimental Methodology}{60}

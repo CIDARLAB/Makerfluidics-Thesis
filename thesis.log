@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  29 JUN 2017 15:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  30 JUN 2017 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -430,12 +430,17 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [8
 
 
-] [9])
+]
+Overfull \hbox (0.20056pt too wide) in paragraph at lines 48--48
+ [] []\OT1/cmr/bx/n/12 Rapid pro-to-typ-ing and para-met-ric op-ti-miza-tion of
+ plas-tic acoustoflu- 
+ []
+
+[9])
 \tf@toc=\write4
 \openout4 = `thesis.toc'.
 
-
-[10] (./thesis.lot)
+ [10] (./thesis.lot)
 \tf@lot=\write5
 \openout5 = `thesis.lot'.
 
@@ -1545,7 +1550,7 @@ sfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt12.pfb>
-Output written on thesis.pdf (123 pages, 32495799 bytes).
+Output written on thesis.pdf (123 pages, 32495919 bytes).
 PDF statistics:
  1219 PDF objects out of 1440 (max. 8388607)
  797 compressed objects within 8 object streams
