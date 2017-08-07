@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  30 JUN 2017 14:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  7 AUG 2017 09:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -398,8 +398,13 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <14.4> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 81.
 
-Underfull \hbox (badness 6220) in paragraph at lines 81--81
-\OT1/cmr/m/n/14.4 All rights re-served Chap-ter 4[]
+Underfull \hbox (badness 1460) in paragraph at lines 81--81
+\OT1/cmr/m/n/14.4 from Lab Chip with per-mis-sion
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 81--81
+\OT1/cmr/m/n/14.4 istry. Chap-ter 5[] adapted from
  []
 
 [2
@@ -531,6 +536,9 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ] [16 <./2_MakerFluidics/Figures/fullflow.pdf>] [17]
+
+LaTeX Warning: Citation `wikiOpenScad' on page 18 undefined on input line 61.
+
 <2_MakerFluidics/Figures/params.pdf, id=331, 470.75874pt x 318.18875pt>
 File: 2_MakerFluidics/Figures/params.pdf Graphic file (type pdf)
 
@@ -736,8 +744,11 @@ Package pdftex.def Info: 4_acoust/Figures/ExampleLayout.png used on input line
 Overfull \vbox (16.18745pt too high) has occurred while \output is active []
 
 
-[61 <./4_acoust/Figures/PaperExampleListing1.png (PNG copy)>] [62 <./4_acoust/F
-igures/ExampleLayout.png (PNG copy)>] [63]
+[61 <./4_acoust/Figures/PaperExampleListing1.png (PNG copy)>]
+
+LaTeX Warning: Citation `wikiOpenScad' on page 62 undefined on input line 127.
+
+[62 <./4_acoust/Figures/ExampleLayout.png (PNG copy)>] [63]
 <4_acoust/Figures/Baseline3PromFlow.png, id=967, 562.2606pt x 421.575pt>
 File: 4_acoust/Figures/Baseline3PromFlow.png Graphic file (type png)
 
@@ -1473,7 +1484,7 @@ Missing character: There is no ¶ in font cmr12!
 Missing character: There is no ‚ in font cmr12!
 Missing character: There is no Ä in font cmr12!
 Missing character: There is no ù in font cmr12!
-) [97] (./thesis.bbl [98
+) [97] [98
 
 ] [99] [100] [101]
 Missing character: There is no ‚ in font cmr12!
@@ -1483,51 +1494,57 @@ Missing character: There is no Ã in font cmr12!
 Missing character: There is no à in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no à in font cmr12!
- [102]
-[103]
+ [102] [103]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no à in font cmr12!
 
-Overfull \hbox (3.86856pt too wide) in paragraph at lines 449--455
+Overfull \hbox (3.86856pt too wide) in paragraph at lines 585--591
 []\OT1/cmr/m/n/12 Ohlsson, P., Evan-der, M., Pe-ters-son, K., Mell-ham-mar, L.,
  Lehmusvuori, A., Karhunen,
  []
 
-[104] [105]) [106]
+[104]
+Overfull \hbox (16.27571pt too wide) in paragraph at lines 680--684
+\OT1/cmr/m/it/12 na-tional Con-fer-ence on Ad-v-naces in So-cial Net-works Anal
+-y-sis and Min-ing (ASONAM)\OT1/cmr/m/n/12 ,
+ []
+
+[105] [106]
 \openout2 = `0_Prelim/cv.aux'.
 
  (./0_Prelim/cv.tex
-Overfull \hbox (71.85046pt too wide) in paragraph at lines 23--37
+Overfull \hbox (71.85046pt too wide) in paragraph at lines 26--40
  [][] 
  []
 
 
-Overfull \hbox (74.07684pt too wide) in paragraph at lines 46--53
+Overfull \hbox (74.07684pt too wide) in paragraph at lines 49--56
  [][] 
  []
 
 
-Overfull \hbox (74.07684pt too wide) in paragraph at lines 62--70
+Overfull \hbox (74.07684pt too wide) in paragraph at lines 65--73
  [][] 
  []
 
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 78.
 [107
 
 
 ] [108]
-Overfull \hbox (74.07684pt too wide) in paragraph at lines 110--119
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 105.
+
+Overfull \hbox (74.07684pt too wide) in paragraph at lines 116--125
  [][] 
  []
 
 ) [109] (./thesis.aux (./0_Prelim/cv.aux)) ) 
 Here is how much of TeX's memory you used:
- 7481 strings out of 493117
- 112818 string characters out of 6135433
- 241927 words of memory out of 5000000
- 10718 multiletter control sequences out of 15000+600000
- 16993 words of font info for 65 fonts, out of 8000000 for 9000
+ 7480 strings out of 493117
+ 112827 string characters out of 6135433
+ 242105 words of memory out of 5000000
+ 10720 multiletter control sequences out of 15000+600000
+ 17599 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,28n,43p,1989b,1247s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist
@@ -1550,7 +1567,7 @@ sfonts/cm/cmsy8.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmti10.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmti12.pfb></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmtt12.pfb>
-Output written on thesis.pdf (123 pages, 32495919 bytes).
+Output written on thesis.pdf (123 pages, 32496463 bytes).
 PDF statistics:
  1219 PDF objects out of 1440 (max. 8388607)
  797 compressed objects within 8 object streams

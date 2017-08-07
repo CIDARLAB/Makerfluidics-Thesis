@@ -21,8 +21,8 @@ Alanis, A.~J. (2005).
 Alexander, M.~J., Cohoon, J.~P., Colflesh, J.~L., Karro, J., and Robins, G.
   (1995).
 \newblock Three-dimensional field-programmable gate arrays.
-\newblock In {\em Proc. Eighth Annual IEEE Int. ASIC Conf. and Exhibit}, pages
-  253--256.
+\newblock In {\em Proceedings of the Eighth Annual IEEE International ASIC
+  Conference and Exhibit}, pages 253--256.
 
 \bibitem[Amin et~al., 2009]{amin2009}
 Amin, N., Thies, W., and Amarasinghe, S. (2009).
@@ -614,10 +614,6 @@ Weibel, D.~B., DiLuzio, W.~R., and Whitesides, G.~M. (2007).
 Whitesides, G.~M. (2006).
 \newblock The origins and the future of microfluidics.
 \newblock {\em Nature}, 442(7101):368--373.
-
-\bibitem[Wikibooks, 2017]{wikiOpenScad}
-Wikibooks (2017).
-\newblock Openscad user manual --- wikibooks, the free textbook project.
 
 \bibitem[Wohlwend and Rosenbaum, 1993]{OnTimeDelivery}
 Wohlwend, H. and Rosenbaum, S. (1993).

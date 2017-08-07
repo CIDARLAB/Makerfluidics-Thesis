@@ -19,53 +19,54 @@ Repeated entry---line 1889 of file mf.bib
 I'm skipping whatever remains of this entry
 Database file #3: sb.bib
 Database file #4: ece.bib
-Repeated entry---line 79 of file ece.bib
+Repeated entry---line 80 of file ece.bib
  : @article{khuri2010response
  :                           ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "wikiOpenScad"
 Warning--can't use both volume and number fields in barnkob2009acoustofluidics
 Warning--empty journal in world2004world
 Warning--there's a number but no volume in kleeman1987metastable
 Warning--can't use both volume and number fields in todman2005reconfigurable
-You've used 111 entries,
+You've used 110 entries,
             1935 wiz_defined-function locations,
-            1100 strings with 24359 characters,
-and the built_in function-call counts, 49928 in all, are:
-= -- 4946
-> -- 2205
-< -- 67
-+ -- 779
-- -- 754
-* -- 4459
-:= -- 8473
-add.period$ -- 346
-call.type$ -- 111
-change.case$ -- 926
-chr.to.int$ -- 110
-cite$ -- 115
-duplicate$ -- 1786
-empty$ -- 3422
-format.name$ -- 926
-if$ -- 9804
+            1098 strings with 24316 characters,
+and the built_in function-call counts, 49692 in all, are:
+= -- 4922
+> -- 2198
+< -- 66
++ -- 777
+- -- 752
+* -- 4444
+:= -- 8426
+add.period$ -- 344
+call.type$ -- 110
+change.case$ -- 920
+chr.to.int$ -- 109
+cite$ -- 114
+duplicate$ -- 1776
+empty$ -- 3407
+format.name$ -- 923
+if$ -- 9761
 int.to.chr$ -- 2
 int.to.str$ -- 0
 missing$ -- 113
-newline$ -- 556
-num.names$ -- 333
-pop$ -- 804
+newline$ -- 552
+num.names$ -- 330
+pop$ -- 800
 preamble$ -- 1
-purify$ -- 928
+purify$ -- 922
 quote$ -- 0
-skip$ -- 1336
+skip$ -- 1327
 stack$ -- 0
-substring$ -- 3796
+substring$ -- 3784
 swap$ -- 271
 text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 658
+type$ -- 652
 warning$ -- 4
-while$ -- 421
+while$ -- 419
 width$ -- 0
-write$ -- 1453
+write$ -- 1443
 (There were 4 error messages)
